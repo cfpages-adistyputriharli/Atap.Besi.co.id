@@ -135,12 +135,12 @@ If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` ma
 
 ### Existing local routes
 
-- `/genteng-metal-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/spandek/galvalum/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
 
 ### Planned sibling articles
 

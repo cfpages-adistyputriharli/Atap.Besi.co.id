@@ -135,12 +135,12 @@ If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` ma
 
 ### Existing local routes
 
-- `/category/atap-spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-yogyakarta-2.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-yogyakarta-2` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/spandek/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/spandek/kliplok/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/spandek/lengkung/` — use only if it helps the reader's next step; verify the anchor describes the destination.
 
 ### Planned sibling articles
 

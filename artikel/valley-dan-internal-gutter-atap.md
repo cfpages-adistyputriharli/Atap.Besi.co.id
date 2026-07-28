@@ -104,12 +104,12 @@ If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` ma
 
 ### Existing local routes
 
-- `/atap-seng-tebing-tinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/atap-seng-tebing-tinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/atap-galvalum-tebing-tinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/atap-galvalum-tebing-tinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-tebing-tinggi.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek-tebing-tinggi` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
 
 ### Planned sibling articles
 

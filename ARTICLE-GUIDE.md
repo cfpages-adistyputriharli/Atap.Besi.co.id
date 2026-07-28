@@ -57,7 +57,7 @@ Replace `[slug]` with the assigned filename. If `$env:OneDrive` is unavailable, 
 - Write as if the thought began in Indonesian, not as an English technical sentence translated word by word.
 - Reader understanding takes precedence over displaying technical vocabulary. State the plain idea first, define every necessary trade/English term immediately, then explain what it changes for the reader.
 - Never leave an acronym or imported term unexplained on first use. Put the Indonesian meaning first and the accepted abbreviation in parentheses when it remains useful.
-- Remove accidental Chinese/Japanese/Korean or other unrelated-script residue. Do not copy an unfamiliar glyph merely because it appeared in generated text.
+- Remove accidental Chinese/Japanese/Korean or other unrelated-script residue. Reject mojibake/encoding corruption such as `�`, `Ã`, `Â`, `â€™`, `â€œ`, `â€”`, `â€¦`, `ðŸ`, or `ï»¿`; rewrite the affected text into clean Indonesian before validation rather than copying or hiding it.
 - Treat English planning labels inherited from the outline as internal wording, not approved public prose. Translate bare `scope`, `hold point`, `handover`, `baseline`, `shortcut`, `cutout`, `red flag`, `brief`, `review`, `finishing`, `artwork`, `approved drawing`, and `release`; keep a trade term only after its Indonesian meaning is clear.
 - Do not force an uncommon Indonesian translation for a term that Indonesians naturally use in English or as a loanword. Keep familiar terms such as `stainless steel`; explain them only when the intended reader may not understand them.
 - Keep titles and headings Indonesian-first. Put useful imported component labels such as `face`, `return`, `backing`, or `mounting` in a first-use body explanation.
@@ -134,7 +134,7 @@ The front matter's `publication_date` is the appointed historical CMS date. Pres
 - No instruction bullets remain in the public article body.
 - Front matter remains valid and `status` is `draft`.
 - All immutable front-matter values still match the assigned outline exactly, and `date_modified` remains unchanged.
-- No unrelated foreign-script residue, duplicated paragraph, or public production scaffold remains.
+- No unrelated foreign-script residue, mojibake/encoding corruption, duplicated paragraph, or public production scaffold remains.
 - The draft ends with an actionable conclusion and honest boundary.
 
 No HTML hydration, deployment, sitemap generation, or GSC submission is authorized by this guide.
