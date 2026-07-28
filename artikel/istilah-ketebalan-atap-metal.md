@@ -2,8 +2,9 @@
 article_id: RFM-02-A02
 title: "Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan"
 slug: "istilah-ketebalan-atap-metal"
-description: "Explain substrate versus coated/painted thickness, tolerance, measurement method, location, and why seller numbers may differ"
-status: outline
+description: "Memahami beda ketebalan baja dasar dan total lapisan agar perbandingan penawaran atap metal tidak keliru."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-31"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,54 +17,93 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
-  - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
   - "https://www.iso.org/standard/81435.html"
   - "https://www.iso.org/standard/71136.html"
   - "https://www.iso.org/standard/79581.html"
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
-  - "https://store.astm.org/e1646-95r24.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan
 
-## Assignment lock
+Halo, Teman Besi.co.id! Saat membandingkan penawaran atap metal, angka ketebalan yang tampak sama belum tentu menunjuk benda yang sama. Satu penjual bisa menulis ketebalan baja dasarnya, sementara penjual lain menulis tebal keseluruhan setelah lapisan metalik dan cat ikut dihitung.
 
-- **Writer task:** Expand this file into one complete article answering: “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”
-- **Reader and situation:** Buyer comparing quotations
-- **Reader outcome:** Explain substrate versus coated/painted thickness, tolerance, measurement method, location, and why seller numbers may differ
-- **Primary intent:** Compare thickness claims
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set acceptance thickness; RFM-12-A05 owns receiving criteria
-- **Final public route:** `/artikel/istilah-ketebalan-atap-metal.html`
-- **Appointed CMS date:** `2025-07-31` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: minta penawaran menyebutkan dengan jelas apakah angka itu **base metal thickness** (ketebalan baja dasar) atau **total coated thickness** (ketebalan total bersama lapisan), termasuk toleransi, cara ukur, dan lokasi pengukuran. Tanpa empat keterangan itu, selisih angka bukan otomatis berarti salah satu penjual menipu. Bisa jadi cara mereka mendefinisikan dan mengukur berbeda.
 
-## Opening instructions
+![Ilustrasi jual genteng metal stone coated 1](/wp-content/uploads/2026/03/jual-genteng-metal-stone-coated-1.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
+## Definisi dan batas objek
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Ketebalan baja dasar adalah jarak pada lembaran sebelum lapisan pelindung ditambahkan. Dalam bahasa spesifikasi, bagian baja ini sering disebut substrat. Ketebalan total adalah hasil pengukuran dari permukaan terluar satu sisi ke permukaan terluar sisi lain, sehingga lapisan seng, paduan metalik, primer, cat, atau butiran pelapis dapat ikut masuk.
+
+Bayangkan kartu tipis yang diberi beberapa lapisan cat. Kartu dan cat sama-sama menambah jarak, tetapi fungsi dan cara memeriksanya berbeda. Baja dasar lebih berkaitan dengan bahan lembaran yang dibentuk, sedangkan lapisan berkaitan dengan perlindungan terhadap lingkungan. Angka total tidak boleh dipakai sendirian untuk menyimpulkan kekuatan atau umur atap.
+
+Artikel ini membantu Anda membaca klaim dan menyamakan istilah saat meminta penawaran. Artikel ini tidak menetapkan angka penerimaan barang, batas minimum untuk proyek tertentu, atau keputusan struktur; kriteria penerimaan harus datang dari dokumen proyek dan tinjauan profesional melalui [NEEDS G-01/G-13: standar produk, edisi, dan kriteria penerimaan yang berlaku belum ditetapkan dalam paket ini].
+
+## Cara kerjanya
+
+Perbedaan biasanya mulai dari dokumen penawaran. Pabrik dapat mendeklarasikan ketebalan nominal baja, sedangkan pemeriksa lapangan memakai mikrometer atau alat ukur lain pada titik tertentu. Jika alat membaca permukaan berlapis, hasilnya mendekati total coated thickness; jika lapisan dilepas atau metode ditujukan untuk material dasar, hasilnya mendekati base metal thickness.
+
+Angka nominal juga bukan janji bahwa setiap milimeter lembaran persis sama. Proses pengerolan, pemotongan, pembentukan profil, dan pelapisan memiliki variasi. Karena itu, ketebalan perlu dibaca bersama toleransi yang ditulis oleh spesifikasi produk. Jangan menebak toleransi dari angka iklan atau membandingkan angka nominal satu produk dengan hasil ukur aktual produk lain.
+
+Metode uji menentukan arti angka. ISO 6892-1 menjelaskan metode pengujian tarik pada suhu ruang, sedangkan ISO 377 membahas pemilihan dan penyiapan benda uji baja; keduanya menunjukkan bahwa hasil pengujian harus dikaitkan dengan asal spesimen, arah, lokasi, kondisi, satuan, dan identitas produk atau heat. Sumber-sumber itu tidak otomatis membuktikan satu lembar atap memenuhi spesifikasi tertentu: metode hanya menjelaskan cara menguji, sementara spesifikasi produk menentukan nilai yang disyaratkan dan tindak lanjutnya ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html); [ISO 377:2017](https://www.iso.org/standard/72529.html)).
+
+Hal yang sama berlaku untuk dokumen inspeksi. ISO 10474 menempatkan dokumen inspeksi dalam hubungan dengan pesanan, produsen, produk, heat atau batch, dimensi, pengujian, dan penandaan fisik. Jadi, sertifikat tanpa jejak identitas yang cocok dengan bundel atau coil yang Anda terima belum cukup untuk menyamakan angka di kertas dengan barang di depan mata ([ISO 10474:2013](https://www.iso.org/standard/53736.html)).
+
+Jika hasil datang dari laboratorium, kompetensi laboratorium dan ruang lingkup akreditasinya perlu dibaca sebagai konteks kepercayaan terhadap hasil, bukan sebagai bukti otomatis bahwa barang tertentu sudah sesuai. ISO/IEC 17025 membantu menilai kompetensi laboratorium; identitas benda uji dan kriteria produk tetap harus dicocokkan secara terpisah ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
+
+## Faktor yang mengubah hasil
+
+Lokasi ukur dapat mengubah hasil karena bagian puncak dan lembah profil tidak selalu mudah dijangkau alat. Tepi potongan bisa mengalami perubahan bentuk, sementara area yang tergores atau tertekuk mungkin tidak lagi mewakili kondisi awal. Minta penjual dan pemeriksa mencatat titik ukur, orientasi alat, serta apakah pengukuran dilakukan pada lembar datar, puncak profil, atau sisi balik.
+
+Lapisan juga tidak selalu seragam. Pelapisan kontinu pada lembaran berbeda dari galvanisasi celup panas setelah fabrikasi. ISO 1461 dan ISO 14713-2 membahas konteks barang fabrikasi dan pertimbangan desain galvanisasi; ISO 1460 membahas metode gravimetrik untuk massa lapisan. Nama “galvanis” saja tidak memberitahu rute pelapisan, produk dasar, atau standar yang mengaturnya ([ISO 1461:2022](https://www.iso.org/standard/81435.html); [ISO 14713-2:2019](https://www.iso.org/standard/71136.html); [ISO 1460:2020](https://www.iso.org/standard/79581.html)).
+
+Lingkungan pemakaian mengubah prioritas pemeriksaan. Paparan air dan kondensasi, garam, polutan, celah, kontak dengan logam berbeda, suhu, kerusakan saat pemasangan, serta kemudahan perawatan memengaruhi kebutuhan sistem perlindungan. ISO 12944-2 dan ISO 12944-5 berguna untuk memahami klasifikasi lingkungan dan sistem cat, tetapi halaman katalognya menandai adanya revisi; kategori, persiapan permukaan, ketebalan lapisan kering, dan umur layanan harus dikonfirmasi dari bagian standar terkini, data pabrikan, dan fakta lokasi ([ISO 12944-2:2017](https://www.iso.org/standard/64834.html); [ISO 12944-5:2019](https://www.iso.org/standard/77795.html)).
+
+Sobat Besi.co.id, kondisi sekitar rumah atau bangunan sering dianggap detail kecil saat memilih angka ketebalan. Padahal, atap dekat pantai, area industri, atau ruang dengan kondensasi tinggi menuntut pertanyaan perlindungan yang berbeda dari gudang kering; catat kondisi itu sebelum membandingkan harga.
+
+Singkatnya, lapisan lebih tebal tidak otomatis memperbaiki semua masalah. Jika atap berada di lingkungan asin tetapi detail sambungan menahan air, angka lapisan saja tidak menyelesaikan sumber korosi. Sebaliknya, baja dasar yang lebih tebal tidak menggantikan kebutuhan memilih sistem pelindung dan akses perawatan yang sesuai.
+
+## Contoh keputusan praktis
+
+Misalkan penawaran A menulis “0,35 mm” dan penawaran B menulis “0,40 mm coated”. Jangan langsung memilih B karena angkanya lebih besar. Tanyakan apakah 0,35 mm adalah baja dasar, apakah 0,40 mm diukur dari permukaan ke permukaan, apa toleransinya, dan apakah kedua angka berasal dari metode serta lokasi ukur yang sebanding.
+
+Kawan Besi.co.id, bila pemasok menjawab dengan istilah yang belum Anda kenal, minta mereka menuliskan arti istilah itu di penawaran. Satu kalimat definisi sekarang lebih murah daripada perdebatan ketika barang sudah tiba dan hasil ukur tidak cocok.
+
+Jika A dapat menunjukkan lembar data yang memisahkan ketebalan baja dan massa atau ketebalan lapisan, sedangkan B hanya memberi satu angka tanpa definisi, A lebih mudah diaudit—bukan berarti otomatis lebih baik. Keputusan akhir tetap perlu mencocokkan profil, bentang, tumpuan, pengikat, dan persyaratan proyek. Uji atau inspeksi yang hanya dilakukan pada satu kupon tidak boleh digeneralisasi ke seluruh stok tanpa rencana sampling dan identitas yang jelas.
+
+Untuk membantu percakapan dengan pemasok, kirim pertanyaan tertulis seperti ini: “Angka ketebalan yang ditawarkan adalah base metal atau total coated? Toleransi nominalnya berapa? Metode alat dan titik ukurnya apa? Dokumen mana yang mengikat, dan bagaimana nomor coil atau batch dicocokkan saat serah terima?” Jawaban yang konsisten di penawaran, lembar data, label bundel, dan sertifikat mengurangi ruang salah tafsir.
+
+Bila Anda membutuhkan referensi produk untuk memulai pembandingan, lihat [pilihan genteng metal stone coated](/genteng-metal/stone-coated/) atau [kategori genteng metal](/genteng-metal/). Halaman tersebut membantu mengenali jenis produk, tetapi bukan pengganti dokumen teknis untuk ketebalan dan penerimaan.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah menganggap “lebih tebal” selalu berarti “lebih kuat”. Kekuatan dan kinerja atap juga dipengaruhi bentuk profil, mutu baja, jarak tumpuan, pengikat, sambungan, dan beban. Daftar standar sistem atap ASTM sendiri menempatkan panel, tumpuan, klip, sambungan, penutup, penetrasi, drainase, dan pemasangan sebagai satu sistem; label panel saja tidak membuktikan kedap air atau tahan uplift pada proyek Anda ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)).
+
+Kesalahan kedua adalah mencampur satuan dan besaran. Ketebalan dinyatakan sebagai panjang, sedangkan lapisan galvanis kadang dilaporkan sebagai massa per luas. Jangan mengubah massa lapisan menjadi mikrometer dengan rumus buatan sendiri tanpa kepadatan, metode, dan aturan produk yang jelas.
+
+Kesalahan ketiga adalah mengukur satu titik lalu menyimpulkan seluruh lembar. Buat catatan sederhana: identitas barang, tanggal, alat, kalibrasi bila tersedia, titik ukur, kondisi permukaan, dan hasil berulang. Jika hasil berbeda jauh, tahan keputusan dan minta penjelasan pemasok atau pemeriksaan pihak kompeten.
+
+Kesalahan keempat adalah menyamakan standar asing dengan kewajiban Indonesia. Catatan ASTM atau ISO dapat menjelaskan metode dan ruang lingkup, tetapi bukan otomatis persyaratan kontrak atau regulasi lokal. Untuk produk yang dibeli, cocokkan catatan BSN dan dokumen pengadaan yang benar-benar berlaku; jangan mengutip nomor standar tanpa membaca status dan cakupannya.
+
+## Jalan pintas yang tampak praktis
+
+Jalan pintas yang sering dipilih adalah memakai angka paling besar dari dua penawaran lalu menganggap masalah selesai. Cara ini gagal bila angka besar ternyata total lapisan, sementara angka kecil adalah baja dasar, atau bila toleransi dan lokasi pengukuran berbeda.
+
+Alternatif yang lebih aman adalah membuat satu baris perbandingan dengan kolom: ketebalan baja dasar, lapisan atau massa lapisan, ketebalan total bila tersedia, toleransi, metode, titik ukur, identitas batch, dan dokumen sumber. Jika satu kolom kosong, tandai sebagai pertanyaan terbuka, bukan diisi dengan perkiraan. [NEEDS G-03/G-05/G-09: dokumen produk, standar coating, dan rencana sampling proyek harus ditinjau sebelum menetapkan penerimaan.]
+
+## Kesimpulan
+
+Base metal thickness menjelaskan baja sebelum dilapisi, sedangkan total coated thickness menjelaskan seluruh tumpukan dari permukaan ke permukaan. Keduanya bisa benar dalam konteks masing-masing, tetapi tidak boleh dibandingkan sebelum definisi, toleransi, metode, lokasi, dan identitas barang disamakan.
+
+Teman Besi.co.id, langkah berikutnya sederhana: minta pemasok menuliskan istilah yang dipakai, cocokkan dengan lembar data dan nomor batch, lalu serahkan kriteria penerimaan kepada dokumen proyek serta peninjau teknis yang berwenang. Aturan operasionalnya: jangan mengambil keputusan dari satu angka ketebalan; ambil keputusan dari angka yang definisinya jelas dan buktinya dapat ditelusuri.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -74,165 +114,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jual genteng metal stone coated 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `atap.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 16 topic families and 96 briefs. The repository proves an editorial/commercial route inventory, not actual product identities, stock, coatings, profiles, tests, structural calculations, installed assemblies, manufacturer approvals, prices, service areas, warranties, or project performance.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-35
-
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-01, G-03, G-05, G-09, G-13, G-19, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-02-A01` → `/artikel/membaca-spesifikasi-material-coating-atap.html` — Cara Membaca Spesifikasi Material dan Coating Atap Metal
-- `RFM-02-A03` → `/artikel/lapisan-metalik-dan-cat-atap.html` — Lapisan Metalik dan Cat: Fungsi Setiap Layer pada Atap
-- `RFM-02-A04` → `/artikel/warna-dan-finish-atap-metal.html` — Warna dan Finish Atap: Tampilan, Panas, Pudar, dan Bukti
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Base Metal Thickness, Total Coated Thickness, dan Istilah Ketebalan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->
