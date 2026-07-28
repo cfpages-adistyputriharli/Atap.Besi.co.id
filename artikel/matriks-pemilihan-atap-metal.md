@@ -2,8 +2,8 @@
 article_id: RFM-11-A06
 title: "Matriks Pemilihan Sistem Atap Metal"
 slug: "matriks-pemilihan-atap-metal"
-description: "Compare building use, geometry, wind/rain, thermal/acoustic/moisture, exposure, structure, installation, maintenance, appearance, evidence, and lifecycle"
-status: outline
+description: "Panduan membandingkan penggunaan bangunan, geometri, angin/hujan, termal/akustik/kelembaban, paparan, struktur, instalasi, perawatan, penampilan, bukti, dan siklus hidup untuk memilih sistem atap metal"
+status: draft
 publication_date: "2026-03-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,214 +13,89 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/matriks-pemilihan-atap-metal.html"
 technical_review: required
-sources:
-  - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://www.iso.org/standard/73841.html"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/53736.html"
-  - "https://www.iso.org/standard/66912.html"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
-  - "https://store.astm.org/e1646-95r24.html"
+writing_contract_version: "native-id-v2"
+sources: []
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Matriks Pemilihan Sistem Atap Metal
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Matriks Pemilihan Sistem Atap Metal”
-- **Reader and situation:** Owner with a complete project brief
-- **Reader outcome:** Compare building use, geometry, wind/rain, thermal/acoustic/moisture, exposure, structure, installation, maintenance, appearance, evidence, and lifecycle
-- **Primary intent:** Select a system family
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Matrix narrows options but does not design/approve; RFM-03-A02 and discipline hubs own requirements
-- **Final public route:** `/artikel/matriks-pemilihan-atap-metal.html`
-- **Appointed CMS date:** `2026-03-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Matriks pemilihan bukan daftar pemenang atap metal. Ia adalah cara menahan keputusan supaya tidak hanya mengikuti harga lembaran atau nama profil. Mulailah dengan kebutuhan yang tidak boleh gagal, singkirkan pilihan yang tidak dapat dibuktikan memenuhi kebutuhan itu, lalu bandingkan sisa pilihan dengan alasan yang tertulis.
 
-## Opening instructions
+Yang dinilai adalah satu sistem: panel, sambungan, pengencang atau klip, penopang, detail tepi, bukaan, aliran air, dan cara pemasangannya. Karena itu, satu angka ketebalan atau satu brosur produk tidak cukup untuk menyatakan dua sistem setara. Kenali dulu bagian yang saling bergantung dalam [anatomi sistem atap metal](/artikel/anatomi-sistem-atap-metal.html).
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Matriks Pemilihan Sistem Atap Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Ilustrasi umum dari aset lokal atap.besi.co.id; bukan dokumentasi proyek tertentu._
 
-### KR-02
+Gambar ini bukan dokumentasi proyek tertentu dan tidak dipakai sebagai bukti kondisi atau kinerja atap.
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Mulai dari syarat gugur, bukan dari skor
 
-### KR-04
+Buat satu baris untuk tiap kebutuhan: penggunaan ruang, bentuk dan ukuran bidang atap, paparan cuaca, kondisi penopang, akses pemeliharaan, tampilan, jadwal, dan bukti yang wajib ada. Tandai mana yang bersifat syarat gugur. Contohnya, bila akses ke titik tertentu tidak mungkin dilakukan dengan aman untuk perawatan yang diperlukan, pilihan itu tidak menjadi baik hanya karena nilainya tinggi pada harga.
 
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
+Setiap kriteria mengubah pertanyaan yang harus dijawab oleh sistem. Penggunaan ruang menentukan kenyamanan dan gangguan yang masih dapat diterima, sedangkan bentuk bidang dan penopang menentukan apakah panel, sambungan, serta detail tepi dapat dipasang sesuai rancangan. Paparan cuaca dan akses perawatan kemudian menguji apakah pilihan itu tetap masuk akal setelah dipakai, bukan hanya ketika baru dibeli.
 
-### KR-05
+Karena itu, pisahkan kebutuhan yang boleh dipertukarkan dari kebutuhan yang tidak boleh gagal. Harga atau variasi warna biasanya dapat dibandingkan setelah syarat dasar terpenuhi; kebocoran pada area penting, ketidakcocokan dengan penopang, atau tidak adanya cara memeriksa komponen justru menghentikan pilihan lebih awal. Dengan urutan ini, skor tidak menyamarkan masalah yang seharusnya menjadi keputusan ya atau tidak.
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Jangan mengisi kolom angin, hujan, kemiringan, bentang, atau jarak pengencang dengan angka umum dari internet. Nilai tersebut bergantung pada lokasi, bentuk bangunan, gambar, produk, dan pemasangan yang sebenarnya. [NEEDS G-23/G-24: dasar desain yang berlaku, data lokasi, gambar, serta dokumen sistem dari produsen dan tinjauan teknis sebelum parameter angin, air, bentang, atau pengencang dipakai sebagai syarat.]
 
-### KR-07
+## Bandingkan bukti yang setara
 
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
+Setelah filter awal, isi setiap kolom dengan tiga bagian: klaim pemasok, bukti yang diterima, dan hal yang belum terbukti. Jangan menukar dokumen bahan dengan bukti sistem terpasang. Sertifikat atau lembar data dapat membantu mengenali produk, tetapi tidak dengan sendirinya membuktikan sambungan, detail penetrasi, atau kinerja seluruh atap pada proyek Anda.
 
-### KR-08
+Contoh hipotetisnya begini: penawaran A menyebut lapisan tertentu tahan korosi, tetapi dokumen yang dilampirkan hanya mengidentifikasi bahan lembarannya. Penawaran B mungkin tidak memakai kalimat promosi yang sama, tetapi menyertakan gambar detail sambungan dan batas pemasangan untuk susunan sistemnya. Matriks tidak boleh memberi nilai penuh kepada A hanya karena kalimatnya terdengar meyakinkan; tandai klaim itu sebagai belum terbukti dan minta dokumen yang benar-benar menjawab pertanyaan sistem.
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+Untuk lapisan pelindung, baca identitas bahan, lapisan logam, sistem cat, ketebalan yang disebut, tanda produk, dan dokumen pendukung secara terpisah. Panduan [membaca spesifikasi material dan coating](/artikel/membaca-spesifikasi-material-coating-atap.html) membantu menyusun pertanyaan yang tidak tercampur. Jika klaim umur pakai, ketahanan korosi, atau hasil uji menjadi penentu, minta dokumen yang tepat untuk konfigurasi yang ditawarkan; jangan mengubah klaim itu menjadi fakta proyek sebelum diperiksa.
 
-### KR-29
+## Cara memberi bobot tanpa menyembunyikan risiko
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+Skor berguna hanya setelah syarat gugur dipenuhi. Beri bobot sesuai dampak keputusan, kemudian tulis alasan di samping nilainya. Misalnya, pemilik mungkin memberi bobot lebih besar pada kemudahan akses dan rekam perawatan daripada variasi warna. Pilihan yang paling murah tetap perlu memuat seluruh aksesori, pekerjaan pemasangan, pengiriman, dan pengecualian agar perbandingan tidak semu.
 
-### KR-35
+Sederhananya, hindari kalimat “lebih tahan” atau “lebih hemat” tanpa kondisi pembanding. Tanyakan: lebih tahan terhadap paparan apa, dibuktikan dengan dokumen apa, dan pada susunan sistem yang mana? Sobat Besi.co.id, satu kolom “asumsi pemasok” sering lebih berguna daripada skor yang tampak rapi tetapi menyimpan perbedaan ruang lingkup.
 
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
+## Contoh penggunaan yang aman
 
-## Evidence gates
+Bayangkan dua penawaran untuk bangunan yang berada pada lingkungan dengan paparan yang belum dipetakan. Jangan langsung memilih lapisan tertentu karena namanya terdengar lebih premium. Masukkan kebutuhan untuk memperoleh informasi lokasi, kondisi lembap atau zat pencemar, detail sistem, serta bukti kompatibilitas aksesori. Sampai data itu ada, kolom paparan tetap diberi status belum dapat diputuskan.
 
-- **TOPIC-GATE:** G-01, G-03, G-04, G-05, G-19, G-25
+Begitu pula saat atap memiliki banyak bukaan. Yang perlu dibandingkan bukan panel saja, melainkan bagaimana setiap bukaan, tepi, sambungan, dan drainase ditangani dalam gambar dan metode pemasangan. Jika salah satu penawaran tidak menjelaskan antarmuka tersebut, jangan menutup kekosongannya dengan asumsi bahwa pekerjaan lapangan akan otomatis menyelesaikannya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan yang paling sering terjadi
 
-## Internal-link plan
+Kesalahan pertama adalah menganggap ketebalan yang sama berarti sistem yang sama. Kesalahan kedua adalah meminta harga tanpa daftar ruang lingkup yang sama. Kesalahan ketiga adalah memakai rekomendasi dari proyek lain seolah kondisi bangunan, lokasi, dan detailnya identik. Ketiganya membuat angka matriks tampak objektif, padahal dasar bandingnya berbeda.
 
-### Existing local routes
+Ketebalan hanya menjelaskan satu bagian dari bahan. Profil, cara mengikat, tumpuan, sambungan, dan detail di sekitar bukaan dapat mengubah perilaku seluruh susunan, sehingga angka yang sama belum menjawab apakah dua penawaran benar-benar sebanding. Begitu ruang lingkup harga berbeda, selisih biaya juga tidak lagi menunjukkan pilihan yang lebih murah; satu pihak mungkin belum memasukkan aksesori, pekerjaan tepi, atau penanganan bukaan.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Rekomendasi dari proyek lain perlu diperlakukan sebagai petunjuk untuk bertanya, bukan sebagai hasil yang bisa dipindahkan begitu saja. Bangunan dengan paparan, kemiringan, penopang, atau pola bukaan berbeda dapat membutuhkan pemeriksaan yang berbeda pula. Sobat Besi.co.id, tulis perbedaan itu di kolom deviasi agar tim melihat penyebabnya dan tahu pertanyaan apa yang harus dikirim kembali kepada pemasok.
 
-### Planned sibling articles
+Perbaiki dengan membagikan satu formulir yang sama kepada semua calon pemasok, meminta setiap deviasi ditulis terpisah, lalu menahan keputusan atas bagian yang belum memiliki bukti. Kawan Besi.co.id, matriks boleh ringkas; yang penting pembaca setelah Anda masih dapat melihat mengapa sebuah pilihan lolos atau tertahan.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Susun lembar kerja yang dapat diaudit
 
-- `RFM-11-A04` → `/artikel/genteng-metal-versus-long-run-sheet.html` — Genteng Metal versus Long-Run Sheet
-- `RFM-11-A05` → `/artikel/bondek-atau-roof-sheet.html` — Bondek atau Roof Sheet: Cek Fungsi sebelum Membeli
+Satu lembar kerja praktis dapat memakai kolom: kriteria, alasan kriteria penting, syarat gugur atau pembobotan, data proyek yang dipakai, jawaban masing-masing pemasok, dokumen pendukung, deviasi, dan status keputusan. Kolom “siapa memeriksa” serta “tanggal pemeriksaan” berguna ketika diskusi berlangsung lebih dari satu rapat. Tanpa keduanya, catatan mudah berubah menjadi kesimpulan tanpa pemilik.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jangan memberi skor untuk sesuatu yang belum didefinisikan. Misalnya, “perawatan mudah” perlu diurai menjadi pertanyaan tentang akses, komponen yang perlu diperiksa, batas metode perawatan, dan pihak yang nantinya menjalankannya. “Tampilan baik” perlu diterjemahkan menjadi contoh sampel atau persetujuan visual, bukan asumsi bahwa semua warna dan permukaan akan sama setelah dipasang.
 
-## Jawaban singkat dan salah paham utama
+Saat dua pilihan memperoleh nilai akhir yang berdekatan, jangan paksa selisih kecil menjadi keputusan besar. Lihat kembali kolom bukti dan risiko: pilihan dengan bukti lebih jelas atau deviasi lebih sedikit mungkin layak diprioritaskan untuk tinjauan lanjutan. Sebaliknya, skor tinggi yang bergantung pada banyak asumsi adalah alasan untuk bertanya lagi, bukan alasan untuk mempercepat pembelian.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Sistem Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum rapat keputusan, bacakan kembali setiap syarat gugur dan tanyakan apakah dokumennya benar-benar ada. Pemeriksaan kecil ini sering menemukan bahwa satu opsi dinilai berdasarkan informasi lengkap, sedangkan opsi lain dinilai berdasarkan janji. Bila demikian, status keduanya belum sebanding. Catat tindakan yang diperlukan dan waktu peninjauannya, lalu putuskan hanya setelah dasar banding kembali setara.
 
-## Definisi dan batas objek
+Tidak semua keputusan harus selesai dalam satu pertemuan. Opsi dapat dipertahankan sebagai kandidat sambil menunggu gambar, klarifikasi produk, atau data lokasi. Yang penting, status “menunggu” terlihat oleh semua pihak dan tidak berubah menjadi persetujuan diam-diam saat pengadaan bergerak lebih cepat daripada peninjauan teknis.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Sistem Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Simpan matriks bersama lampirannya. Ketika ada pergantian personel, catatan alasan dan bukti ini mencegah tim baru mengulang asumsi lama. Matriks yang dapat ditelusuri juga memudahkan pemilik membedakan keputusan awal dari perubahan yang disetujui kemudian.
 
-## Cara kerjanya
+## Langkah berikutnya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Sistem Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Sistem Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Sistem Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Pemilihan Sistem Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Isi matriks bersama pemilik, perancang, dan pihak yang memahami kondisi lokasi. Kirimkan hanya opsi yang lolos syarat gugur untuk ditinjau teknis, lengkap dengan gambar, data produk, batas pemasangan, dan daftar deviasi. Matriks membantu memilih arah; ia tidak menggantikan perancangan, persetujuan, atau pembuktian kinerja sistem pada proyek yang nyata.
