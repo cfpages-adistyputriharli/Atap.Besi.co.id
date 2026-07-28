@@ -88,6 +88,9 @@ Replace `[slug]` with the assigned filename. If `$env:OneDrive` is unavailable, 
 
 - `GLOBAL_RESEARCH.md` was used to prepare the packet, but it is not a public source. Cite the original URLs embedded in the assigned article.
 - A standards catalogue page proves identity/status/public scope only, not hidden clauses.
+- Before drafting, classify every packet source as `use` or `omit` from the packet's stated safe fact/purpose/limit; this classification is private and must not appear in the article. Never cite a source merely to consume the packet. If its recorded subject is unrelated to the title, omit it.
+- In this repository, SNI 9172:2023 is recorded as a welding-wire standard and must never be presented as proof of roof water penetration, wind resistance, coating, panel geometry, span, or installed performance. ISO/ASTM/ASME catalogue or committee-jurisdiction pages establish record identity/scope only; they do not supply product-specific values or project acceptance.
+- Profile span, coating composition/thickness, minimum slope, fastener spacing, test thresholds, service life, and installed performance require a directly relevant manufacturer/test/project source. Without one, keep the statement conditional and preserve a precise technical-review gate.
 - A method does not prove a real product or project passed.
 - A material property does not automatically prove installed-system performance.
 - Foreign guidance is not Indonesian law.
@@ -147,6 +150,7 @@ The assigned outline contains one managed `Image plan` copied from `IMAGE_CATALO
 
 1. Place the primary image after the opening has already given the short answer, unless the plan names another section.
 2. Convert the plan's `Exact Markdown to insert` code into a real Markdown image line in the public article body. Do not leave the URL only inside the internal instruction block.
+2a. Preserve the hidden plan label and code exactly as `**Exact Markdown to insert:** \`![alt](route)\``; do not paraphrase the label, remove its backticks, create another hidden comment, or render an image when the plan carries a `[NEEDS IMAGE REVIEW]` gate.
 3. Use the exact URL and supplied alt-text brief. Make alt text concise and functional; do not add details that are not stated by the filename/source metadata.
 4. Put the supplied caption or credit immediately below the real image. Preserve the creator, source-page link, and license link for every external image.
 5. A local repository URL is preferred because it avoids a third-party delivery dependency. An external hotlink is allowed only when its complete provenance is embedded in the plan.
