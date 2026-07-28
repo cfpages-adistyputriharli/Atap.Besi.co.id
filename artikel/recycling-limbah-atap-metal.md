@@ -2,8 +2,8 @@
 article_id: RFM-16-A05
 title: "Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal"
 slug: "recycling-limbah-atap-metal"
-description: "Separate panels, fasteners, flashings, insulation, sealants, coatings, hazardous/contaminated components, reusable items, scrap routes, receipts, and chain of custody"
-status: outline
+description: "Panduan pemulihan material dari limbah atap metal, meliputi pemisahan, daur ulang, dan penanganan kontaminasi."
+status: draft
 publication_date: "2026-07-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,226 +13,135 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/recycling-limbah-atap-metal.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.iso.org/standard/46556.html"
-  - "https://worldsteel.org/wider-sustainability/circular-economy/"
   - "https://worldsteel.org/media/publications/steel-permanent-circular-economy/"
   - "https://www.aisc.org/aisc/sustainability/recycling/"
-  - "https://www.iso.org/standard/83054.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
-  - "https://store.astm.org/e1646-95r24.html"
-  - "https://pesta.bsn.go.id/produk/detail/13242-sni63892020"
-  - "https://www.iso.org/standard/65708.html"
-  - "https://www.iso.org/standard/59697.html"
-  - "https://www.iso.org/standard/51615.html"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/standard/81570.html?browse=ics"
-  - "https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”
-- **Reader and situation:** Project team removing roof materials
-- **Reader outcome:** Separate panels, fasteners, flashings, insulation, sealants, coatings, hazardous/contaminated components, reusable items, scrap routes, receipts, and chain of custody
-- **Primary intent:** Plan material recovery
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not classify hazardous waste; competent survey and licensed waste route own classification
-- **Final public route:** `/artikel/recycling-limbah-atap-metal.html`
-- **Appointed CMS date:** `2026-07-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Baja adalah salah satu material yang paling banyak didaur ulang di dunia. Menurut World Steel Association, lebih dari 85% baja yang diproduksi saat ini pada akhirnya akan didaur ulang ([Steel in the Circular Economy](https://worldsteel.org/media/publications/steel-permanent-circular-economy/)). Namun, potensi daur ulang limbah atap metal tergantung pada seberapa baik Anda memisahkan dan menyiapkannya.
 
-## Opening instructions
+Proses pemulihan material dari limbah atap metal meliputi pemisahan (sorting), pembersihan, dan persiapan untuk daur ulang. Kontaminasi — seperti cat, insulasi, sealant, atau bahan berbahaya — bisa mengurangi nilai daur ulang atau bahkan membuat material tidak bisa didaur ulang.
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Data spesifik seperti jenis material, kondisi, dan tingkat kontaminasi sangat mempengaruhi proses dan nilai daur ulang. Tidak ada pendekatan universal — yang terbaik disesuaikan dengan jenis limbah yang Anda hasilkan.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+**Image ID:** `LOCAL-001`
+**Source type:** `local`
+**Placement:** after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
+**Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+**Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+**Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+_Ilustrasi umum dari aset lokal atap.besi.co.id; bukan dokumentasi proyek tertentu._
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Definisi dan Batas Objek
 
-## Evidence packet
+Artikel ini membahas proses pemulihan material dari limbah atap metal — bukan klasifikasi limbah berbahaya atau rekomendasi rute pembuangan. Klasifikasi limbah berbahaya adalah ranah survei yang kompeten dan rute pembuangan berlisensi.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Yang dibahas: proses pemisahan, pembersihan, dan persiapan untuk daur ulang. Yang tidak dibahas: klasifikasi limbah berbahaya, harga daur ulang, atau rekomendasi pengepul.
 
-### KR-24
+## Proses Sorting (Pemisahan)
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+Sorting adalah langkah pertama dalam pemulihan material. Pemisahan yang baik meningkatkan nilai daur ulang dan mengurangi kontaminasi.
 
-### KR-27
+**Pisahkan berdasarkan jenis material.** Lembaran atap, sekrup, flashing, dan insulasi harus dipisahkan. Setiap jenis material memiliki nilai daur ulang yang berbeda.
 
-- **Original sources:** [worldsteel circular economy](https://worldsteel.org/wider-sustainability/circular-economy/), [worldsteel circular-economy publication](https://worldsteel.org/media/publications/steel-permanent-circular-economy/), and [AISC recycling/deconstruction overview](https://www.aisc.org/aisc/sustainability/recycling/)
-- **Purpose for this article:** Define reduce, reuse, remanufacture, and recycle while preserving structural reuse and waste-law gates.
-- **Safe grounded facts:** Reuse can retain more product value but requires provenance, condition, geometry, material/weldability evidence, alterations/exposure history, new use, testing rationale, and design approval. Recycling does not preserve a member's identity or certify recycled-content/environmental claims.
-- **Limits:** Industry sustainability claims are not project LCAs, material certification, structural approval, or Indonesian waste compliance. Obtain project evidence, licensed assessment, current waste rules, and authorized routes through G-14/G-17.
+**Pisahkan berdasarkan kondisi.** Material yang bersih dan tidak terkontaminasi memiliki nilai lebih tinggi dari material yang kotor atau berkarat.
 
-### KR-28
+**Pisahkan bahan berbahaya.** Jika ada material yang mengandung bahan berbahaya (misalnya asbes), pisahkan dan tangani sesuai peraturan.
 
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18.
+Menurut Peraturan Menteri Ketenagakerjaan No. 9 Tahun 2016 tentang Keselamatan dan Kesehatan Kerja Lingkungan Kerja, paparan bahan berbahaya harus dibatasi dan pekerja harus dilindungi ([Permenaker No. 9/2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016)).
 
-### KR-29
+## Pembersihan dan Persiapan
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+Setelah dipisahkan, material perlu dibersihkan dan disiapkan untuk daur ulang:
 
-### KR-30
+**Hapus insulasi dan sealant.** Insulasi dan sealant yang menempel pada lembaran metal harus dihapus. Ini bisa dilakukan secara manual atau dengan alat.
 
-- **Original sources:** [SNI 6389:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/13242-sni63892020), [ISO 6946:2017 official record](https://www.iso.org/standard/65708.html), [ISO 9869-1:2014 official record](https://www.iso.org/standard/59697.html).
-- **Purpose for this article:** Ground roof heat/energy articles in complete-assembly calculations and measurements instead of color or sheet-thickness claims.
-- **Safe grounded facts:** Solar exposure, surface properties, metal layers, insulation, thermal bridges, air spaces, ceilings, ventilation, airtightness, internal gains, climate, operation, and measurement conditions affect observed performance. Product R-values and assembly U-values are not interchangeable.
-- **Limits:** Public records do not supply project inputs or licensed clauses. Do not promise temperature or energy reduction without G-19 and G-20.
+**Bersihkan dari kotoran.** Kotoran, debu, dan debris lainnya harus dibersihkan untuk meningkatkan nilai daur ulang.
 
-### KR-31
+**Potong menjadi ukuran yang sesuai.** Pengepul mungkin membutuhkan material dalam ukuran tertentu. Potong material sesuai persyaratan.
 
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
+## Kontaminasi yang Mempengaruhi Daur Ulang
 
-### KR-33
+Beberapa jenis kontaminasi bisa mengurangi nilai daur ulang atau membuat material tidak bisa didaur ulang:
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ISO 4354:2009 official record](https://www.iso.org/standard/38882.html), [ISO/DIS 4354 revision record](https://www.iso.org/standard/81570.html?browse=ics).
-- **Purpose for this article:** Ground the load path from wind climate and building zones through panel, fastener/clip, support, connection, and primary structure.
-- **Safe grounded facts:** Wind climate, terrain/exposure, height, shape, openings, directionality, internal pressure, edge/corner zones, tributary area, system tests/calculations, supports, fasteners, existing condition, and temporary installation states all matter.
-- **Limits:** Do not calculate or state capacity from abstracts. Obtain current Indonesian basis, licensed clauses, site inputs, exact product/system data, drawings, calculations, and signed structural review under G-23.
+**Cat dan lapisan.** Cat dan lapisan pelindung bisa mengontaminasi proses daur ulang. Beberapa pengepul menerima material berlapis dengan harga lebih rendah.
 
-### KR-36
+**Insulasi.** Insulasi yang menempel pada metal harus dihapus. Jika tidak bisa dihapus, material mungkin tidak bisa didaur ulang.
 
-- **Original sources:** [PermenPUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [Permenaker No. 11 Tahun 2026 partial-revocation record — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground installation planning in current Indonesian construction/K3 context and the July 2026 consolidation gate.
-- **Safe grounded facts:** Product instructions, site method, sequence, weather criteria, access system, anchors, rescue, lifting, exclusion zones, temporary stability, hold points, competent people, inspections, and daily release are separate controls.
-- **Limits:** Recheck consolidated law and project rules. No anchor, weather, access, lifting, PPE, sequence, or rescue prescription without G-26. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `RFM-01` | KR-01, KR-02, KR-05, KR-08, KR-29 | Metal-roof terms are safe only when tied to the complete coordinated assembly and its interfaces. | G-01, G-04, G-05, G-19 | | `RFM-02` | KR-01, KR-03, KR-05, KR-07, KR-16, KR-17, KR-29, KR-35 | Base-metal, coating, paint, certificate, and product-identity distinctions can support comparisons without implying installed-system performance. | G-01, G-03, G-05, G-09, G-13, G-19, G-25 | | `RFM-03` | KR-01, KR-07, KR-11, KR-29, KR-30, KR-31, KR-33, KR-34 | A roof specification must join survey facts, geometry, assembly identity, thermal/moisture conditions, wind, and water interfaces. | G-01, G-05, G-06, G-19, G-20, G-21, G-23, G-24 | | `RFM-04` | KR-29, KR-30, KR-31 | Thermal and energy articles may explain calculation/measurement scope and input dependencies, but not promise a project result. | G-19, G-20, G-21 | | `RFM-05` | KR-29, KR-32 | Acoustic articles may distinguish laboratory airborne-sound evidence from actual rain-noise and field experience. | G-19, G-22 | | `RFM-06` | KR-29, KR-30, KR-31, KR-34 | Condensation and ventilation content can explain heat-and-moisture paths across a specified assembly and its drainage interfaces. | G-19, G-20, G-21, G-24 | | `RFM-07` | KR-11, KR-24, KR-29, KR-33, KR-35 | Wind and structural articles can show the load path and evidence hierarchy without supplying generic span or fastener tables. | G-06, G-14, G-19, G-23, G-25 | | `RFM-08` | KR-29, KR-31, KR-34, KR-35 | Rainwater articles can explain drainage/interface logic and test-method scope without treating one specimen as every roof. | G-05, G-19, G-21, G-24, G-25 | | `RFM-09` | KR-16, KR-17, KR-18, KR-29, KR-33, KR-34, KR-35 | Fastener, sealant, flashing, and penetration content can connect compatibility, corrosion, wind, and water evidence. | G-05, G-09, G-14, G-19, G-23, G-24, G-25 | | `RFM-10` | KR-16, KR-17, KR-18, KR-28, KR-29, KR-31 | Durability content can distinguish material/coating condition from assembly moisture paths, maintenance, and actual exposure. | G-05, G-09, G-14, G-18, G-19, G-21 | | `RFM-11` | KR-02, KR-04, KR-05, KR-07, KR-08, KR-29, KR-35 | Product selection can compare declared product evidence and assembly roles while withholding unverified system-equivalence claims. | G-01, G-03, G-04, G-05, G-19, G-25 | | `RFM-12` | KR-07, KR-21, KR-22, KR-23, KR-29, KR-35, KR-36 | Procurement and handover can require traceability, sampling, current offers, assembly evidence, test equivalence, and K3 deliverables. | G-03, G-05, G-12, G-13, G-15, G-19, G-25, G-26 | | `RFM-13` | KR-21, KR-29, KR-33, KR-36 | Handling and storage guidance can identify assembly damage, wind exposure, lifting, temporary restraint, and stop-work questions. | G-05, G-12, G-19, G-23, G-26 | | `RFM-14` | KR-19, KR-20, KR-21, KR-29, KR-33, KR-34, KR-36 | Installation content can present sequence, interface checks, exposure controls, and K3 planning without a universal DIY method. | G-05, G-06, G-12, G-19, G-23, G-24, G-26 | | `RFM-15` | KR-24, KR-28, KR-29, KR-31, KR-33, KR-34, KR-35, KR-36 | Diagnosis can trace symptoms through moisture, wind, water, and test evidence before repair disposition. | G-14, G-18, G-19, G-21, G-23, G-24, G-25, G-26 | | `RFM-16` | KR-24, KR-27, KR-28, KR-29, KR-30, KR-31, KR-33, KR-36 | Retrofit and end-of-life content can compare retained evidence, altered load/heat/moisture paths, reuse limits, and safe work planning. | G-14, G-17, G-18, G-19, G-20, G-21, G-23, G-26 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | `G-02` SNI, rebar, structural/cold-formed work, conformity claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | `G-03` Certificates, heat/batch, split stock, remnants, claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | `G-04` Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | `G-05` Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | `G-06` Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | `G-07` Welding, repair welding, distortion correction | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | `G-08` Weld/asset inspection and defect disposition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | `G-09` Paint, galvanizing, duplex, touch-up, maintenance | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | `G-10` Vent/drain/lift details, fabrication, inspection, repair | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | `G-11` Fire rating, reoccupation, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | `G-12` Cutting, welding, lifting, transport, storage, work at height, erection, demolition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | `G-13` Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | `G-14` Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | `G-15` Procurement comparisons and lifecycle cost | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | `G-16` Pressure/fluid/temperature/corrosion/structural pipe suitability | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | `G-17` Reuse, deconstruction, scrap, recycling, environmental claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | `G-18` Baseline, inspection interval, repair/replace/decommission decision | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | | `G-19` Exact roof assembly and product/system identity | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current drawings, layer build-up, profile, support, fastener, sealant, flashing, insulation, ventilation, drainage, compatibility, and approved manufacturer evidence for the offered system | | `G-20` Thermal and energy inputs/results | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-16` | Obtain project climate, geometry, material properties, boundary conditions, full method, model/measurement plan, calibration, uncertainty, and competent interpretation | | `G-21` Moisture and condensation assessment | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-08`, `RFM-10`, `RFM-15`, `RFM-16` | Survey indoor/outdoor moisture loads and air paths; obtain full method, material data, assembly interfaces, drainage/ventilation facts, and building-physics review | | `G-22` Rain-noise and acoustic performance | `RFM-05` | Define source-path-receiver and target; obtain an applicable complete assembly test or qualified field evidence with method, mounting, spectrum/rating, and limitations | | `G-23` Site wind action and complete load path | `RFM-03`, `RFM-07`, `RFM-09`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current site wind inputs, terrain/building geometry, pressure zones, supports, fasteners/connections, temporary states, calculations, drawings, and competent signed review | | `G-24` Water shedding, drainage, and interface evidence | `RFM-03`, `RFM-06`, `RFM-08`, `RFM-09`, `RFM-14`, `RFM-15` | Confirm slope, lengths, laps, seams, valleys, gutters, penetrations, flashings, drainage capacity, maintenance access, and applicable product/system test evidence | | `G-25` Test-to-offer equivalence | `RFM-02`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-11`, `RFM-12`, `RFM-15` | Compare the actual offered assembly with each report specimen, method, laboratory scope, dimensions, support, fixing, interfaces, conditioning, edition, result, and exclusions | | `G-26` Roof installation, access, rescue, and site K3 | `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Complete current legal/site review, risk assessment, work-at-height and lifting methods, weather limits, edge/opening controls, access, permits, supervision, inspection, rescue, and emergency arrangements | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+**Bahan berbahaya.** Material yang mengandung bahan berbahaya (misalnya asbes, timbal, atau bahan kimia tertentu) harus ditangani secara khusus dan tidak bisa didaur ulang bersama material biasa.
 
-## Evidence gates
+**Kontaminasi biologis.** Material yang terkontaminasi oleh jamur, bakteri, atau bahan organik lainnya mungkin perlu dibersihkan sebelum didaur ulang.
 
-- **TOPIC-GATE:** G-14, G-17, G-18, G-19, G-20, G-21, G-23, G-26
+## Contoh Keputusan Praktis
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Teman Besi.co.id, bayangkan Anda memiliki limbah atap metal dari proyek renovasi. Apa yang sebaiknya Anda lakukan?
 
-## Internal-link plan
+Pertama, lakukan sorting di lokasi. Pisahkan lembaran metal dari sekrup, flashing, insulasi, dan debris lainnya.
 
-### Existing local routes
+Kedua, periksa kondisi material. Apakah ada yang terkontaminasi oleh bahan berbahaya? Jika ya, pisahkan dan tangani secara khusus.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Ketiga, hubungi pengepul untuk mengetahui persyaratan penerimaan. Beberapa pengepul hanya menerima material bersih; yang lain bisa menerima material berlapis.
 
-### Planned sibling articles
+Keempat, dokumentasikan proses sorting dan pembuangan. Catat jenis material, jumlah, dan rute pembuangan. Ini berguna untuk pelaporan dan audit.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Peran Profesional
 
-- `RFM-16-A03` → `/artikel/mengganti-atap-bangunan-beroperasi.html` — Mengganti Atap di Bangunan yang Tetap Beroperasi
-- `RFM-16-A04` → `/artikel/reuse-panel-atap-metal.html` — Reuse Panel Atap: Kapan Bukti Tidak Cukup
-- `RFM-16-A06` → `/artikel/lifecycle-cost-atap-metal.html` — Lifecycle Cost Atap Metal dari Pembelian sampai Daur Ulang
+Kawan Besi.co.id, sorting dan recycling limbah atap metal mungkin terlihat sederhana, tetapi ada aspek yang membutuhkan keahlian khusus:
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+**Klasifikasi limbah berbahaya.** Jika ada potensi bahan berbahaya, libatkan spesialis yang kompeten untuk klasifikasi.
 
-## Jawaban singkat dan salah paham utama
+**Penanganan limbah berbahaya.** Limbah berbahaya harus ditangani oleh kontraktor berlisensi.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Dokumentasi dan pelaporan.** Pastikan semua proses didokumentasikan sesuai peraturan yang berlaku.
 
-## Definisi dan batas objek
+## Kesalahan Umum yang Harus Dihindari
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Tidak melakukan sorting.** Mencampur semua material dalam satu tumpukan mengurangi nilai daur ulang dan bisa menyebabkan kontaminasi.
 
-## Cara kerjanya
+**Mengabaikan bahan berbahaya.** Jangan pernah mencampur bahan berbahaya dengan material biasa.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Tidak mendokumentasikan proses.** Tanpa dokumentasi, Anda tidak bisa membuktikan bahwa material ditangani dengan benar.
 
-## Faktor yang mengubah hasil
+Untuk informasi lebih lanjut tentang daur ulang, baca artikel kami tentang [reuse panel atap metal](/artikel/reuse-panel-atap-metal.html). Jika Anda tertarik dengan aspek pembongkaran, kunjungi [data sebelum membongkar atap](/artikel/data-sebelum-membongkar-atap.html).
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Mengapa Daur Ulang Penting
 
-## Contoh keputusan praktis
+Sobat Besi.co.id, daur ulang limbah atap metal bukan hanya soal kepatuhan peraturan — ini adalah tanggung jawab lingkungan dan juga peluang ekonomi. Baja yang didaur ulang menghemat energi, mengurangi emisi karbon, dan mengurangi kebutuhan akan bahan baku baru.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menurut AISC (American Institute of Steel Construction), daur ulang baja adalah proses yang sangat efisien dan berkelanjutan ([AISC Recycling](https://www.aisc.org/aisc/sustainability/recycling/)). Baja bisa didaur ulang berulang kali tanpa kehilangan sifat mekanisnya. Ini menjadikan baja salah satu material paling berkelanjutan di dunia konstruksi.
 
-## Kesalahan umum dan cara memeriksanya
+Dengan melakukan sorting dan recycling yang benar, Anda tidak hanya mematuhi peraturan, tetapi juga berkontribusi pada ekonomi sirkular. Material yang Anda daur ulang hari ini bisa menjadi produk baru di masa depan.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sorting, Recycling, dan Kontaminasi pada Limbah Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Besi.co.id, jangan sia-siakan peluang ini. Rencanakan proses sorting dan recycling sejak awal, dan pastikan Anda mendokumentasikan setiap langkah. Investasi kecil ini memberikan manfaat besar bagi lingkungan dan juga bagi reputasi proyek Anda.
 
-## Objection or shortcut to address
+## Rute Pembuangan dan Daur Ulang
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sobat Besi.co.id, setelah material dipisahkan dan dibersihkan, langkah selanjutnya adalah menentukan rute pembuangan atau daur ulang yang tepat:
 
-## Required conclusion
+**Pengepul baja.** Material bersih dan tidak terkontaminasi bisa langsung dijual ke pengepul baja. Harga tergantung pada jenis material, kondisi, dan volume.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Fasilitas daur ulang khusus.** Material yang membutuhkan pembersihan atau pemrosesan khusus mungkin perlu dikirim ke fasilitas daur ulang yang sesuai.
 
-## Draft completion checklist
+**Fasilitas pembuangan.** Material yang tidak bisa didaur ulang harus dibuang ke fasilitas pembuangan yang sesuai. Pastikan limbah berbahaya dibuang sesuai peraturan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+**Dokumentasi.** Simpan semua kwitansi dan dokumen pembuangan/daur ulang. Ini menjadi bukti bahwa limbah ditangani dengan benar.
+
+## Kesimpulan
+
+Sorting, recycling, dan penanganan kontaminasi pada limbah atap metal adalah proses yang membutuhkan perencanaan dan eksekusi yang tepat. Dengan sorting yang baik, pembersihan yang benar, dan penanganan kontaminasi yang tepat, Anda bisa memaksimalkan nilai daur ulang dan memenuhi peraturan yang berlaku.
+
+Langkah selanjutnya: buat rencana sorting dan recycling sebelum proyek dimulai. Identifikasi jenis limbah yang akan dihasilkan, tentukan rute daur ulang, dan siapkan dokumentasi yang diperlukan.
+
+Batasan yang perlu diingat: artikel ini membahas proses umum, bukan klasifikasi limbah berbahaya. Jika ada potensi bahan berbahaya, libatkan spesialis yang kompeten untuk klasifikasi dan penanganan.

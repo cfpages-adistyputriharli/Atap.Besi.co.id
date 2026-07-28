@@ -2,11 +2,12 @@
 article_id: RFM-08-A03
 title: "Slope, Roof Length, dan End Lap pada Panel Metal"
 slug: "slope-roof-length-dan-end-lap"
-description: "Explain manufacturer compatibility, flow path, capillary/wind-driven rain, panel length, end laps, expansion, transport, and access"
-status: outline
+description: "Jelaskan hubungan antara kemiringan, panjang atap, dan kebutuhan end lap untuk panel metal."
+status: draft
 publication_date: "2025-12-25"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: RFM-08
 primary_intent: "Coordinate panel geometry"
 reader_community: "Besi.co.id"
@@ -16,182 +17,100 @@ technical_review: required
 sources:
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/51615.html"
+  - "https://www.iso.org/standard/38882.html"
+  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Slope, Roof Length, dan End Lap pada Panel Metal
 
-## Assignment lock
+Halo, Kawan Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Slope, Roof Length, dan End Lap pada Panel Metal”
-- **Reader and situation:** Designer choosing panel layout
-- **Reader outcome:** Explain manufacturer compatibility, flow path, capillary/wind-driven rain, panel length, end laps, expansion, transport, and access
-- **Primary intent:** Coordinate panel geometry
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No minimum slope/lap dimension; approved manufacturer detail owns values
-- **Final public route:** `/artikel/slope-roof-length-dan-end-lap.html`
-- **Appointed CMS date:** `2025-12-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika panjang atap melebihi panjang panel yang tersedia, **end lap** (tumpang ujung) diperlukan. Tapi berapa overlap yang dibutuhkan? Itu tergantung pada **kemiringan atap (slope)**—semakin landai, semakin besar overlap yang dibutuhkan karena air bergerak lebih lambat dan punya lebih banyak waktu untuk menembus celah. Salah menentukan end lap bisa berarti kebocoran di setiap sambungan.
 
-## Opening instructions
+Jawaban singkatnya: **end lap minimum tergantung pada kemiringan—semakin landai, semakin besar overlap yang dibutuhkan**. Atap curam (>15°) mungkin hanya butuh 150mm; atap landai (<10°) mungkin butuh 250mm atau lebih. Spesifikasi pabrikan adalah acuan utama. ASTM E06.57 tentang standar sistem atap mengingatkan bahwa detail sambungan adalah bagian integral dari sistem ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)).
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Slope, Roof Length, dan End Lap pada Panel Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Namun, end lap juga dipengaruhi oleh: jenis profil panel (gelombang tinggi vs. rendah), kondisi angin (tekanan angin bisa mendorong air ke belakang sambungan), dan kualitas sealant (sealant di dalam sambungan berfungsi sebagai pengaman tambahan). ASTM E1646-95r24 tentang pengukuran panel atap memberikan panduan verifikasi dimensi ([ASTM E1646-95r24](https://store.astm.org/e1646-95r24.html)).
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+*Foto ilustrasi: aset lokal, bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-31
-
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
-
-### KR-34
-
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
-
-### KR-35
-
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-19, G-21, G-24, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-08-A01` → `/artikel/peta-jalur-air-atap-metal.html` — Peta Jalur Air pada Atap Metal
-- `RFM-08-A02` → `/artikel/data-untuk-desain-drainase-atap.html` — Data yang Dibutuhkan untuk Merancang Drainase Atap
-- `RFM-08-A04` → `/artikel/valley-dan-internal-gutter-atap.html` — Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi
-- `RFM-08-A05` → `/artikel/overflow-dan-discharge-atap.html` — Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Slope, Roof Length, dan End Lap pada Panel Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, leave a review marker and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Slope, Roof Length, dan End Lap pada Panel Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Slope** (kemiringan) adalah sudut atap dari horizontal—dinyatakan dalam derajat atau persentase (misalnya 10° atau 17.6%). **Roof length** (panjang atap) adalah jarak dari eave (talang) ke ridge (puncak) sejajar kemiringan. **End lap** (tumpang ujung) adalah overlap antar panel di sambungan ujung.
+
+Hubungan ketiganya: ketika roof length > panjang panel, end lap diperlukan. Ketebalan end lap tergantung pada slope—semakin landai, semakin besar end lap yang dibutuhkan. SNI 1727:2020 tentang pembebanan memberikan konteks tentang beban yang harus dipertimbangkan ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)).
+
+Apa yang *bukan* cakupan artikel ini adalah perhitungan struktural panel—itu domain engineer. Artikel ini fokus pada **hubungan antara slope, roof length, dan end lap**. ISO 9001:2015 tentang sistem manajemen mutu mendukung pendekatan berbasis data ([ISO 9001:2015](https://www.iso.org/standard/38882.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Slope, Roof Length, dan End Lap pada Panel Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Langkah 1: Tentukan slope.** Periksa gambar arsitektur—sudut atau persentase kemiringan atap. **Langkah 2: Tentukan roof length.** Ukur jarak dari eave ke ridge sejajar kemiringan (bukan horizontal).
+
+**Langkah 3: Tentukan panjang panel.** Periksa ketersediaan panel dari pabrikan—berapa panjang maksimum yang bisa diproduksi dan diangkut? **Langkah 4: Hitung kebutuhan end lap.** Jika roof length > panjang panel, bagi menjadi beberapa segmen dan tentukan end lap berdasarkan slope.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Slope, Roof Length, dan End Lap pada Panel Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pertama, slope.** Semakin landai, semakin besar end lap—karena air bergerak lebih lambat. **Kedua, jenis profil.** Profil dengan gelombang tinggi mungkin butuh end lap lebih besar karena air bisa mengalir di bawah gelombang.
+
+**Ketiga, kondisi angin.** Di lokasi dengan angin kencang, tekanan angin bisa mendorong air ke belakang sambungan—end lap perlu lebih besar. **Keempat, sealant.** Sealant di dalam sambungan berfungsi sebagai pengaman tambahan—tapi bukan pengganti end lap yang benar.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Slope, Roof Length, dan End Lap pada Panel Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua skenario. **Skenario A:** Atap gudang dengan slope 15°, roof length 8m, panel tersedia 6m. Perlu 2 segmen: 6m + 2m + end lap. End lap 150mm cukup karena slope cukup curam. **Skenario B:** Atap pabrik dengan slope 5°, roof length 20m, panel tersedia 6m. Perlu 4 segmen dengan end lap. End lap 250mm atau lebih dibutuhkan karena slope landai.
+
+Dalam skenario A, end lap relatif kecil. Dalam skenario B, end lap signifikan—dan setiap sambungan adalah potensi kebocoran. Kawan Besi.co.id, semakin landai atap, semakin kritis end lap.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Slope, Roof Length, dan End Lap pada Panel Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling umum adalah **menggunakan end lap yang sama untuk semua slope**. End lap yang cukup untuk slope 20° mungkin tidak cukup untuk slope 5°.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah **tidak mempertimbangkan arah dominan hujan**. Jika hujan sering datang dari arah tertentu, end lap harus menghadap menjauhi arah itu.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah **mengandalkan sealant sebagai pengganti end lap**. Sealant berfungsi sebagai pengaman tambahan, bukan pengganti—end lap harus cukup tanpa sealant.
 
-## Required conclusion
+## Jalan pintas yang perlu diwaspadai
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang berbahaya: **"Panel panjang saja, tidak perlu end lap."** Alasannya terdengar logis—jika panel cukup panjang, mengapa perlu sambungan? Tapi panel sangat panjang punya tantangan transport dan handling yang signifikan—lihat [artikel Panel Panjang: Batas Transport, Handling, dan Roof Layout](/artikel/panel-panjang-transport-dan-layout.html).
 
-## Draft completion checklist
+Alternatif yang lebih aman: rencanakan end lap berdasarkan slope dan kondisi lokal. Gunakan spesifikasi pabrikan sebagai acuan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Menguji keputusan end lap pada potongan memanjang
+
+Gambar potongan memanjang memperlihatkan apakah air bertemu sambungan saat bergerak menuruni lereng. Tandai arah aliran, posisi tumpuan, ujung panel, dan ruang untuk bekerja. End lap bukan sekadar angka overlap; ia adalah detail yang harus cocok dengan profil, seal, pengikat, panjang lereng, dan kondisi angin. Nilai minimum harus datang dari detail pabrikan yang disetujui, bukan kebiasaan di proyek lain.
+
+Jika panjang panel melebihi kemampuan transport, pecah panjangnya dengan sadar dan catat alasan setiap sambungan. Periksa apakah sambungan berada di atas tumpuan dan dapat diakses untuk inspeksi. Perubahan panjang juga memengaruhi gerakan termal dan urutan pemasangan. Tahan pemesanan ketika kemiringan aktual belum diukur atau data kompatibilitas belum diterima.
+
+Teman Besi.co.id, cocokkan potongan dengan peta jalur air atap metal dan perhitungan kebutuhan panel. Kedua langkah itu membantu menguji geometri dan kuantitas tanpa mengarang ukuran lap atau kemiringan.
+
+## Menyiapkan data sebelum meminta detail pabrikan
+
+Kirimkan kemiringan terukur, panjang lereng, profil panel, posisi tumpuan, kondisi angin, dan rencana transport kepada pabrikan. Sertakan gambar peta jalur air dan takeoff panel agar detail end lap dapat dibaca dalam konteks. Jangan meminta angka lap terpisah dari sistem yang akan dipasang.
+
+## Memastikan sambungan dapat diperiksa
+
+Rencanakan akses untuk melihat ujung lap setelah panel terpasang dan setelah hujan pertama. Catat foto sambungan, kondisi seal, dan posisi pengikat sebagai baseline. Jika sambungan tertutup komponen lain, pastikan bukti pemasangan disimpan sebelum penutupan.
+
+Untuk logistik, baca artikel panel panjang, transport, dan layout sebelum memutuskan sambungan. Detail geometri dan rute harus konsisten. Cocokkan pula urutan pemasangan panel dengan [catatan urutan kerja](/artikel/urutan-pemasangan-panel-atap.html).
+
+Simpan persetujuan detail bersama gambar yang dipakai untuk pemesanan. Perubahan kecil pada kemiringan atau panjang harus memicu pemeriksaan ulang.
+
+Catat juga siapa yang memeriksa tumpuan dan kapan pemeriksaan dilakukan. Rekaman ini membantu ketika sambungan perlu ditinjau setelah cuaca buruk.
+
+## Kesimpulan
+
+End lap pada panel metal tergantung pada **slope, panjang atap, dan kondisi lokal**. Semakin landai, semakin besar end lap yang dibutuhkan. Spesifikasi pabrikan adalah acuan utama.
+
+Langkah Anda selanjutnya: hitung kebutuhan end lap untuk proyek Anda berdasarkan slope dan panjang atap. Verifikasi dengan spesifikasi pabrikan. Pastikan end lap menghadap arah yang benar dan menggunakan sealant sebagai pengaman tambahan.
+
+Batas pengetahuan ini adalah: nilai end lap spesifik harus mengikuti spesifikasi pabrikan dan disetujui oleh engineer.

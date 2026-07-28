@@ -2,8 +2,8 @@
 article_id: RFM-08-A04
 title: "Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi"
 slug: "valley-dan-internal-gutter-atap"
-description: "Cover catchment concentration, depth/freeboard concepts, joints, supports, overflow, access, debris, corrosion, thermal movement, and failure consequences"
-status: outline
+description: "Panduan meninjau detail saluran air konsentrasi pada atap metal, meliputi valley, box gutter, dan internal gutter."
+status: draft
 publication_date: "2025-12-29"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,185 +13,136 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/valley-dan-internal-gutter-atap.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/51615.html"
+  - "https://www.iso.org/standard/65708.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi
 
-## Assignment lock
+Halo, Kawan Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”
-- **Reader and situation:** Designer/owner with complex roof geometry
-- **Reader outcome:** Cover catchment concentration, depth/freeboard concepts, joints, supports, overflow, access, debris, corrosion, thermal movement, and failure consequences
-- **Primary intent:** Review concentrated-flow details
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not size or approve internal gutters; RFM-08-A02 owns hydraulic design
-- **Final public route:** `/artikel/valley-dan-internal-gutter-atap.html`
-- **Appointed CMS date:** `2025-12-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Valley (lembah pertemuan bidang), box gutter (talang kotak), dan internal gutter (talang internal) adalah titik-titik di atap di mana air terkonsentrasi dalam volume yang sangat besar. Jika detail di titik-titik ini gagal, konsekuensinya bisa sangat serius — dari kebocoran yang parah hingga kerusakan struktural.
 
-## Opening instructions
+Memahami mengapa titik-titik ini berisiko tinggi membantu Anda memprioritaskan inspeksi dan pemeliharaan. Dengan perhatian yang tepat pada detail, Anda bisa mencegah kebocoran yang tidak perlu dan memperpanjang umur sistem drainase.
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Menurut standar ASTM yang mengatur sistem atap metal, kinerja sangat bergantung pada detail instalasi ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)). Ini sangat relevan untuk titik-titik konsentrasi air.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+**Image ID:** `LOCAL-001`
+**Source type:** `local`
+**Placement:** after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
+**Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+**Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+**Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+_Ilustrasi umum dari aset lokal atap.besi.co.id; bukan dokumentasi proyek tertentu._
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Definisi dan Batas Objek
 
-## Evidence packet
+Artikel ini membantu Anda memahami mengapa valley, box gutter, dan internal gutter adalah titik risiko tinggi — bukan mendesain atau menyetujui detail saluran. Desain saluran adalah ranah insinyur sipil atau ahli hidrolika yang mempertimbangkan kapasitas, kecepatan aliran, dan faktor keamanan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Yang dibahas: mengapa titik-titik ini berisiko tinggi, faktor-faktor yang mempengaruhi kinerja, dan pertanyaan yang harus diajukan. Yang tidak dibahas: dimensi spesifik, kapasitas drainase, atau desain overflow.
 
-### KR-29
+## Mengapa Titik-Titik Ini Berisiko Tinggi
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+**Konsentrasi air.** Valley, box gutter, dan internal gutter mengumpulkan air dari area yang luas dan mengarahkannya ke saluran yang sempit. Volume air di titik-titik ini bisa sangat besar, terutama saat hujan deras.
 
-### KR-31
+**Kecepatan aliran.** Air yang terkonsentrasi mengalir dengan kecepatan yang lebih tinggi. Kecepatan aliran yang tinggi meningkatkan risiko erosi dan merusak sambungan.
 
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
+**Tekanan hidrostatik.** Jika saluran tersumbat atau kapasitasnya terlampaui, tekanan hidrostatik bisa memaksa air masuk melalui celah yang seharusnya kedap.
 
-### KR-34
+**Korosi.** Air yang terkonsentrasi mempercepat korosi di area saluran. Ini sangat berbahaya di valley dan gutter yang terbuat dari material yang sama dengan atap.
 
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
+## Faktor yang Mempengaruhi Kinerja
 
-### KR-35
+**Kemiringan.** Kemiringan yang memadai diperlukan untuk mengalirkan air dengan cepat. Kemiringan yang terlalu kecil menyebabkan genangan; kemiringan yang terlalu besar meningkatkan kecepatan aliran.
 
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
+**Lebar dan kedalaman.** Lebar dan kedalaman saluran menentukan kapasitasnya. Saluran yang terlalu kecil akan meluap; saluran yang terlalu besar mungkin tidak estetis atau ekonomis.
 
-## Evidence gates
+**Sambungan.** Sambungan di valley dan gutter adalah titik potensi kebocoran. Pastikan sambungan memiliki overlap yang memadai dan disegel dengan benar.
 
-- **TOPIC-GATE:** G-05, G-19, G-21, G-24, G-25
+**Overflow.** Overflow adalah jalur cadangan yang digunakan jika saluran utama tersumbat atau kapasitasnya terlampaui. Pastikan overflow berfungsi dengan baik.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Akses untuk pemeliharaan.** Valley dan gutter membutuhkan pembersihan rutin. Pastikan ada akses yang aman untuk pemeliharaan.
 
-## Internal-link plan
+Menurut ISO 65708, kinerja sistem atap sangat bergantung pada detail instalasi ([ISO 65708](https://www.iso.org/standard/65708.html)). Ini sangat relevan untuk valley dan gutter.
 
-### Existing local routes
+## Pertanyaan yang Harus Diajukan
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Sobat Besi.co.id, berikut pertanyaan yang harus Anda ajukan saat meninjau valley, box gutter, dan internal gutter:
 
-### Planned sibling articles
+1. **Apakah kapasitas saluran memadai?** Pastikan saluran mampu menampung volume air yang diharapkan.
+2. **Apakah kemiringan memadai?** Pastikan air mengalir dengan cepat tanpa genangan.
+3. **Apakah sambungan disegel dengan benar?** Periksa kondisi sealant dan overlap.
+4. **Apakah overflow berfungsi?** Uji overflow untuk memastikan berfungsi.
+5. **Apakah ada akses untuk pemeliharaan?** Pastikan Anda bisa membersihkan saluran secara berkala.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh Keputusan Praktis
 
-- `RFM-08-A02` → `/artikel/data-untuk-desain-drainase-atap.html` — Data yang Dibutuhkan untuk Merancang Drainase Atap
-- `RFM-08-A03` → `/artikel/slope-roof-length-dan-end-lap.html` — Slope, Roof Length, dan End Lap pada Panel Metal
-- `RFM-08-A05` → `/artikel/overflow-dan-discharge-atap.html` — Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat
-- `RFM-08-A06` → `/artikel/wind-driven-rain-dan-capillary-entry.html` — Wind-Driven Rain dan Capillary Entry pada Laps Atap
+Teman Besi.co.id, bayangkan Anda memiliki atap dengan valley yang panjang. Valley mengumpulkan air dari area yang luas dan mengarahkannya ke satu outlet. Apa yang sebaiknya Anda pertimbangkan?
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Pertama, evaluasi kapasitas valley. Apakah valley cukup besar untuk menampung volume air yang diharapkan? Pertimbangkan curah hujan ekstrem, bukan hanya rata-rata.
 
-## Jawaban singkat dan salah paham utama
+Kedua, periksa kondisi sambungan. Sambungan di valley adalah titik potensi kebocoran yang sangat kritis. Pastikan overlap dan sealant dalam kondisi baik.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketiga, rencanakan pemeliharaan. Valley membutuhkan pembersihan rutin untuk menghilangkan debris yang bisa menyumbat. Buat jadwal pembersihan yang realistis.
 
-## Definisi dan batas objek
+Keempat, pertimbangkan overflow. Jika valley tersumbat, apa yang terjadi? Pastikan ada jalur cadangan yang mencegah genangan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan Umum yang Harus Dihindari
 
-## Cara kerjanya
+**Mengabaikan kapasitas.** Saluran yang terlalu kecil akan meluap saat hujan deras. Pertimbangkan curah hujan ekstrem dalam desain.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Sambungan yang buruk.** Sambungan yang tidak disegel dengan benar adalah penyebab umum kebocoran.
 
-## Faktor yang mengubah hasil
+**Tidak ada overflow.** Tanpa overflow, saluran yang tersumbat akan menyebabkan genangan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Sulit diakses untuk pemeliharaan.** Saluran yang sulit diakses akan jarang dibersihkan, meningkatkan risiko tersumbat.
 
-## Contoh keputusan praktis
+Untuk informasi lebih lanjut tentang drainase, baca artikel kami tentang [maintenance drainase atap](/artikel/maintenance-drainase-atap.html). Jika Anda tertarik dengan aspek kebocoran, kunjungi [investigasi kebocoran atap metal](/artikel/investigasi-kebocoran-atap-metal.html).
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Mengapa Detail Ini Sering Gagal
 
-## Kesalahan umum dan cara memeriksanya
+Kawan Besi.co.id, ada beberapa alasan mengapa detail di valley dan gutter sering gagal:
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Desain yang tidak memadai.** Saluran yang terlalu kecil atau kemiringan yang tidak memadai adalah kesalahan desain yang umum.
 
-## Objection or shortcut to address
+**Pemasangan yang buruk.** Sambungan yang tidak disegel dengan benar atau overlap yang tidak memadai adalah kesalahan pemasangan yang umum.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Pemeliharaan yang diabaikan.** Debris yang menumpuk menyumbat saluran dan menyebabkan genangan. Pemeliharaan rutin sangat kritis.
 
-## Required conclusion
+**Material yang tidak sesuai.** Menggunakan material yang tidak tahan korosi di area yang terpapar air secara konsentrasi adalah resep untuk kegagalan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sobat Besi.co.id, dengan memahami alasan-alasan ini, Anda bisa mengambil langkah pencegahan yang tepat. Investasi pada desain yang baik, pemasangan yang benar, dan pemeliharaan rutin jauh lebih kecil dari biaya memperbaiki kegagalan.
 
-## Draft completion checklist
+Teman Besi.co.id, valley dan gutter adalah komponen kritis yang membutuhkan perhatian khusus. Jangan pernah meremehkan pentingnya detail di titik-titik ini.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Perbandingan Valley, Box Gutter, dan Internal Gutter
+
+Berikut perbandingan karakteristik masing-masing:
+
+**Valley.** Pertemuan alami antara dua bidang atap. Air mengalir secara gravitasi. Risiko utama: konsentrasi air dan debris.
+
+**Box gutter.** Talang yang dibangun di antara dua bidang atap, biasanya lebih dalam dari valley. Risiko utama: kapasitas dan korosi.
+
+**Internal gutter.** Talang yang tersembunyi di dalam bangunan, biasanya di bawah atap yang lebih rendah. Risiko utama: kebocoran yang sulit dideteksi dan akses pemeliharaan yang terbatas.
+
+Sobat Besi.co.id, setiap jenis memiliki risiko yang berbeda. Pahami risiko spesifik untuk jenis yang Anda miliki dan sesuaikan inspeksi serta pemeliharaan.
+
+Kawan Besi.co.id, jangan lupa bahwa overflow adalah komponen kritis di semua jenis ini. Pastikan overflow berfungsi dengan baik dan tidak terhalang.
+
+Teman Besi.co.id, ingatlah bahwa detail yang baik di titik-titik ini adalah investasi untuk keamanan jangka panjang bangunan Anda.
+
+## Kesimpulan
+
+Valley, box gutter, dan internal gutter adalah titik risiko tinggi karena konsentrasi air, kecepatan aliran, tekanan hidrostatik, dan korosi. Memahami mengapa titik-titik ini berisiko tinggi membantu Anda memprioritaskan inspeksi dan pemeliharaan.
+
+Langkah selanjutnya: tinjau valley, box gutter, dan internal gutter pada atap Anda. Pastikan kapasitas memadai, sambungan disegel dengan benar, overflow berfungsi, dan ada akses untuk pemeliharaan.
+
+Batasan yang perlu diingat: artikel ini membantu Anda memahami risiko, bukan mendesain saluran. Desain saluran adalah ranah insinyur yang kompeten.

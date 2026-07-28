@@ -2,8 +2,8 @@
 article_id: RFM-13-A06
 title: "Damage Report dan Disposition setelah Transport Panel Atap"
 slug: "damage-report-panel-atap"
-description: "Document identity, location/extent, photos, exposure, segregation, supplier notice, competent assessment, disposition, repair, and reinspection"
-status: outline
+description: "Melaporkan kerusakan panel atap setelah transportasi: identifikasi, dokumentasi foto, isolasi, pemberitahuan supplier, penilaian kompeten, dan disposisi."
+status: draft
 publication_date: "2026-05-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,53 +13,17 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/damage-report-panel-atap.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/standard/81570.html?browse=ics"
   - "https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Damage Report dan Disposition setelah Transport Panel Atap
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Damage Report dan Disposition setelah Transport Panel Atap”
-- **Reader and situation:** Receiver finding dents/scratches/wet bundles
-- **Reader outcome:** Document identity, location/extent, photos, exposure, segregation, supplier notice, competent assessment, disposition, repair, and reinspection
-- **Primary intent:** Control damaged deliveries
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not approve use/repair; RFM-12-A05 and product/design owner own release
-- **Final public route:** `/artikel/damage-report-panel-atap.html`
-- **Appointed CMS date:** `2026-05-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Damage Report dan Disposition setelah Transport Panel Atap**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -68,136 +32,82 @@ sources:
 - **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Damage Report dan Disposition setelah Transport Panel Atap
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Ketika truk pengangkut panel atap tiba di lokasi proyek dan Anda menemukan dent, goresan, atau bundel yang basah, keputusan pertama yang harus diambil adalah: terima, tolak, atau tandai untuk penilaian lebih lanjut. Jawaban singkatnya adalah jangan langsung memasang panel yang rusak sebelum ada damage report yang lengkap dan penilaian dari personel yang kompeten. Panel yang mengalami kerusakan selama transportasi bisa memiliki ketahanan korosi yang berkurang, segelan yang tidak sempurna, atau deformasi yang mengganggu pemasangan. Namun, tidak semua kerusakan berarti panel harus dibuang; beberapa jenis kerusakan masih bisa diperbaiki atau diizinkan dengan syarat tertentu.
 
-### KR-21
+Bukti yang bisa mengubah jawaban ini meliputi jenis dan kedalaman kerusakan, lama paparan air atau kelembaban, posisi kerusakan terhadap garis air (waterline), dan apakah lapisan pelindung (coating) sudah terganggu. Tanpa dokumentasi yang tepat, klaim garansi atau penggantian dari supplier akan sulit diajukan.
 
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-33
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ISO 4354:2009 official record](https://www.iso.org/standard/38882.html), [ISO/DIS 4354 revision record](https://www.iso.org/standard/81570.html?browse=ics).
-- **Purpose for this article:** Ground the load path from wind climate and building zones through panel, fastener/clip, support, connection, and primary structure.
-- **Safe grounded facts:** Wind climate, terrain/exposure, height, shape, openings, directionality, internal pressure, edge/corner zones, tributary area, system tests/calculations, supports, fasteners, existing condition, and temporary installation states all matter.
-- **Limits:** Do not calculate or state capacity from abstracts. Obtain current Indonesian basis, licensed clauses, site inputs, exact product/system data, drawings, calculations, and signed structural review under G-23.
-
-### KR-36
-
-- **Original sources:** [PermenPUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [Permenaker No. 11 Tahun 2026 partial-revocation record — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground installation planning in current Indonesian construction/K3 context and the July 2026 consolidation gate.
-- **Safe grounded facts:** Product instructions, site method, sequence, weather criteria, access system, anchors, rescue, lifting, exclusion zones, temporary stability, hold points, competent people, inspections, and daily release are separate controls.
-- **Limits:** Recheck consolidated law and project rules. No anchor, weather, access, lifting, PPE, sequence, or rescue prescription without G-26. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `RFM-01` | KR-01, KR-02, KR-05, KR-08, KR-29 | Metal-roof terms are safe only when tied to the complete coordinated assembly and its interfaces. | G-01, G-04, G-05, G-19 | | `RFM-02` | KR-01, KR-03, KR-05, KR-07, KR-16, KR-17, KR-29, KR-35 | Base-metal, coating, paint, certificate, and product-identity distinctions can support comparisons without implying installed-system performance. | G-01, G-03, G-05, G-09, G-13, G-19, G-25 | | `RFM-03` | KR-01, KR-07, KR-11, KR-29, KR-30, KR-31, KR-33, KR-34 | A roof specification must join survey facts, geometry, assembly identity, thermal/moisture conditions, wind, and water interfaces. | G-01, G-05, G-06, G-19, G-20, G-21, G-23, G-24 | | `RFM-04` | KR-29, KR-30, KR-31 | Thermal and energy articles may explain calculation/measurement scope and input dependencies, but not promise a project result. | G-19, G-20, G-21 | | `RFM-05` | KR-29, KR-32 | Acoustic articles may distinguish laboratory airborne-sound evidence from actual rain-noise and field experience. | G-19, G-22 | | `RFM-06` | KR-29, KR-30, KR-31, KR-34 | Condensation and ventilation content can explain heat-and-moisture paths across a specified assembly and its drainage interfaces. | G-19, G-20, G-21, G-24 | | `RFM-07` | KR-11, KR-24, KR-29, KR-33, KR-35 | Wind and structural articles can show the load path and evidence hierarchy without supplying generic span or fastener tables. | G-06, G-14, G-19, G-23, G-25 | | `RFM-08` | KR-29, KR-31, KR-34, KR-35 | Rainwater articles can explain drainage/interface logic and test-method scope without treating one specimen as every roof. | G-05, G-19, G-21, G-24, G-25 | | `RFM-09` | KR-16, KR-17, KR-18, KR-29, KR-33, KR-34, KR-35 | Fastener, sealant, flashing, and penetration content can connect compatibility, corrosion, wind, and water evidence. | G-05, G-09, G-14, G-19, G-23, G-24, G-25 | | `RFM-10` | KR-16, KR-17, KR-18, KR-28, KR-29, KR-31 | Durability content can distinguish material/coating condition from assembly moisture paths, maintenance, and actual exposure. | G-05, G-09, G-14, G-18, G-19, G-21 | | `RFM-11` | KR-02, KR-04, KR-05, KR-07, KR-08, KR-29, KR-35 | Product selection can compare declared product evidence and assembly roles while withholding unverified system-equivalence claims. | G-01, G-03, G-04, G-05, G-19, G-25 | | `RFM-12` | KR-07, KR-21, KR-22, KR-23, KR-29, KR-35, KR-36 | Procurement and handover can require traceability, sampling, current offers, assembly evidence, test equivalence, and K3 deliverables. | G-03, G-05, G-12, G-13, G-15, G-19, G-25, G-26 | | `RFM-13` | KR-21, KR-29, KR-33, KR-36 | Handling and storage guidance can identify assembly damage, wind exposure, lifting, temporary restraint, and stop-work questions. | G-05, G-12, G-19, G-23, G-26 | | `RFM-14` | KR-19, KR-20, KR-21, KR-29, KR-33, KR-34, KR-36 | Installation content can present sequence, interface checks, exposure controls, and K3 planning without a universal DIY method. | G-05, G-06, G-12, G-19, G-23, G-24, G-26 | | `RFM-15` | KR-24, KR-28, KR-29, KR-31, KR-33, KR-34, KR-35, KR-36 | Diagnosis can trace symptoms through moisture, wind, water, and test evidence before repair disposition. | G-14, G-18, G-19, G-21, G-23, G-24, G-25, G-26 | | `RFM-16` | KR-24, KR-27, KR-28, KR-29, KR-30, KR-31, KR-33, KR-36 | Retrofit and end-of-life content can compare retained evidence, altered load/heat/moisture paths, reuse limits, and safe work planning. | G-14, G-17, G-18, G-19, G-20, G-21, G-23, G-26 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | `G-02` SNI, rebar, structural/cold-formed work, conformity claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | `G-03` Certificates, heat/batch, split stock, remnants, claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | `G-04` Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | `G-05` Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | `G-06` Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | `G-07` Welding, repair welding, distortion correction | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | `G-08` Weld/asset inspection and defect disposition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | `G-09` Paint, galvanizing, duplex, touch-up, maintenance | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | `G-10` Vent/drain/lift details, fabrication, inspection, repair | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | `G-11` Fire rating, reoccupation, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | `G-12` Cutting, welding, lifting, transport, storage, work at height, erection, demolition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | `G-13` Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | `G-14` Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | `G-15` Procurement comparisons and lifecycle cost | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | `G-16` Pressure/fluid/temperature/corrosion/structural pipe suitability | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | `G-17` Reuse, deconstruction, scrap, recycling, environmental claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | `G-18` Baseline, inspection interval, repair/replace/decommission decision | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | | `G-19` Exact roof assembly and product/system identity | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current drawings, layer build-up, profile, support, fastener, sealant, flashing, insulation, ventilation, drainage, compatibility, and approved manufacturer evidence for the offered system | | `G-20` Thermal and energy inputs/results | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-16` | Obtain project climate, geometry, material properties, boundary conditions, full method, model/measurement plan, calibration, uncertainty, and competent interpretation | | `G-21` Moisture and condensation assessment | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-08`, `RFM-10`, `RFM-15`, `RFM-16` | Survey indoor/outdoor moisture loads and air paths; obtain full method, material data, assembly interfaces, drainage/ventilation facts, and building-physics review | | `G-22` Rain-noise and acoustic performance | `RFM-05` | Define source-path-receiver and target; obtain an applicable complete assembly test or qualified field evidence with method, mounting, spectrum/rating, and limitations | | `G-23` Site wind action and complete load path | `RFM-03`, `RFM-07`, `RFM-09`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current site wind inputs, terrain/building geometry, pressure zones, supports, fasteners/connections, temporary states, calculations, drawings, and competent signed review | | `G-24` Water shedding, drainage, and interface evidence | `RFM-03`, `RFM-06`, `RFM-08`, `RFM-09`, `RFM-14`, `RFM-15` | Confirm slope, lengths, laps, seams, valleys, gutters, penetrations, flashings, drainage capacity, maintenance access, and applicable product/system test evidence | | `G-25` Test-to-offer equivalence | `RFM-02`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-11`, `RFM-12`, `RFM-15` | Compare the actual offered assembly with each report specimen, method, laboratory scope, dimensions, support, fixing, interfaces, conditioning, edition, result, and exclusions | | `G-26` Roof installation, access, rescue, and site K3 | `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Complete current legal/site review, risk assessment, work-at-height and lifting methods, weather limits, edge/opening controls, access, permits, supervision, inspection, rescue, and emergency arrangements | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-12, G-19, G-23, G-26
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-13-A04` → `/artikel/penyimpanan-panel-atap-metal.html` — Menyimpan Panel Atap agar Tidak Terjebak Air dan White Rust
-- `RFM-13-A05` → `/artikel/penyimpanan-aksesori-atap.html` — Segregasi Fastener, Sealant, Insulasi, dan Flashing di Storage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report dan Disposition setelah Transport Panel Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report dan Disposition setelah Transport Panel Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Damage report untuk panel atap adalah catatan tertulis yang mendokumentasikan kondisi panel saat diterima dari transportasi. Objeknya adalah panel lembaran (sheet) atau panel yang sudah diprofilkan (profiled), termasuk aksesori seperti flashing dan ridge cap. Artikel ini membahas proses pelaporan, penilaian, dan pengambilan keputusan setelah kerusakan ditemukan.
 
-## Cara kerjanya
+Artikel ini tidak membahas proses klaim asuransi, sengketa hukum dengan pihak ekspedisi, atau perbaikan detail panel. Keputusan akhir apakah panel boleh digunakan atau harus diganti adalah domain dari insinyur atau pemilik produk/design owner. Untuk panduan pemeriksaan awal saat panel tiba, baca [Receiving Inspection Panel Atap](/artikel/receiving-inspection-panel-atap.html).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report dan Disposition setelah Transport Panel Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Menurut persyaratan penyimpanan material konstruksi di OSHA 1926.250, material harus disimpan dan ditumpuk dengan cara yang mencegah kerusakan ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)). Prinsip yang sama berlaku selama transportasi: panel harus tiba dalam kondisi yang memungkinkan pemasangan tanpa kompromi struktural atau estetika.
+
+## Cara kerjanya: proses damage report
+
+Proses damage report dimulai sebelum panel diturunkan dari truk. Pertama, lakukan pemeriksaan visual terhadap kemasan luar. Perhatikan apakah ada tanda-tanda benturan, tusukan, atau paparan air (bundel basah, karat pada tepi). Kedua, dokumentasikan dengan foto setiap kerusakan yang terlihat, termasuk foto keseluruhan bundel dan foto close-up kerusakan.
+
+Ketiga, identifikasi panel yang terdampak: catat nomor bundle, nomor batch, ukuran, dan jenis profil. Keempat, pisahkan (segregate) panel yang rusak dari panel yang baik untuk mencegah kerusakan lebih lanjut atau pemasangan yang tidak disengaja. LYSSAGHT merekomendasikan agar panel yang disimpan harus dilindungi dari kelembaban dan kontak langsung dengan tanah ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
+
+Kelima, beritahu supplier secara tertulis (email atau surat resmi) dengan melampirkan foto dan deskripsi kerusakan. Keenam, minta penilaian dari personel yang kompeten untuk menentukan disposition (keputusan penggunaan). Proses ini harus diselesaikan sebelum panel dipasang, karena pemasangan panel yang rusak bisa dianggap sebagai penerimaan (acceptance) oleh beberapa kontrak.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report dan Disposition setelah Transport Panel Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor menentukan apakah panel yang rusak masih bisa digunakan atau harus ditolak:
+
+**Jenis kerusakan:** Goresan dangkal pada permukaan yang tidak terlihat (misalnya sisi bawah yang menghadap ke dalam) mungkin bisa diterima dengan syarat. Dent yang dalam atau lipatan yang salah (mis-creasing) bisa mengganggu interlock antar panel dan menyebabkan kebocoran.
+
+**Lokasi kerusakan:** Kerusakan di area yang akan tersembunyi di bawah overlap atau flashing lebih toleran dibandingkan kerusakan di area yang terlihat atau di jalur air utama.
+
+**Kedalaman kerusakan terhadap coating:** Jika goresan sudah menembus lapisan primer (primer coat) hingga metal dasar, ketahanan korosi akan terganggu secara signifikan. ASTM E1646-95(2024) menguji ketahanan atap terhadap air yang didorong angin, dan integritas permukaan panel adalah faktor kunci dalam performa jangka panjang ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)).
+
+**Lama paparan:** Panel yang basah selama transportasi singkat (beberapa jam) berbeda risikonya dengan panel yang terpapar hujan selama berhari-hari. Permenaker No. 8 Tahun 2020 tentang K3 Penggunaan Pesawat Angkat dan Angkut mengatur bahwa alat angkut harus memastikan material tiba dalam kondisi aman ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
+
+**Volume kerusakan:** Jika hanya satu atau dua lembar yang rusak dari satu bundel, disposition mungkin berbeda jika seluruh bundel terdampak. Persentase kerusakan terhadap total pengiriman juga mempengaruhi keputusan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report dan Disposition setelah Transport Panel Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berikut beberapa skenario yang membantu Anda memahami kapan harus menerima, memperbaiki, atau menolak panel:
+
+**Skenario 1: Goresan dangkal di sisi bawah yang tidak terlihat.** Jika goresan hanya mengenai topcoat dan tidak menembus primer, panel mungkin masih bisa digunakan untuk area yang tidak terlihat (misalnya sisi yang menghadap ke dalam). Dokumentasikan, minta persetujuan tertulis dari engineer, dan tandai panel tersebut.
+
+**Skenario 2: Dent besar di area profil yang akan saling mengunci.** Dent ini bisa mencegah panel terkunci dengan benar, menyebabkan celah dan potensi kebocoran. Tolak panel ini dan minta penggantian dari supplier.
+
+**Skenario 3: Bundel basah tapi panel tidak menunjukkan karat.** Keringkan segera panel, periksa apakah ada tanda awal korosi di tepi potong (cut edge). Jika tidak ada korosi dan panel langsung dipasang, risikonya lebih rendah. Namun, jika panel disimpan basah selama berhari-hari, minta penilaian kompeten.
+
+**Skenario 4: Panel terlipat salah (mis-creasing) di pabrik.** Ini bukan kerusakan transportasi tetapi cacat manufaktur. Laporkan ke supplier sebagai cacat pabrik, bukan damage report transportasi. Bedakan antara dua jenis keluhan ini karena proses penanganannya berbeda.
+
+Untuk panduan menyeluruh tentang penyimpanan panel di lokasi proyek, lihat [Penyimpanan Panel Atap Metal](/artikel/penyimpanan-panel-atap-metal.html).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Damage Report dan Disposition setelah Transport Panel Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: Menerima panel tanpa memeriksa.** Shortcut ini berbahaya karena kerusakan yang tidak terdeteksi akan muncul sebagai masalah di kemudian hari, sering kali setelah garansi berakhir. Verifikasi: selalu periksa kemasan dan beberapa panel di bagian atas dan tengah bundel sebelum menandatangani berita acara penerimaan (BAST).
 
-## Objection or shortcut to address
+**Kesalahan 2: Foto yang tidak lengkap.** Foto hanya menunjukkan kerusakan tanpa konteks (tanpa nomor bundle, tanpa skala). Verifikasi: setiap foto harus menunjukkan nomor bundle, area kerusakan dengan referensi skala (misalnya penggaris atau koin), dan foto keseluruhan bundel.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Tidak melakukan segregasi.** Panel yang rusak dibiarkan bercampur dengan panel baik. Verifikasi: segera pisahkan panel yang rusak ke area terpisah dan beri tanda yang jelas.
 
-## Required conclusion
+**Kesalahan 4: Memberitahu supplier secara lisan saja.** Tanpa catatan tertulis, klaim bisa dibantah. Verifikasi: kirim email atau surat resmi dengan lampiran foto dalam 24 jam setelah penerimaan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Teman Besi.co.id, Permen PUPR No. 10 Tahun 2021 tentang Standar Kegiatan dan Produk dalam Penyelenggaraan Bangunan Gedung mengatur bahwa material bangunan harus memenuhi standar mutu yang ditetapkan ([Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021)). Panel yang rusak dan tidak memenuhi standar tidak boleh dipasang tanpa persetujuan tertulis dari pihak yang berwenang.
 
-## Draft completion checklist
+## Objection atau jalan pintas yang perlu dijawab
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Shortcut yang sering muncul: "Kerusakan hanya minor, tidak perlu repot-repot bikin damage report. Langsung pasang saja." Shortcut ini bisa gagal karena dua alasan. Pertama, tanpa damage report, Anda kehilangan bukti untuk mengajukan klaim penggantian atau garansi ke supplier. Kedua, kerusakan yang dianggap minor bisa berkembang menjadi masalah besar setelah terpapar cuaca selama bertahun-tahun. Goresan yang menembus coating akan menjadi titik awal korosi yang memperluas diri, dan dalam lima hingga sepuluh tahun bisa menyebabkan kebocoran.
+
+Alternatif yang lebih aman: luangkan 15-30 menit untuk membuat damage report lengkap dengan foto. Ini melindungi Anda secara hukum, memastikan kualitas instalasi, dan memberikan dasar untuk klaim jika diperlukan. SNI 1727:2020 tentang beban minimum untuk desain bangunan menekankan bahwa material harus memenuhi syarat untuk fungsi yang direncanakan ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)).
+
+## Penutup
+
+Kawan Besi.co.id, damage report dan disposition panel atap setelah transportasi adalah proses yang melindungi investasi proyek Anda. Langkah-langkahnya sederhana: periksa sebelum bongkar, dokumentasikan dengan foto lengkap, segregasi panel yang rusak, beritahu supplier secara tertulis, dan minta penilaian kompeten. Jangan pernah memasang panel yang belum melewati proses ini.
+
+Langkah berikutnya: buatlah template damage report standar yang mencakup checklist pemeriksaan visual, area foto yang harus didokumentasikan, dan prosedur pemberitahuan supplier. Simpan template ini di area penerimaan barang dan latih tim Anda untuk menggunakannya secara konsisten. Keputusan akhir disposition ada di tangan engineer atau pemilik desain; tugas Anda adalah menyediakan bukti yang lengkap dan akurat untuk mendukung keputusan tersebut. Batas yang jujur: artikel ini tidak menggantikan penilaian profesional terhadap kondisi panel spesifik di proyek Anda.

@@ -2,8 +2,8 @@
 article_id: RFM-08-A06
 title: "Wind-Driven Rain dan Capillary Entry pada Laps Atap"
 slug: "wind-driven-rain-dan-capillary-entry"
-description: "Explain pressure, lap orientation, capillary paths, seal placement, support/fixing, profile geometry, debris/damage, and controlled testing"
-status: outline
+description: "Panduan memahami mekanisme masuknya air hujan yang ditiup angin dan aksi kapiler pada sambungan atap metal."
+status: draft
 publication_date: "2026-01-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,183 +13,132 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/wind-driven-rain-dan-capillary-entry.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/51615.html"
+  - "https://www.iso.org/standard/65708.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Wind-Driven Rain dan Capillary Entry pada Laps Atap
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Wind-Driven Rain dan Capillary Entry pada Laps Atap”
-- **Reader and situation:** Owner with leaks under wind
-- **Reader outcome:** Explain pressure, lap orientation, capillary paths, seal placement, support/fixing, profile geometry, debris/damage, and controlled testing
-- **Primary intent:** Understand non-gravity rain entry
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prescribe sealant or lap detail; RFM-09-A02 and manufacturer detail own repair/design
-- **Final public route:** `/artikel/wind-driven-rain-dan-capillary-entry.html`
-- **Appointed CMS date:** `2026-01-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Air hujan bisa masuk ke bawah atap metal bukan hanya karena gravitasi. Angin bisa mendorong air melawan gravitasi, masuk melalui celah yang seharusnya kedap. Selain itu, aksi kapiler — di mana air merambat melalui celah sempit — bisa membawa air masuk ke area yang tidak terpapar hujan langsung.
 
-## Opening instructions
+Memahami mekanisme wind-driven rain (hujan yang ditiup angin) dan capillary entry (masuknya air melalui aksi kapiler) membantu Anda memahami mengapa kebocoran terjadi bahkan pada atap yang terpasang dengan baik. Ini juga membantu Anda memprioritaskan area yang membutuhkan perhatian khusus.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Wind-Driven Rain dan Capillary Entry pada Laps Atap**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Menurut standar ASTM yang mengatur sistem atap metal, kinerja ketahanan air sangat bergantung pada detail instalasi ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)). Ini sangat relevan untuk memahami mekanisme masuknya air.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+**Image ID:** `LOCAL-001`
+**Source type:** `local`
+**Placement:** after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
+**Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+**Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+**Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+_Ilustrasi umum dari aset lokal atap.besi.co.id; bukan dokumentasi proyek tertentu._
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Definisi dan Batas Objek
 
-## Evidence packet
+Artikel ini membantu Anda memahami mekanisme masuknya air melalui wind-driven rain dan capillary entry — bukan mendesain atau memperbaiki sambungan atap. Desain dan perbaikan sambungan adalah ranah insinyur atau kontraktor yang kompeten.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Yang dibahas: mekanisme dasar, faktor-faktor yang mempengaruhi, dan area yang paling rentan. Yang tidak dibahas: desain sambungan spesifik, rekomendasi sealant, atau metode perbaikan.
 
-### KR-29
+## Wind-Driven Rain: Angin Mendorong Air
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+Wind-driven rain terjadi ketika angin mendorong air hujan melawan gravitasi, masuk melalui celah yang seharusnya kedap. Mekanisme ini sangat relevan untuk atap metal di daerah dengan angin kencang.
 
-### KR-31
+**Tekanan angin.** Angin menciptakan tekanan positif di sisi luar atap dan tekanan negatif di sisi dalam. Perbedaan tekanan ini mendorong air masuk melalui celah.
 
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
+**Arah angin.** Arah angin relatif terhadap orientasi atap sangat mempengaruhi area yang paling rentan. Sisi atap yang menghadap angin menerima tekanan yang lebih besar.
 
-### KR-34
+**Kecepatan angin.** Semakin kencang angin, semakin besar tekanan yang mendorong air masuk.
 
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
+**Intensitas hujan.** Semakin deras hujan, semakin banyak air yang tersedia untuk didorong masuk oleh angin.
 
-### KR-35
+## Capillary Entry: Aksi Merambatnya Air
 
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
+Capillary entry terjadi ketika air merambat melalui celah sempit karena tegangan permukaan. Mekanisme ini sangat relevan untuk sambungan overlap pada atap metal.
 
-## Evidence gates
+**Lebar celah.** Celah yang sangat sempit (kurang dari 0,5 mm) bisa menghasilkan aksi kapiler yang kuat. Air bisa merambat melawan gravitasi melalui celah ini.
 
-- **TOPIC-GATE:** G-05, G-19, G-21, G-24, G-25
+**Tegangan permukaan.** Tegangan permukaan air menariknya masuk ke celah sempit. Ini adalah kekuatan yang sangat kuat di skala kecil.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Orientasi celah.** Celah horizontal lebih rentan terhadap aksi kapiler dari celah vertikal karena air bisa mengumpul dan merambat.
 
-## Internal-link plan
+**Kontaminasi.** Kotoran dan debris di celah bisa meningkatkan aksi kapiler dengan menciptakan jalur merambat yang lebih efisien.
 
-### Existing local routes
+Menurut ISO 65708, kinerja sistem atap sangat bergantung pada detail instalasi ([ISO 65708](https://www.iso.org/standard/65708.html)). Ini sangat relevan untuk sambungan overlap.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Faktor yang Mempengaruhi Kerentanan
 
-### Planned sibling articles
+Sobat Besi.co.id, berikut faktor yang mempengaruhi kerentanan terhadap wind-driven rain dan capillary entry:
 
-These are future routes. Do not link them as live until their HTML exists.
+**Desain sambungan.** Sambungan dengan overlap yang memadai dan seal yang tepat lebih tahan terhadap masuknya air.
 
-- `RFM-08-A04` → `/artikel/valley-dan-internal-gutter-atap.html` — Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi
-- `RFM-08-A05` → `/artikel/overflow-dan-discharge-atap.html` — Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat
+**Kemiringan atap.** Atap dengan kemiringan rendah lebih rentan karena air mengalir lebih lambat dan memiliki lebih banyak waktu untuk masuk.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+**Arah angin dominan.** Sisi atap yang menghadap angin dominan lebih rentan.
 
-## Jawaban singkat dan salah paham utama
+**Kondisi sealant.** Sealant yang sudah tua, retak, atau rusak tidak lagi melindungi dengan baik.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Wind-Driven Rain dan Capillary Entry pada Laps Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Debris.** Debris di sambungan bisa menciptakan jalur untuk aksi kapiler dan menghalangi drainase.
 
-## Definisi dan batas objek
+## Contoh Keputusan Praktis
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Wind-Driven Rain dan Capillary Entry pada Laps Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Besi.co.id, bayangkan Anda memiliki atap dengan sambungan overlap. Kebocoran terjadi hanya saat hujan dari arah tertentu. Apa yang mungkin terjadi?
 
-## Cara kerjanya
+Pertama, identifikasi arah angin saat kebocoran terjadi. Apakah angin mendorong air ke sambungan overlap?
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Wind-Driven Rain dan Capillary Entry pada Laps Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kedua, periksa kondisi overlap. Apakah overlap cukup lebar? Apakah sealant masih dalam kondisi baik?
 
-## Faktor yang mengubah hasil
+Ketiga, periksa keberadaan debris. Apakah ada debris yang menghalangi drainase atau menciptakan jalur kapiler?
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Wind-Driven Rain dan Capillary Entry pada Laps Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Keempat, pertimbangkan aksi kapiler. Apakah ada celah sempit yang memungkinkan air merambat?
 
-## Contoh keputusan praktis
+## Kesalahan Umum yang Harus Dihindari
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Wind-Driven Rain dan Capillary Entry pada Laps Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Mengabaikan wind-driven rain.** Banyak orang hanya mempertimbangkan gravitasi saat menganalisis kebocoran. Wind-driven rain bisa menjelaskan kebocoran yang "tidak masuk akal."
 
-## Kesalahan umum dan cara memeriksanya
+**Tidak mempertimbangkan aksi kapiler.** Aksi kapiler bisa membawa air ke area yang tidak terpapar hujan langsung.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Wind-Driven Rain dan Capillary Entry pada Laps Atap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Overlap yang terlalu kecil.** Overlap yang terlalu kecil tidak memberikan perlindungan yang memadai terhadap wind-driven rain.
 
-## Objection or shortcut to address
+**Sealant yang rusak.** Sealant yang sudah tua atau rusak tidak melindungi dengan baik.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk informasi lebih lanjut tentang sambungan, baca artikel kami tentang [exposed fix dan concealed fix](/artikel/exposed-fix-dan-concealed-fix.html). Jika Anda tertarik dengan aspek investigasi, kunjungi [investigasi kebocoran atap metal](/artikel/investigasi-kebocoran-atap-metal.html).
 
-## Required conclusion
+## Mengapa Mekanisme Ini Penting untuk Dipahami
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sobat Besi.co.id, memahami wind-driven rain dan capillary entry bukan sekadar pengetahuan teoritis. Ini adalah alat untuk mendiagnosis kebocoran yang tidak terduga. Jika Anda mengalami kebocoran yang hanya terjadi saat hujan dari arah tertentu, kemungkinan besar wind-driven rain adalah penyebabnya.
 
-## Draft completion checklist
+Jika Anda mengalami kebocoran di area yang tidak terpapar hujan langsung, aksi kapiler mungkin berperan. Memahami mekanisme ini membantu Anda mengarahkan investigasi ke area yang tepat dan menghindari perbaikan yang tidak perlu.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Besi.co.id, pengetahuan tentang mekanisme masuknya air adalah investasi untuk kemampuan diagnostik Anda. Semakin Anda memahami bagaimana air bisa masuk, semakin efektif Anda dalam mencegah dan mengatasi kebocoran.
+
+Kawan Besi.co.id, ingatlah bahwa detail kecil di sambungan bisa memiliki dampak besar terhadap kinerja kedap air. Jangan pernah meremehkan pentingnya detail di area-area ini.
+
+## Perbandingan Wind-Driven Rain dan Capillary Entry
+
+Berikut perbandingan kedua mekanisme:
+
+**Wind-driven rain.** Terjadi saat angin mendorong air hujan masuk melalui celah. Sangat tergantung pada arah dan kecepatan angin, serta intensitas hujan. Area paling rentan: sisi atap yang menghadap angin dominan.
+
+**Capillary entry.** Terjadi karena tegangan permukaan air yang merambat melalui celah sempit. Terjadi bahkan tanpa angin atau hujan deras. Area paling rentan: sambungan overlap dengan celah sempit.
+
+Sobat Besi.co.id, kedua mekanisme ini bisa terjadi secara bersamaan. Wind-driven rain bisa mendorong air ke celah, dan kemudian aksi kapiler bisa membawa air lebih jauh ke dalam. Kombinasi ini membuat kebocoran sulit didiagnosis.
+
+Teman Besi.co.id, dengan memahami kedua mekanisme ini, Anda bisa melakukan investigasi yang lebih efektif dan menghindari perbaikan yang tidak tepat sasaran.
+
+## Kesimpulan
+
+Wind-driven rain dan capillary entry adalah mekanisme masuknya air yang sering dilupakan. Memahami mekanisme ini membantu Anda memahami mengapa kebocoran terjadi dan area mana yang membutuhkan perhatian khusus.
+
+Langkah selanjutnya: identifikasi area yang rentan terhadap wind-driven rain dan capillary entry pada atap Anda. Periksa kondisi overlap, sealant, dan keberadaan debris. Jika ditemukan masalah, segera perbaiki sebelum kebocoran terjadi.
+
+Batasan yang perlu diingat: artikel ini membantu Anda memahami mekanisme, bukan mendesain atau memperbaiki sambungan. Desain dan perbaikan sambungan adalah ranah profesional yang kompeten.

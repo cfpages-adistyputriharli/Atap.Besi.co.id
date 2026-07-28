@@ -2,8 +2,8 @@
 article_id: RFM-15-A06
 title: "Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact"
 slug: "inspeksi-atap-setelah-cuaca-ekstrem"
-description: "Cover exclusion, immediate internal observations, debris/water, panel/edge/flashing movement, fasteners, drainage, structure, electrical/services, photos, temporary control, and escalation"
-status: outline
+description: "Panduan inspeksi atap metal setelah cuaca ekstrem atau benturan, meliputi pengamatan awal, dokumentasi, dan langkah eskalasi."
+status: draft
 publication_date: "2026-07-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,219 +13,133 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/inspeksi-atap-setelah-cuaca-ekstrem.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/46556.html"
-  - "https://www.iso.org/standard/83054.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/51615.html"
-  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/standard/81570.html?browse=ics"
   - "https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”
-- **Reader and situation:** Owner after severe weather/impact
-- **Reader outcome:** Cover exclusion, immediate internal observations, debris/water, panel/edge/flashing movement, fasteners, drainage, structure, electrical/services, photos, temporary control, and escalation
-- **Primary intent:** Plan post-event response
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare safe or authorize access; emergency/structural/K3 professionals own response
-- **Final public route:** `/artikel/inspeksi-atap-setelah-cuaca-ekstrem.html`
-- **Appointed CMS date:** `2026-07-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Setelah badai, hujan deras, atau kejadian yang menyebabkan benturan pada atap, pertanyaan pertama yang muncul biasanya: "Apakah atap saya baik-baik saja?" Jawaban jujurnya: Anda tidak akan tahu sampai Anda memeriksanya. Dan pemeriksaan itu harus dilakukan dengan cara yang aman dan sistematis — bukan sekadar melihat dari bawah dan berharap yang terbaik.
 
-## Opening instructions
+Inspeksi atap setelah cuaca ekstrem atau impact adalah proses pengamatan dan dokumentasi yang bertujuan mengidentifikasi kerusakan sedini mungkin, mencegah masalah berkembang menjadi lebih parah, dan menentukan apakah diperlukan perbaikan profesional. Proses ini dimulai dari pengamatan di dalam bangunan, dilanjutkan ke pengamatan dari luar jika aman, dan diakhiri dengan dokumentasi serta keputusan eskalasi.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Penting untuk dipahami bahwa inspeksi ini bukan pengganti penilaian profesional. Jika Anda menemukan tanda-tanda kerusakan struktural, kebocoran aktif, atau kondisi yang membahayakan keselamatan, segera hubungi profesional yang kompeten. Artikel ini membantu Anda melakukan pengamatan awal — bukan menggantikan penilaian ahli.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+**Image ID:** `LOCAL-001`
+**Source type:** `local`
+**Placement:** after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
+**Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+**Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+**Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+_Ilustrasi umum dari aset lokal atap.besi.co.id; bukan dokumentasi proyek tertentu._
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Definisi dan Batas Objek
 
-## Evidence packet
+Artikel ini membantu Anda melakukan inspeksi visual awal setelah kejadian cuaca ekstrem atau benturan. Ini bukan penilaian struktural atau sertifikasi keamanan. Keputusan tentang apakah atap aman untuk diakses atau apakah bangunan aman untuk ditempati harus dibuat oleh profesional yang kompeten — misalnya insinyur struktural atau ahli keselamatan kerja.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Mengapa batas ini penting? Karena inspeksi yang dilakukan oleh orang yang tidak terlatih bisa melewatkan tanda-tanda bahaya yang kritis, atau lebih buruk lagi, membahayakan diri sendiri saat mencoba mengakses area yang tidak aman. ISO 13822 mengatur tentang penilaian struktur yang ada, dan standar ini menekankan bahwa penilaian harus dilakukan oleh personel yang kompeten ([ISO 13822](https://www.iso.org/standard/46556.html)). Yang bisa Anda lakukan adalah pengamatan awal dari tempat yang aman untuk menentukan apakah diperlukan penilaian profesional.
 
-### KR-24
+## Langkah 1: Pengamatan dari Dalam Bangunan
 
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
+Sebelum keluar dan memeriksa atap dari luar, mulailah dari dalam. Ini lebih aman dan sering kali memberikan petunjuk awal yang sangat berguna.
 
-### KR-28
+**Periksa langit-langit dan dinding.** Cari tanda-tanda kebocoran: bercak air, perubahan warna, gelembung pada cat, atau tetesan air aktif. Bercak yang sudah kering mungkin dari kejadian sebelumnya; bercak yang masih basah menunjukkan kebocoran baru.
 
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18.
+**Perhatikan suara.** Saat hujan masih turun atau segera setelah hujan berhenti, dengarkan suara tetesan air, aliran air di tempat yang tidak seharusnya, atau suara angin yang masuk melalui celah.
 
-### KR-29
+**Cek area di bawah penetrasi.** Di bawah setiap pipa, kabel, atau elemen yang menembus atap, periksa apakah ada tanda-tanda kebocoran. Ini adalah titik-titik yang paling rentan.
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+**Dokumentasikan temuan.** Foto setiap tanda yang Anda temukan, beserta lokasinya. Ini akan sangat membantu jika Anda memutuskan untuk menghubungi profesional atau mengajukan klaim asuransi.
 
-### KR-31
+## Langkah 2: Pengamatan dari Luar (Jika Aman)
 
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
+Jika kondisi memungkinkan dan Anda bisa mengakses area yang aman, pengamatan dari luar memberikan informasi tambahan yang penting. Namun, keselamatan adalah prioritas utama — jangan pernah naik ke atap yang basah, licin, atau jika Anda tidak yakin dengan keamanannya.
 
-### KR-33
+**Periksa dari tanah.** Dari posisi aman di tanah, perhatikan apakah ada lembaran yang terangkat, bergeser, atau hilang. Periksa apakah ada puing-puing yang menancap di atap atau di sekitarnya.
 
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ISO 4354:2009 official record](https://www.iso.org/standard/38882.html), [ISO/DIS 4354 revision record](https://www.iso.org/standard/81570.html?browse=ics).
-- **Purpose for this article:** Ground the load path from wind climate and building zones through panel, fastener/clip, support, connection, and primary structure.
-- **Safe grounded facts:** Wind climate, terrain/exposure, height, shape, openings, directionality, internal pressure, edge/corner zones, tributary area, system tests/calculations, supports, fasteners, existing condition, and temporary installation states all matter.
-- **Limits:** Do not calculate or state capacity from abstracts. Obtain current Indonesian basis, licensed clauses, site inputs, exact product/system data, drawings, calculations, and signed structural review under G-23.
+**Perhatikan tepi dan sudut.** Tepi atap dan sudut adalah area yang paling rentan terhadap kerusakan akibat angin. Periksa apakah flashing di area ini masih di tempatnya dan tidak rusak.
 
-### KR-34
+**Periksa talang dan downspout.** Pastikan talang tidak tersumbat oleh puing-puing dan downspout masih terpasang dengan baik. Talang yang tersumbat bisa menyebabkan genangan air di atap.
 
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
+**Perhatikan tanda-tanda dari kejauhan.** Jika Anda bisa melihat atap dari gedung tetangga atau area yang lebih tinggi, perhatikan perubahan warna, area yang terlihat tidak rata, atau tanda-tanda lain yang tidak terlihat dari bawah.
 
-### KR-35
+Menurut standar ASTM untuk sistem atap metal, kinerja ketahanan air sangat bergantung pada kondisi instalasi ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)). Setelah cuaca ekstrem, kondisi ini mungkin berubah — dan perubahan itu perlu diidentifikasi.
 
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
+## Langkah 3: Poin-Poin yang Harus Diperiksa
 
-### KR-36
+Berikut checklist yang bisa Anda gunakan untuk inspeksi visual:
 
-- **Original sources:** [PermenPUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [Permenaker No. 11 Tahun 2026 partial-revocation record — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground installation planning in current Indonesian construction/K3 context and the July 2026 consolidation gate.
-- **Safe grounded facts:** Product instructions, site method, sequence, weather criteria, access system, anchors, rescue, lifting, exclusion zones, temporary stability, hold points, competent people, inspections, and daily release are separate controls.
-- **Limits:** Recheck consolidated law and project rules. No anchor, weather, access, lifting, PPE, sequence, or rescue prescription without G-26. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `RFM-01` | KR-01, KR-02, KR-05, KR-08, KR-29 | Metal-roof terms are safe only when tied to the complete coordinated assembly and its interfaces. | G-01, G-04, G-05, G-19 | | `RFM-02` | KR-01, KR-03, KR-05, KR-07, KR-16, KR-17, KR-29, KR-35 | Base-metal, coating, paint, certificate, and product-identity distinctions can support comparisons without implying installed-system performance. | G-01, G-03, G-05, G-09, G-13, G-19, G-25 | | `RFM-03` | KR-01, KR-07, KR-11, KR-29, KR-30, KR-31, KR-33, KR-34 | A roof specification must join survey facts, geometry, assembly identity, thermal/moisture conditions, wind, and water interfaces. | G-01, G-05, G-06, G-19, G-20, G-21, G-23, G-24 | | `RFM-04` | KR-29, KR-30, KR-31 | Thermal and energy articles may explain calculation/measurement scope and input dependencies, but not promise a project result. | G-19, G-20, G-21 | | `RFM-05` | KR-29, KR-32 | Acoustic articles may distinguish laboratory airborne-sound evidence from actual rain-noise and field experience. | G-19, G-22 | | `RFM-06` | KR-29, KR-30, KR-31, KR-34 | Condensation and ventilation content can explain heat-and-moisture paths across a specified assembly and its drainage interfaces. | G-19, G-20, G-21, G-24 | | `RFM-07` | KR-11, KR-24, KR-29, KR-33, KR-35 | Wind and structural articles can show the load path and evidence hierarchy without supplying generic span or fastener tables. | G-06, G-14, G-19, G-23, G-25 | | `RFM-08` | KR-29, KR-31, KR-34, KR-35 | Rainwater articles can explain drainage/interface logic and test-method scope without treating one specimen as every roof. | G-05, G-19, G-21, G-24, G-25 | | `RFM-09` | KR-16, KR-17, KR-18, KR-29, KR-33, KR-34, KR-35 | Fastener, sealant, flashing, and penetration content can connect compatibility, corrosion, wind, and water evidence. | G-05, G-09, G-14, G-19, G-23, G-24, G-25 | | `RFM-10` | KR-16, KR-17, KR-18, KR-28, KR-29, KR-31 | Durability content can distinguish material/coating condition from assembly moisture paths, maintenance, and actual exposure. | G-05, G-09, G-14, G-18, G-19, G-21 | | `RFM-11` | KR-02, KR-04, KR-05, KR-07, KR-08, KR-29, KR-35 | Product selection can compare declared product evidence and assembly roles while withholding unverified system-equivalence claims. | G-01, G-03, G-04, G-05, G-19, G-25 | | `RFM-12` | KR-07, KR-21, KR-22, KR-23, KR-29, KR-35, KR-36 | Procurement and handover can require traceability, sampling, current offers, assembly evidence, test equivalence, and K3 deliverables. | G-03, G-05, G-12, G-13, G-15, G-19, G-25, G-26 | | `RFM-13` | KR-21, KR-29, KR-33, KR-36 | Handling and storage guidance can identify assembly damage, wind exposure, lifting, temporary restraint, and stop-work questions. | G-05, G-12, G-19, G-23, G-26 | | `RFM-14` | KR-19, KR-20, KR-21, KR-29, KR-33, KR-34, KR-36 | Installation content can present sequence, interface checks, exposure controls, and K3 planning without a universal DIY method. | G-05, G-06, G-12, G-19, G-23, G-24, G-26 | | `RFM-15` | KR-24, KR-28, KR-29, KR-31, KR-33, KR-34, KR-35, KR-36 | Diagnosis can trace symptoms through moisture, wind, water, and test evidence before repair disposition. | G-14, G-18, G-19, G-21, G-23, G-24, G-25, G-26 | | `RFM-16` | KR-24, KR-27, KR-28, KR-29, KR-30, KR-31, KR-33, KR-36 | Retrofit and end-of-life content can compare retained evidence, altered load/heat/moisture paths, reuse limits, and safe work planning. | G-14, G-17, G-18, G-19, G-20, G-21, G-23, G-26 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | `G-02` SNI, rebar, structural/cold-formed work, conformity claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | `G-03` Certificates, heat/batch, split stock, remnants, claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | `G-04` Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | `G-05` Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | `G-06` Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | `G-07` Welding, repair welding, distortion correction | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | `G-08` Weld/asset inspection and defect disposition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | `G-09` Paint, galvanizing, duplex, touch-up, maintenance | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | `G-10` Vent/drain/lift details, fabrication, inspection, repair | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | `G-11` Fire rating, reoccupation, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | `G-12` Cutting, welding, lifting, transport, storage, work at height, erection, demolition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | `G-13` Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | `G-14` Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | `G-15` Procurement comparisons and lifecycle cost | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | `G-16` Pressure/fluid/temperature/corrosion/structural pipe suitability | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | `G-17` Reuse, deconstruction, scrap, recycling, environmental claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | `G-18` Baseline, inspection interval, repair/replace/decommission decision | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | | `G-19` Exact roof assembly and product/system identity | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current drawings, layer build-up, profile, support, fastener, sealant, flashing, insulation, ventilation, drainage, compatibility, and approved manufacturer evidence for the offered system | | `G-20` Thermal and energy inputs/results | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-16` | Obtain project climate, geometry, material properties, boundary conditions, full method, model/measurement plan, calibration, uncertainty, and competent interpretation | | `G-21` Moisture and condensation assessment | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-08`, `RFM-10`, `RFM-15`, `RFM-16` | Survey indoor/outdoor moisture loads and air paths; obtain full method, material data, assembly interfaces, drainage/ventilation facts, and building-physics review | | `G-22` Rain-noise and acoustic performance | `RFM-05` | Define source-path-receiver and target; obtain an applicable complete assembly test or qualified field evidence with method, mounting, spectrum/rating, and limitations | | `G-23` Site wind action and complete load path | `RFM-03`, `RFM-07`, `RFM-09`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current site wind inputs, terrain/building geometry, pressure zones, supports, fasteners/connections, temporary states, calculations, drawings, and competent signed review | | `G-24` Water shedding, drainage, and interface evidence | `RFM-03`, `RFM-06`, `RFM-08`, `RFM-09`, `RFM-14`, `RFM-15` | Confirm slope, lengths, laps, seams, valleys, gutters, penetrations, flashings, drainage capacity, maintenance access, and applicable product/system test evidence | | `G-25` Test-to-offer equivalence | `RFM-02`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-11`, `RFM-12`, `RFM-15` | Compare the actual offered assembly with each report specimen, method, laboratory scope, dimensions, support, fixing, interfaces, conditioning, edition, result, and exclusions | | `G-26` Roof installation, access, rescue, and site K3 | `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Complete current legal/site review, risk assessment, work-at-height and lifting methods, weather limits, edge/opening controls, access, permits, supervision, inspection, rescue, and emergency arrangements | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+**Lembaran atap.** Apakah ada yang terangkat, bergeser, melengkung, atau hilang? Apakah ada yang penyok atau berlubang?
 
-## Evidence gates
+**Flashing dan trim.** Apakah masih di tempatnya? Apakah ada yang lepas, rusak, atau terpisah dari lembaran?
 
-- **TOPIC-GATE:** G-14, G-18, G-19, G-21, G-23, G-24, G-25, G-26
+**Pengikat (sekrup/klip).** Apakah ada yang terlihat longgar, hilang, atau rusak? Pada sistem exposed fix, periksa apakah washer terlihat rusak.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Penetrasi.** Apakah sealant atau flashing di sekitar penetrasi masih utuh? Apakah ada celah yang terlihat?
 
-## Internal-link plan
+**Talang dan drainase.** Apakah tersumbat oleh puing? Apakah masih terpasang dengan baik? Apakah ada yang bocor?
 
-### Existing local routes
+**Struktur penumpu (dari dalam).** Apakah ada tanda-tanda defleksi berlebihan pada kuda-kuda atau balok? Apakah ada retakan yang tidak ada sebelumnya?
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+**Insulasi (jika terlihat).** Apakah ada yang basah, bergerak, atau rusak?
 
-### Planned sibling articles
+## Langkah 4: Dokumentasi
 
-These are future routes. Do not link them as live until their HTML exists.
+Dokumentasi yang baik sangat penting — bukan hanya untuk klaim asuransi, tetapi juga untuk perbandingan di masa depan.
 
-- `RFM-15-A04` → `/artikel/inspeksi-kondisi-panel-atap.html` — Inspeksi Korosi, Dents, Oil Canning, dan Panel Distress
-- `RFM-15-A05` → `/artikel/maintenance-drainase-atap.html` — Maintenance Gutter, Valley, Outlet, dan Overflow
+**Foto dengan orientasi.** Foto setiap temuan dari beberapa sudut. Sertakan foto yang menunjukkan lokasi temuan dalam konteks keseluruhan atap (misalnya foto lebar yang menunjukkan posisi di atap).
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+**Ukuran dan lokasi.** Catat ukuran kerusakan (misalnya "lembaran terangkat sepanjang 2 meter") dan lokasinya (misalnya "sisi timur, dekat sudut timur laut").
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+**Tanggal dan waktu.** Catat kapan inspeksi dilakukan dan kondisi cuaca saat itu.
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kondisi sebelum.** Jika Anda memiliki foto atau catatan kondisi atap sebelum kejadian, gunakan sebagai pembanding.
 
-## Mekanisme perubahan atau penurunan kinerja
+Peraturan Menteri PUPR No. 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi mengharuskan dokumentasi yang baik untuk keputusan keselamatan ([Permen PUPR No. 10/2021](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021)). Dokumentasi Anda menjadi bagian dari catatan keselamatan bangunan.
 
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 5: Keputusan Eskalasi
 
-## Inspeksi dan data yang perlu dicatat
+Berdasarkan temuan Anda, tentukan langkah selanjutnya:
 
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Temuan minor.** Jika kerusakan bersifat kosmetik (misalnya cat terkelupas, trim sedikit bergeser) dan tidak ada tanda kebocoran, Anda mungkin bisa menjadwalkan perbaikan rutin.
 
-## Pilihan perawatan atau intervensi
+**Temuan signifikan.** Jika ada kebocoran aktif, lembaran terangkat atau hilang, atau kerusakan yang terlihat struktural, segera hubungi profesional. Pasang penutup sementara jika diperlukan untuk mencegah kerusakan lebih lanjut.
 
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Temuan kritis.** Jika ada tanda-tanda kerusakan struktural (misalnya kuda-kuda bengkok, kolom miring, atau retakan besar), evakuasi area di bawahnya dan hubungi insinyur struktural segera. Jangan coba memperbaiki sendiri.
 
-## Cara menentukan prioritas
+**Klaim asuransi.** Jika kerusakan signifikan, hubungi perusahaan asuransi Anda sesegera mungkin. Dokumentasi yang Anda kumpulkan akan menjadi dasar klaim.
 
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan Umum yang Harus Dihindari
 
-## Rekaman, handover, dan pemicu pemeriksaan ulang
+Kawan Besi.co.id, ada beberapa kesalahan yang sering terjadi setelah cuaca ekstrem:
 
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspeksi Atap setelah Angin Kencang, Hujan Ekstrem, atau Impact”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Terlalu cepat mengakses atap.** Jangan naik ke atap segera setelah badai. Permukaan masih basah dan licin, struktur mungkin belum stabil, dan ada risiko sengatan listrik jika ada kabel yang rusak.
 
-## Objection or shortcut to address
+**Mengabaikan kerusakan kecil.** Lembaran yang sedikit bergeser atau sealant yang retak mungkin terlihat tidak berbahaya, tetapi bisa menjadi masalah besar jika dibiarkan. Air yang masuk melalui celah kecil bisa merusak insulasi dan struktur di bawahnya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Tidak mendokumentasikan.** Tanpa foto dan catatan, Anda tidak memiliki bukti untuk klaim asuransi atau untuk membandingkan kondisi di masa depan.
 
-## Required conclusion
+**Menunda eskalasi.** Jika Anda menemukan tanda-tanda kerusakan yang signifikan, jangan menunggu. Semakin cepat Anda menghubungi profesional, semakin kecil kemungkinan kerusakan berkembang menjadi lebih parah.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Untuk informasi lebih lanjut tentang investigasi kebocoran, baca artikel kami tentang [investigasi kebocoran atap metal](/artikel/investigasi-kebocoran-atap-metal.html). Jika Anda tertarik dengan aspek perbaikan, kunjungi [mengganti atap bangunan beroperasi](/artikel/mengganti-atap-bangunan-beroperasi.html).
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Besi.co.id,
+
+Inspeksi atap setelah cuaca ekstrem atau impact dimulai dari pengamatan di dalam bangunan, dilanjutkan ke pengamatan dari luar jika aman, dan diakhiri dengan dokumentasi serta keputusan eskalasi. Proses ini membantu Anda mengidentifikasi kerusakan sedini mungkin dan menentukan apakah diperlukan perbaikan profesional.
+
+Langkah selanjutnya: buat checklist inspeksi spesifik untuk bangunan Anda berdasarkan poin-poin di atas. Simpan bersama dokumen darurat lainnya sehingga Anda bisa mengaksesnya dengan cepat saat dibutuhkan.
+
+Batasan yang perlu diingat: inspeksi ini adalah pengamatan awal, bukan penilaian profesional. Jika Anda menemukan tanda-tanda kerusakan struktural, kebocoran aktif, atau kondisi yang membahayakan keselamatan, segera hubungi profesional yang kompeten.

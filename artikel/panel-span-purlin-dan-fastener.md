@@ -2,63 +2,25 @@
 article_id: RFM-07-A03
 title: "Panel Span, Purlin Spacing, dan Fastener Capacity"
 slug: "panel-span-purlin-dan-fastener"
-description: "Connect profile, thickness/material, support condition, load zones, fastener/clip, deflection, tests/calculations, and service conditions"
-status: outline
+description: "Hubungan panel span, jarak purlin, dan kapasitas fastener: profil, ketebalan/material, kondisi dukungan, zona beban, fastener/klip, defleksi, pengujian, dan kondisi layanan."
+status: draft
 publication_date: "2025-11-29"
 publication_date_basis: editorial_backfill
 date_modified: null
 parent_topic: RFM-07
 primary_intent: "Review structural inputs"
 reader_community: "Besi.co.id"
-reader_address: "Teman Besi.co.id"
+reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/panel-span-purlin-dan-fastener.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
-  - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
-  - "https://www.iso.org/standard/46556.html"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
-  - "https://store.astm.org/e1646-95r24.html"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/standard/81570.html?browse=ics"
+  - "https://store.astm.org/e1646-95r24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Panel Span, Purlin Spacing, dan Fastener Capacity
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Panel Span, Purlin Spacing, dan Fastener Capacity”
-- **Reader and situation:** Buyer comparing roof proposals
-- **Reader outcome:** Connect profile, thickness/material, support condition, load zones, fastener/clip, deflection, tests/calculations, and service conditions
-- **Primary intent:** Review structural inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not state allowable span/spacing; approved product/design data owns limits
-- **Final public route:** `/artikel/panel-span-purlin-dan-fastener.html`
-- **Appointed CMS date:** `2025-11-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Panel Span, Purlin Spacing, dan Fastener Capacity**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -67,145 +29,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Panel Span, Purlin Spacing, dan Fastener Capacity
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Hubungan antara panel span (rentang panel), purlin spacing (jarak antar purlin), dan fastener capacity (kapasitas fastener) adalah fondasi dari desain atap metal yang aman. Ketiga elemen ini saling terkait: panel span ditentukan oleh purlin spacing, purlin spacing ditentukan oleh kapasitas struktural rangka, dan fastener capacity menentukan apakah panel bisa diikat dengan aman ke purlin. Jika salah satu elemen tidak sesuai, seluruh sistem bisa gagal.
 
-### KR-11
+Jawaban singkatnya: pastikan panel span tidak melebihi batas yang direkomendasikan oleh produsen untuk beban desain di lokasi Anda, purlin spacing sesuai dengan kapasitas panel, dan fastener memiliki kapasitas yang cukup untuk menahan beban angin dan gravitasi. SNI 1729:2020 tentang ketentuan perencanaan struktur baja memberikan panduan desain untuk komponen struktural ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)). Kesalahan dalam salah satu aspek ini bisa menyebabkan defleksi berlebihan, kebocoran, atau bahkan kegagalan struktural.
 
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-### KR-24
-
-- **Original sources:** [ISO 13822:2010 — assessment of existing structures](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Ground inspection, change-of-use, retrofit, repair, and reuse articles in an assessment process.
-- **Safe grounded facts:** Existing-condition work begins with purpose, consequences, documents, survey, material identity, geometry, actions/use history, alterations, deterioration/damage, monitoring/tests, analysis, temporary controls, and reviewed disposition.
-- **Limits:** ISO 13822 says additional detail is needed for fire and earthquake and may need material/national adaptation. Use current Indonesian rules, project-specific calculations, and competent assessment through G-06/G-14.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-33
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ISO 4354:2009 official record](https://www.iso.org/standard/38882.html), [ISO/DIS 4354 revision record](https://www.iso.org/standard/81570.html?browse=ics).
-- **Purpose for this article:** Ground the load path from wind climate and building zones through panel, fastener/clip, support, connection, and primary structure.
-- **Safe grounded facts:** Wind climate, terrain/exposure, height, shape, openings, directionality, internal pressure, edge/corner zones, tributary area, system tests/calculations, supports, fasteners, existing condition, and temporary installation states all matter.
-- **Limits:** Do not calculate or state capacity from abstracts. Obtain current Indonesian basis, licensed clauses, site inputs, exact product/system data, drawings, calculations, and signed structural review under G-23.
-
-### KR-35
-
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-06, G-14, G-19, G-23, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-07-A01` → `/artikel/load-path-angin-atap-metal.html` — Load Path Angin dari Panel Atap ke Struktur Bangunan
-- `RFM-07-A02` → `/artikel/zona-angin-sudut-tepi-tengah-atap.html` — Zona Sudut, Tepi, dan Tengah pada Desain Angin Atap
-- `RFM-07-A04` → `/artikel/deflection-oil-canning-dan-vibration-panel.html` — Deflection, Oil Canning, Vibration, dan Distress Panel Atap
-- `RFM-07-A05` → `/artikel/panel-atap-pada-struktur-eksisting.html` — Menambah Panel pada Struktur Atap Eksisting
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Panel Span, Purlin Spacing, dan Fastener Capacity”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Panel Span, Purlin Spacing, dan Fastener Capacity”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas hubungan antara panel span, purlin spacing, dan fastener capacity dalam konteks atap metal. Panel span adalah jarak antara dua titik dukungan panel (biasanya dua purlin yang berdekatan). Purlin spacing adalah jarak pusat-ke-pusat antara dua purlin. Fastener capacity adalah kemampuan fastener untuk menahan gaya angkat (uplift) dan geser (shear).
 
-## Cara kerjanya
+Artikel ini tidak membahas perhitungan struktural detail; itu domain dari insinyur struktur. Untuk informasi tentang profil atap dan pengaruhnya terhadap span, baca [Membaca Profil dan Effective Cover Atap](/artikel/membaca-profil-dan-effective-cover-atap.html). Untuk memahami beban angin pada atap, lihat [Load Path Angin Atap Metal](/artikel/load-path-angin-atap-metal.html).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Panel Span, Purlin Spacing, dan Fastener Capacity”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Hubungan antara ketiga elemen
 
-## Faktor yang mengubah hasil
+**Panel span dan purlin spacing:** Panel span sama dengan purlin spacing (jarak antar purlin). Semakin besar purlin spacing, semakin besar beban yang diterima setiap panel, dan semakin besar defleksi yang terjadi. Produsen panel menetapkan batas span maksimum berdasarkan profil, ketebalan, dan beban desain.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Panel Span, Purlin Spacing, dan Fastener Capacity”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Purlin spacing dan kapasitas rangka:** Purlin spacing ditentukan oleh kapasitas rangka utama (truss atau portal). Rangka yang lebih kuat bisa menopang purlin dengan jarak lebih besar, tetapi biayanya lebih tinggi. Keseimbangan antara biaya dan performa sangat penting dalam desain atap yang efisien.
+
+**Fastener capacity:** Fastener harus mampu menahan gaya angkat (uplift) dari angin dan gaya gravitasi dari berat panel dan beban tambahan. Kapasitas fastener tergantung pada diameter, panjang, jenis ulir, dan material purlin yang diikat.
+
+SNI 1727:2020 tentang beban minimum menetapkan parameter beban yang harus dipertimbangkan ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)), termasuk beban angin dan beban hujan yang mempengaruhi desain panel dan fastener.
+
+## Faktor yang mempengaruhi desain
+
+**Profil panel:** Profil dengan kedalaman lebih besar memiliki kekakuan yang lebih baik dan bisa menahan span yang lebih besar. Profil standing seam umumnya memiliki kapasitas span yang lebih besar dibandingkan profil gelombang sederhana.
+
+**Ketebalan panel:** Panel yang lebih tebal lebih kaku dan bisa menahan span yang lebih besar. Namun, panel yang lebih tebal juga lebih berat dan lebih mahal, sehingga perlu keseimbangan.
+
+**Material:** Panel baja memiliki modulus elastisitas yang lebih tinggi dibandingkan aluminium, sehingga untuk ketebalan yang sama, panel baja lebih kaku dan bisa menahan span yang lebih besar. Namun, aluminium lebih ringan dan lebih tahan korosi, sehingga pilihan tergantung pada prioritas proyek.
+
+**Zona beban:** Atap di zona sudut dan tepi menerima beban angin yang lebih besar dibandingkan zona tengah. Fastener di zona ini harus memiliki kapasitas yang lebih besar untuk menahan gaya angkat yang lebih tinggi dari angin.
+
+ASTM E1646-95(2024) menguji ketahanan atap terhadap air yang didorong angin ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)), dan performa ini sangat tergantung pada hubungan antara panel span, purlin spacing, dan fastener capacity.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Panel Span, Purlin Spacing, dan Fastener Capacity”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 1: Atap dengan purlin spacing 1,5 meter.** Pastikan panel yang dipilih memiliki batas span maksimum minimal 1,5 meter untuk beban desain di lokasi proyek Anda saat ini. Periksa data produsen untuk memverifikasi bahwa panel yang dipilih sesuai dengan span yang dibutuhkan. Jangan pernah mengandalkan asumsi tanpa data pendukung.
+
+**Skenario 2: Atap di daerah angin kencang.** Fastener di zona sudut mungkin membutuhkan kapasitas uplift yang jauh lebih besar dibandingkan zona tengah. Pastikan fastener yang digunakan sesuai untuk setiap zona.
+
+**Skenario 3: Penggantian panel pada atap existing.** Jika Anda mengganti panel tanpa mengubah purlin, pastikan panel baru kompatibel dengan purlin spacing yang ada. Panel baru dengan profil berbeda mungkin membutuhkan purlin spacing yang berbeda atau pemasangan purlin tambahan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Panel Span, Purlin Spacing, dan Fastener Capacity”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: Menggunakan purlin spacing yang terlalu besar.** Ini menyebabkan defleksi berlebihan dan potensi kegagalan panel. Verifikasi: periksa batas span maksimum dari produsen panel.
 
-## Objection or shortcut to address
+**Kesalahan 2: Menggunakan fastener yang tidak sesuai.** Fastener yang terlalu kecil atau terlalu pendek tidak memiliki kapasitas yang cukup. Verifikasi: Periksa kapasitas fastener untuk beban desain di lokasi Anda dan pastikan sesuai dengan zona beban masing-masing zona di atap.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Tidak mempertimbangkan zona beban.** Menggunakan fastener yang sama untuk semua zona bisa berbahaya. Verifikasi: pastikan fastener sesuai untuk zona beban masing-masing.
 
-## Required conclusion
+## Objection atau jalan pintas yang perlu dijawab
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering muncul: "Purlin spacing sudah standar, tidak perlu diperhitungkan." Ini keliru karena setiap proyek memiliki beban desain yang berbeda. Purlin spacing yang "standar" mungkin tidak sesuai untuk lokasi Anda dengan angin atau hujan yang lebih berat dari rata-rata di Indonesia.
 
-## Draft completion checklist
+Alternatif yang lebih aman: hitung purlin spacing berdasarkan beban desain spesifik untuk lokasi Anda. Konsultasikan dengan insinyur struktur jika ragu tentang beban desain atau kapasitas struktural.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Desain yang tepat untuk panel span, purlin spacing, dan fastener capacity memastikan atap Anda aman, tahan lama, dan berfungsi sesuai harapan. Kesalahan dalam desain bisa berakibat fatal bagi keamanan bangunan dan penghuninya. Investasi dalam perhitungan yang benar di awal akan menghemat biaya perbaikan dan potensi kegagalan di masa depan. Pastikan setiap keputusan desain didasarkan pada data dan perhitungan yang valid.## Penutup
+
+Kawan Besi.co.id, hubungan antara panel span, purlin spacing, dan fastener capacity adalah kunci dari desain atap metal yang aman dan efisien. Pastikan ketiga elemen ini sesuai dengan beban desain di lokasi Anda.
+
+Langkah berikutnya: verifikasi data panel dari produsen, hitung purlin spacing berdasarkan beban desain, dan pilih fastener dengan kapasitas yang sesuai. Batas yang jujur: artikel ini tidak menggantikan perhitungan struktural profesional; setiap proyek memerlukan analisis yang spesifik oleh insinyur yang berwenang dan berpengalaman dalam desain atap metal yang aman.

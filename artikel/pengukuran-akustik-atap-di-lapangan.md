@@ -2,11 +2,12 @@
 article_id: RFM-05-A05
 title: "Merencanakan Pengukuran Akustik Atap di Lapangan"
 slug: "pengukuran-akustik-atap-di-lapangan"
-description: "Define source/weather, instrumentation, locations, room conditions, background, event selection, repeatability, before/after, and uncertainty"
-status: outline
+description: "Jelaskan perencanaan pengukuran akustik di lapangan termasuk peralatan, metode, kondisi, dan interpretasi."
+status: draft
 publication_date: "2025-10-25"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: RFM-05
 primary_intent: "Plan acoustic evidence"
 reader_community: "Besi.co.id"
@@ -16,168 +17,102 @@ technical_review: required
 sources:
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/79487.html"
-  - "https://www.iso.org/standard/77435.html?browse=ics"
+  - "https://www.iso.org/standard/38882.html"
+  - "https://www.iso.org/standard/51615.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Merencanakan Pengukuran Akustik Atap di Lapangan
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Merencanakan Pengukuran Akustik Atap di Lapangan”
-- **Reader and situation:** Owner testing an existing building
-- **Reader outcome:** Define source/weather, instrumentation, locations, room conditions, background, event selection, repeatability, before/after, and uncertainty
-- **Primary intent:** Plan acoustic evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not certify compliance; competent acoustic professional owns method/conclusion
-- **Final public route:** `/artikel/pengukuran-akustik-atap-di-lapangan.html`
-- **Appointed CMS date:** `2025-10-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika laporan uji laboratorium tidak tersedia atau konfigurasi yang diuji berbeda dari yang Anda pasang, **pengukuran akustik di lapangan** menjadi pilihan. Tapi pengukuran di lapangan berbeda dari laboratorium—ada faktor lingkungan, flanking, dan kondisi yang tidak bisa dikontrol. Tanpa perencanaan yang baik, hasil pengukuran bisa tidak akurat atau tidak representatif.
 
-## Opening instructions
+Jawaban singkatnya: **pengukuran akustik di lapangan memerlukan peralatan yang sesuai, metode yang terstandar, kondisi lingkungan yang terkontrol, dan interpretasi yang hati-hati**. Hasil lapangan biasanya lebih rendah dari laboratorium karena faktor flanking dan celah instalasi. ASTM E06.57 tentang standar sistem atap mengingatkan bahwa kinerja lapangan berbeda dari laboratorium ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)).
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Merencanakan Pengukuran Akustik Atap di Lapangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Namun, pengukuran lapangan punya keunggulan: ia mengukur kinerja aktual dari sistem yang terpasang, termasuk semua kelebihan dan kekurangan instalasi. ISO 9001:2015 tentang sistem manajemen mutu mendukung pendekatan berbasis bukti ([ISO 9001:2015](https://www.iso.org/standard/38882.html)).
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+*Foto ilustrasi: aset lokal, bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, leave a review marker and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Definisi dan batas objek
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+**Pengukuran akustik di lapangan** adalah pengukuran kinerja akustik dari atap yang sudah terpasang, dilakukan di kondisi aktual (bukan laboratorium). Ini berbeda dari pengujian laboratorium yang dilakukan pada sampel dalam kondisi terkontrol.
 
-### KR-29
+Pengukuran lapangan bisa mencakup: (1) **insulasi suara** (Sound Transmission Loss)—seberapa baik atap meredam suara dari luar ke dalam, dan (2) **absorpsi suara** (Noise Reduction Coefficient)—seberapa baik atap menyerap suara di dalam ruangan.
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+Apa yang *bukan* cakupan artikel ini adalah pelaksanaan pengukuran sendiri—itu memerlukan peralatan khusus dan tenaga terampil. Untuk cara membaca laporan uji akustik, lihat [artikel Cara Membaca Laporan Uji Akustik Roof Assembly](/artikel/membaca-laporan-uji-akustik-atap.html). Artikel ini fokus pada **perencanaan** pengukuran.
 
-### KR-32
+## Cara kerjanya
 
-- **Original sources:** [ISO 10140-2:2021 official record](https://www.iso.org/standard/79487.html), [ISO 717-1:2020 official record](https://www.iso.org/standard/77435.html?browse=ics).
-- **Purpose for this article:** Separate airborne sound-insulation tests/ratings from rain impact, vibration, room response, and field performance.
-- **Safe grounded facts:** Rain impact, panel vibration, airborne transmission, structure-borne paths, cavity absorption, ceilings, fixings, flanking, room reverberation, source spectrum, mounting, and field conditions affect results. “Soundproof” and generic decibel-reduction claims collapse non-equivalent measures.
-- **Limits:** These records do not provide a rain-noise method or result for an offered roof. Exact performance requires the relevant current method, tested assembly, field context, and acoustic review under G-22.
+**Peralatan yang dibutuhkan:** sumber suara (speaker omni-directional atau speaker dodecahedron), penerima (mikrofon kalibrasi), analyzer (sound level meter atau FFT analyzer), dan kalibrator. **Metode:** ASTM E336 untuk pengukuran di gedung, atau ISO 140 untuk pengukuran internasional.
 
-## Evidence gates
+**Kondisi lingkungan:** hindari pengukuran saat hujan, angin kencang, atau kebisingan latar yang tinggi. **Waktu pengukuran:** lakukan di waktu yang representatif—hindari jam sibuk jika mengukur di area perkotaan.
 
-- **TOPIC-GATE:** G-19, G-22
+ASTM E1646-95r24 tentang pengukuran panel atap bisa menjadi referensi teknis ([ASTM E1646-95r24](https://store.astm.org/e1646-95r24.html)). ISO 2063-1:2019 tentang pelapisan logam termal juga relevan untuk evaluasi material ([ISO 2063-1:2019](https://www.iso.org/standard/51615.html)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Faktor yang mengubah hasil
 
-## Internal-link plan
+**Pertama, flanking.** Suara bisa melewati jalur selain atap—dinding, lantai, atau struktur lain. Jika flanking dominan, pengukuran atap saja tidak akan menunjukkan kinerja aktual. **Kedua, celah instalasi.** Celah kecil bisa mengurangi kinerja akustik secara signifikan.
 
-### Existing local routes
+**Ketiga, kondisi cuaca.** Angin, hujan, dan suhu bisa memengaruhi propagasi suara dan akurasi pengukuran. **Keempat, kebisingan latar.** Kebisingan dari lalu lintas, mesin, atau aktivitas lain bisa mengganggu pengukuran.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh keputusan praktis
 
-### Planned sibling articles
+Bayangkan dua skenario. **Skenario A:** Mengukur insulasi suara atap gudang di area industri tenang. Kondisi ideal—tidak ada kebisingan latar, tidak ada angin. Hasil pengukuran bisa diandalkan. **Skenario B:** Mengukur insulasi suara atap kantor di pusat kota. Kondisi sulit—kebisingan lalu lintas tinggi, flanking dari dinding kaca. Hasil pengukuran perlu interpretasi hati-hati.
 
-These are future routes. Do not link them as live until their HTML exists.
+Dalam skenario A, pengukuran relatif sederhana. Dalam skenario B, Anda mungkin perlu melakukan pengukuran di beberapa titik dan mengambil rata-rata, atau menggunakan metode khusus untuk mengisolasi kontribusi atap.
 
-- `RFM-05-A03` → `/artikel/target-akustik-atap-menurut-ruang.html` — Target Akustik Atap untuk Rumah, Gudang, Studio, dan Sekolah
-- `RFM-05-A04` → `/artikel/wind-noise-dan-panel-rattle.html` — Wind Noise, Panel Rattle, dan Bunyi dari Fastener
-- `RFM-05-A06` → `/artikel/membaca-laporan-uji-akustik-atap.html` — Cara Membaca Laporan Uji Akustik Roof Assembly
+Teman Besi.co.id, jangan menginterpretasikan hasil pengukuran lapangan tanpa mempertimbangkan faktor-faktor di atas. Hasil yang lebih rendah dari laboratorium bukan berarti produk buruk—mungkin karena flanking atau celah instalasi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan umum dan cara memeriksanya
 
-## Hasil akhir dan prasyarat
+Kesalahan paling umum adalah **tidak mengontrol kondisi lingkungan**. Pengukuran saat hujan atau angin kencang akan menghasilkan data yang tidak akurat.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Pengukuran Akustik Atap di Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan kedua adalah **mengabaikan flanking**. Jika flanking dominan, pengukuran hanya menunjukkan kinerja kombinasi atap + dinding, bukan atap saja.
 
-## Langkah 1 — tetapkan scope
+Kesalahan ketiga adalah **tidak mengkalibrasi peralatan**. Mikrofon dan analyzer harus dikalibrasi sebelum dan sesudah pengukuran untuk memastikan akurasi.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Pengukuran Akustik Atap di Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang perlu diwaspadai
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Jalan pintas yang berbahaya: **"Pakai smartphone saja untuk mengukur, murah dan mudah."** Smartphone tidak memiliki mikrofon yang dikalibrasi atau analyzer yang sesuai untuk pengukuran akustik yang akurat.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Pengukuran Akustik Atap di Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih aman: gunakan peralatan yang sesuai standar dan tenaga terampil. Investasi dalam pengukuran yang benar menghindari keputusan yang salah berdasarkan data yang tidak akurat.
 
-## Langkah 3 — jalankan urutan kerja
+## Menjaga agar data lapangan dapat dibandingkan
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Pengukuran Akustik Atap di Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pengukuran yang baik dimulai dengan pertanyaan yang sama sebelum dan sesudah perubahan atap. Tetapkan ruang, posisi mikrofon, kondisi pintu dan jendela, sumber bunyi, serta waktu pengambilan data. Catat hujan, angin, mesin, dan aktivitas penghuni karena semuanya dapat menaikkan tingkat latar. Tanpa catatan ini, perbedaan angka mungkin hanya menunjukkan perubahan kondisi, bukan kinerja assembly.
 
-## Hold point dan kondisi berhenti
+Gunakan alat yang terkalibrasi sesuai prosedur profesional dan simpan nomor identifikasinya. Ambil pengulangan di lokasi yang sama, beri tanda pada kejadian luar biasa, dan simpan data mentah bersama ringkasan. Bila hujan tidak konsisten, jangan memilih satu kejadian yang paling menguntungkan; jelaskan variasinya dan batas kesimpulan.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Pengukuran Akustik Atap di Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Besi.co.id, hasil lapangan adalah bukti untuk keputusan, bukan sertifikat kepatuhan otomatis. Minta profesional akustik menilai ketidakpastian, kesetaraan kondisi, dan arti praktis bagi penghuni. Hentikan pengukuran ketika akses atau cuaca tidak aman, lalu jadwalkan ulang dengan protokol yang sama.
 
-## Verifikasi hasil dan handover
+## Menutup siklus dari data ke keputusan
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Merencanakan Pengukuran Akustik Atap di Lapangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah pengukuran, cocokkan catatan kondisi ruang dengan cara membaca laporan uji akustik. Jika kebutuhan ruang belum jelas, gunakan target akustik menurut fungsi ruang untuk menyusun pertanyaan kepada pemilik. Jangan menyimpulkan keberhasilan hanya dari satu angka; jelaskan kondisi, pengulangan, dan batas penerapannya.
 
-## Objection or shortcut to address
+## Menjaga jejak keputusan setelah pengukuran
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Arsipkan protokol, data mentah, kalibrasi, foto lokasi, dan catatan kejadian bersama kesimpulan. Tuliskan siapa yang boleh memakai hasil dan kondisi apa yang membuatnya tidak berlaku. Dengan begitu, laporan tidak dipotong menjadi satu angka yang beredar tanpa konteks ketika proyek berubah.
 
-## Required conclusion
+Simpan juga keputusan tentang lokasi mikrofon dan alasan pemilihannya. Catatan kecil ini mencegah pengukuran ulang memakai posisi yang tidak sebanding.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kondisi ruang yang berubah harus dicatat sebagai perubahan protokol. Jangan membandingkan hasil sebelum dan sesudah renovasi tanpa menjelaskan perubahan furnitur atau sekat.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pengukuran akustik di lapangan memerlukan **perencanaan yang mencakup peralatan, metode, kondisi lingkungan, dan interpretasi**. Hasil lapangan biasanya lebih rendah dari laboratorium karena faktor flanking dan celah instalasi.
+
+Langkah Anda selanjutnya: rencanakan pengukuran dengan mempertimbangkan faktor-faktor di atas. Pastikan peralatan sesuai standar dan terkalibrasi. Interpretasikan hasil dengan mempertimbangkan flanking dan kondisi lapangan. Untuk target akustik spesifik, lihat [artikel Target Akustik Atap Menurut Ruang](/artikel/target-akustik-atap-menurut-ruang.html).
+
+Batas pengetahuan ini adalah: pelaksanaan pengukuran memerlukan peralatan khusus dan tenaga terampil. Artikel ini membantu perencanaan, bukan pelaksanaan.

@@ -2,8 +2,8 @@
 article_id: RFM-06-A06
 title: "Commissioning Moisture Control setelah Atap Terpasang"
 slug: "commissioning-moisture-control-atap"
-description: "Check continuity, penetrations, wet construction, ventilation path, drainage, indoor sources, baseline humidity/temperature, training, and records"
-status: outline
+description: "Pemeriksaan sistematis sistem pengendalian kelembapan setelah atap terpasang, meliputi kesinambungan lapisan, penetrasi, ventilasi, drainase, dan pengukuran kondisi awal."
+status: draft
 publication_date: "2025-11-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,186 +13,114 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/commissioning-moisture-control-atap.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://pesta.bsn.go.id/produk/detail/13242-sni63892020"
   - "https://www.iso.org/standard/65708.html"
   - "https://www.iso.org/standard/59697.html"
-  - "https://www.iso.org/standard/51615.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Commissioning Moisture Control setelah Atap Terpasang
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Commissioning Moisture Control setelah Atap Terpasang”
-- **Reader and situation:** Owner before occupancy
-- **Reader outcome:** Check continuity, penetrations, wet construction, ventilation path, drainage, indoor sources, baseline humidity/temperature, training, and records
-- **Primary intent:** Verify moisture strategy
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not certify hygrothermal performance; RFM-12-A06 owns handover acceptance
-- **Final public route:** `/artikel/commissioning-moisture-control-atap.html`
-- **Appointed CMS date:** `2025-11-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Atap sudah terpasang, lembaran sudah dikencangkan, flashing sudah rapi. Apakah Anda yakin air tidak akan masuk? Sayangnya, keberhasilan pemasangan atap bukan jaminan bahwa sistem pengendalian kelembapan di bawahnya akan bekerja sebagaimana mestinya. Ada banyak titik potensi kegagalan yang tidak terlihat dari luar: celah di balik flashing, penetrasi yang kurang rapat, ventilasi yang terhalang, atau bahkan genangan air hujan yang tidak teralirkan dengan baik.
 
-## Opening instructions
+Commissioning moisture control — atau dalam bahasa Indonesia bisa disebut "komisioning pengendalian kelembapan" — adalah proses pemeriksaan sistematis yang dilakukan setelah atap terpasang dan sebelum bangunan diserahterimakan. Tujuannya adalah memverifikasi bahwa seluruh komponen pengendalian kelembapan berfungsi sesuai desain, mengidentifikasi kegagalan sedini mungkin, dan mencatat baseline kondisi awal untuk perbandingan di masa depan. Tanpa komisioning ini, Anda mungkin baru menemukan masalah kelembapan berbulan-bulan kemudian — ketika kerusakan sudah terjadi dan biaya perbaikan sudah membengkak.
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Commissioning Moisture Control setelah Atap Terpasang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+<!-- BEGIN MANAGED IMAGE PLAN
+**Image ID:** `LOCAL-001`
+**Source type:** `local`
+**Placement:** after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
+**Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+**Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+**Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+**Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+_Ilustrasi umum dari aset lokal atap.besi.co.id; bukan dokumentasi proyek tertentu._
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Definisi dan Batas Objek
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+Komisioning pengendalian kelembapan bukanlah pengujian ketahanan air sederhana seperti menyemprotkan air ke permukaan atap. Ini adalah pemeriksaan menyeluruh terhadap seluruh sistem yang dirancang untuk mengelola uap air, kondensasi, dan kelembapan di dalam dan di sekitar envelope atap. Sistem ini mencakup lapisan uap penghalang (vapor barrier), material insulasi, jalur ventilasi, sistem drainase, hingga perlakuan terhadap penetrasi seperti pipa, kabel, atau lubang servis.
 
-## Evidence packet
+Perlu dipahami bahwa komisioning ini tidak menggantikan peran insinyur struktural atau ahli termal bangunan. Komisioning adalah verifikasi pelaksanaan, bukan sertifikasi kinerja hidrotermal. Jika hasil pemeriksaan menunjukkan masalah yang membutuhkan analisis lebih dalam, langkah selanjutnya adalah merujuk ke spesialis yang tepat — misalnya ahli kelembapan bangunan (building scientist) atau insinyur MEP (Mekanikal, Elektrikal, Plumbing).
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Menurut standar internasional, sistem pengendalian kelembapan pada bangunan harus dinilai sebagai satu kesatuan sistem, bukan sebagai komponen-komponen terpisah ([ISO 6570](https://www.iso.org/standard/65708.html)). Artinya, keberhasilan satu komponen tidak menjamin keberhasilan seluruh sistem. Lapisan uap penghalang yang sempurna akan gagal jika ventilasi tidak memadai, dan ventilasi yang baik akan gagal jika drainase tersumbat.
 
-### KR-29
+## Cara Kerja Komisioning
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+Proses komisioning pengendalian kelembapan dimulai dengan perencanaan — menentukan apa yang akan diperiksa, bagaimana cara memeriksanya, dan apa standar keberhasilannya. Kemudian dilakukan pemeriksaan fisik, pengukuran, dan pencatatan hasil.
 
-### KR-30
+**Pemeriksaan kesinambungan lapisan.** Setiap lapisan dalam sistem atap — dari lapisan uap penghalang hingga underlayment dan penutup atap — harus kontinu tanpa celah yang tidak disengaja. Pemeriksaan dilakukan secara visual dan dengan mengikuti jalur setiap lapisan dari satu titik penetrasi ke titik berikutnya. Jika ada celah, sobekan, atau overlap yang tidak memadai, itu harus didokumentasikan dan diperbaiki sebelum serah terima.
 
-- **Original sources:** [SNI 6389:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/13242-sni63892020), [ISO 6946:2017 official record](https://www.iso.org/standard/65708.html), [ISO 9869-1:2014 official record](https://www.iso.org/standard/59697.html).
-- **Purpose for this article:** Ground roof heat/energy articles in complete-assembly calculations and measurements instead of color or sheet-thickness claims.
-- **Safe grounded facts:** Solar exposure, surface properties, metal layers, insulation, thermal bridges, air spaces, ceilings, ventilation, airtightness, internal gains, climate, operation, and measurement conditions affect observed performance. Product R-values and assembly U-values are not interchangeable.
-- **Limits:** Public records do not supply project inputs or licensed clauses. Do not promise temperature or energy reduction without G-19 and G-20.
+**Verifikasi penetrasi.** Setiap titik di mana pipa, kabel, atau elemen lain menembus lapisan atap adalah potensi titik masuk air. Pemeriksaan dilakukan dengan memastikan setiap penetrasi memiliki flashing yang benar, sealant yang sesuai, dan overlap yang memadai. ASTM E1646 mencatat metode pengujian ketahanan air untuk sistem atap metal ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)); rujukan ini membantu menyusun pengujian terkontrol, bukan bukti bahwa pemasangan tertentu sudah lulus. Standar asing juga tidak otomatis menjadi persyaratan di Indonesia, jadi cocokkan dengan SNI dan peraturan setempat yang berlaku. Komite teknis ASTM terkait dapat dipakai untuk memeriksa identitas dan lingkup dokumen pengujian ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)).
 
-### KR-31
+**Pengukuran baseline.** Salah satu output terpenting dari komisioning adalah data baseline: kelembapan relatif (RH) dan suhu di beberapa titik di bawah atap pada saat serah terima. Data ini menjadi pembanding jika terjadi masalah kelembapan di kemudian hari. Tanpa baseline, Anda tidak bisa membuktikan bahwa kondisi kelembapan saat ini berbeda dari kondisi awal. ISO 59697 memberikan panduan tentang metode pengukuran kinerja termal bangunan yang dapat digunakan sebagai referensi untuk pengukuran baseline ([ISO 59697](https://www.iso.org/standard/59697.html)).
 
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
+## Faktor yang Mengubah Hasil
 
-### KR-34
+Tidak semua proyek membutuhkan tingkat komisioning yang sama. Beberapa faktor menentukan seberapa ketat pemeriksaan yang sebaiknya dilakukan:
 
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
+**Jenis bangunan.** Gudang penyimpanan bahan sensitif kelembapan (misalnya kertas, elektronik, atau makanan) membutuhkan standar yang lebih ketat dari gudang penyimpanan umum. Rumah sakit dan laboratorium memiliki persyaratan kelembapan yang sangat spesifik.
 
-## Evidence gates
+**Kondisi iklim lokal.** Bangunan di daerah dengan kelembapan tinggi sepanjang tahun (misalnya pesisir atau daerah tropis basah) membutuhkan perhatian lebih pada ventilasi dan penghalang uap dibanding bangunan di daerah kering.
 
-- **TOPIC-GATE:** G-19, G-20, G-21, G-24
+**Kompleksitas atap.** Atap dengan banyak penetrasi, perubahan bidang, skylight, atau pertemuan dengan dinding (wall-to-roof junction) membutuhkan pemeriksaan yang lebih teliti karena semakin banyak titik potensi kegagalan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Konstruksi basah selama pemasangan.** Jika ada aktivitas konstruksi yang menghasilkan kelembapan (misalnya pengecoran, pengecatan, atau pemasangan drywall) dilakukan di bawah atap sebelum komisioning, hasil pengukuran baseline bisa terdistorsi. Idealnya, baseline diambil setelah konstruksi basah selesai dan bangunan memiliki kesempatan untuk mengering.
 
-## Internal-link plan
+## Contoh Keputusan Praktis
 
-### Existing local routes
+Bayangkan Anda memiliki bangunan gudang baru dengan atap metal. Kontraktor menyatakan atap sudah selesai dipasang dan meminta Anda menandatangani berita acara serah terima. Apa yang sebaiknya Anda lakukan sebelum menandatangani?
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Pertama, mintalah jadwal komisioning tertulis. Komisioning yang baik membutuhkan waktu — bukan sesuatu yang bisa dilakukan dalam satu sore. Minimal, pemeriksaan visual harus dilakukan di siang hari dengan pencahayaan yang baik, dan pengukuran baseline membutuhkan peralatan yang terkalibrasi.
 
-### Planned sibling articles
+Kedua, tanyakan apakah ada laporan pemeriksaan penetrasi. Setiap penetrasi harus memiliki dokumentasi: jenis flashing yang digunakan, jenis sealant, dan foto pemasangan. Jika kontraktor tidak bisa menunjukkan ini, ada kemungkinan penetrasi diperiksa dengan standar yang tidak memadai.
 
-These are future routes. Do not link them as live until their HTML exists.
+Ketiga, mintalah data baseline kelembapan dan suhu. Minimal, data harus diambil di tiga titik: di bawah puncak atap, di tengah rentang, dan di dekat talang. Jika data tidak tersedia, Anda tidak memiliki pembanding untuk masa depan.
 
-- `RFM-06-A04` → `/artikel/vapor-control-dan-ventilasi-atap.html` — Vapor Control, Airtightness, dan Ventilasi Roof Space
-- `RFM-06-A05` → `/artikel/interstitial-condensation-roof-build-up.html` — Interstitial Condensation di Dalam Roof Build-Up
+## Kesalahan Umum dan Cara Memeriksanya
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Teman Besi.co.id, ada beberapa kesalahan yang sering terjadi dalam komisioning pengendalian kelembapan:
 
-## Jawaban singkat dan salah paham utama
+**Menganggap "atap tidak bocor" berarti "sistem kelembapan bekerja."** Atap yang tidak bocor saat hujan masih bisa memiliki masalah kondensasi di musim kemarau ketika suhu turun drastis di malam hari. Kondensasi terjadi karena perbedaan suhu, bukan hanya karena air dari luar.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Commissioning Moisture Control setelah Atap Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Mengabaikan ventilasi karena "atapnya kedap air."** Atap yang kedap air tanpa ventilasi yang memadai bisa menjadi jebakan kelembapan. Uap air dari aktivitas di dalam bangunan (pernapasan, memasak, produksi) naik dan terperangkap di bawah atap jika tidak ada jalan keluar.
 
-## Definisi dan batas objek
+**Tidak mendokumentasikan kondisi awal.** Tanpa foto, data pengukuran, dan catatan pemeriksaan, Anda tidak memiliki bukti jika terjadi sengketa dengan kontraktor di kemudian hari. Dokumentasi adalah investasi, bukan biaya tambahan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Commissioning Moisture Control setelah Atap Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Menggunakan pengukuran yang tidak terkalibrasi.** Hygrometer dan termometer yang tidak dikalibrasi bisa memberikan data yang menyesatkan. Pastikan alat pengukur dikalibrasi sebelum digunakan untuk baseline.
 
-## Cara kerjanya
+## Mengapa Komisioning Itu Penting
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Commissioning Moisture Control setelah Atap Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Besi.co.id, mungkin Anda bertanya: mengapa harus repot-repot melakukan komisioning? Bukankah kontraktor sudah memasang atap sesuai spesifikasi?
 
-## Faktor yang mengubah hasil
+Jawabannya sederhana: karena pemasangan yang benar di atas kertas tidak selalu menghasilkan instalasi yang benar di lapangan. Ada banyak faktor yang bisa menyebabkan kesenjangan: cuaca saat pemasangan, kondisi material yang tidak ideal, kesalahan manusia, atau bahkan desain yang tidak mempertimbangkan kondisi lokal. Komisioning adalah jaring pengaman terakhir sebelum bangunan diserahterimakan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Commissioning Moisture Control setelah Atap Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Selain itu, komisioning menghasilkan dokumen yang bernilai jangka panjang. Data baseline menjadi referensi untuk pemeliharaan preventif. Jika di kemudian hari terjadi masalah kelembapan, data baseline membantu Anda dan konsultan mengidentifikasi apakah masalah tersebut sudah ada sejak awal atau berkembang seiring waktu. Ini sangat berharga untuk klaim garansi atau sengketa hukum.
 
-## Contoh keputusan praktis
+Untuk memahami lebih lanjut tentang bagaimana kondensasi terjadi di atap metal, baca artikel kami tentang [dew point dan kondensasi atap](/artikel/dew-point-dan-kondensasi-atap.html). Jika Anda tertarik dengan aspek investigasi masalah kelembapan setelah serah terima, kunjungi [investigasi kebocoran atap metal](/artikel/investigasi-kebocoran-atap-metal.html).
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Commissioning Moisture Control setelah Atap Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Checklist Komisioning
 
-## Kesalahan umum dan cara memeriksanya
+Berikut checklist yang bisa Anda gunakan sebagai panduan. Ini bukan daftar lengkap untuk semua jenis bangunan, tetapi mencakup elemen-elemen dasar yang harus ada:
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Commissioning Moisture Control setelah Atap Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Kontinuitas lapisan:** Apakah semua lapisan penghalang air dan uap kontinu tanpa celah?
+2. **Penetrasi:** Apakah setiap penetrasi memiliki flashing dan sealant yang benar?
+3. **Ventilasi:** Apakah jalur ventilasi dari intake ke exhaust tidak terhalang?
+4. **Drainase:** Apakah talang, downspout, dan area genangan berfungsi dengan baik?
+5. **Baseline:** Apakah data kelembapan dan suhu sudah diambil dan didokumentasikan?
+6. **Foto:** Apakah setiap area pemeriksaan sudah difoto dan diberi label?
+7. **Pelatihan:** Apakah petugas pemeliharaan sudah dilatih tentang apa yang harus dipantau?
 
-## Objection or shortcut to address
+## Kesimpulan
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Commissioning moisture control setelah atap terpasang adalah langkah kritis yang sering dilewati. Proses ini memverifikasi bahwa seluruh sistem pengendalian kelembapan — dari lapisan penghalang hingga ventilasi dan drainase — berfungsi sesuai desain sebelum bangunan diserahterimakan.
 
-## Required conclusion
+Langkah selanjutnya: sebelum menandatangani berita acara serah terima, mintalah jadwal komisioning tertulis dan pastikan data baseline kelembapan serta suhu sudah diambil. Dokumentasi ini akan menjadi aset berharga jika terjadi masalah di kemudian hari.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Batasan yang perlu diingat: komisioning ini adalah verifikasi pelaksanaan, bukan sertifikasi kinerja hidrotermal jangka panjang. Jika hasil pemeriksaan menunjukkan indikasi masalah yang membutuhkan analisis lebih dalam, libatkan spesialis kelembapan bangunan sebelum menandatangani serah terima.

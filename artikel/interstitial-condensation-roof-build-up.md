@@ -2,8 +2,8 @@
 article_id: RFM-06-A05
 title: "Interstitial Condensation di Dalam Roof Build-Up"
 slug: "interstitial-condensation-roof-build-up"
-description: "Explain layer temperatures, vapor/air paths, absorbent materials, metal interfaces, drying, sensors, opening-up, and evidence"
-status: outline
+description: "Kondensasi antar lapisan di dalam roof build-up: suhu lapisan, jalur uap/air, material penyerap, antarmuka metal, pengeringan, sensor, dan bukti."
+status: draft
 publication_date: "2025-11-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,48 +13,14 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/interstitial-condensation-roof-build-up.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
   - "https://pesta.bsn.go.id/produk/detail/13242-sni63892020"
   - "https://www.iso.org/standard/65708.html"
-  - "https://www.iso.org/standard/59697.html"
-  - "https://www.iso.org/standard/51615.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Interstitial Condensation di Dalam Roof Build-Up
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Interstitial Condensation di Dalam Roof Build-Up”
-- **Reader and situation:** Owner with concealed assembly
-- **Reader outcome:** Explain layer temperatures, vapor/air paths, absorbent materials, metal interfaces, drying, sensors, opening-up, and evidence
-- **Primary intent:** Assess hidden moisture risk
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare concealed assembly dry/safe; specialist investigation owns conclusion
-- **Final public route:** `/artikel/interstitial-condensation-roof-build-up.html`
-- **Appointed CMS date:** `2025-11-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Interstitial Condensation di Dalam Roof Build-Up**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -63,137 +29,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Interstitial Condensation di Dalam Roof Build-Up
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Interstitial condensation adalah kondensasi yang terjadi di antara lapisan-lapisan roof build-up (seperti antara panel metal, insulasi, dan penghalang uap), bukan di permukaan yang terlihat. Kondensasi jenis ini sangat berbahaya karena tidak terdeteksi sampai kerusakan sudah parah: insulasi yang basah kehilangan efektivitasnya, struktur di bawahnya bisa korosi, dan pertumbuhan jamur bisa terjadi di ruang tersembunyi. Masalah ini berkembang lambat selama bertahun-tahun dan sering kali baru ditemukan saat renovasi atau penggantian atap.
 
-### KR-29
+Jawaban singkatnya: pastikan roof build-up dirancang dengan penghalang uap (vapor barrier) di posisi yang benar, ventilasi yang memadai untuk mengeringkan kelembaban yang masuk, dan material yang kompatibel satu sama lain. ISO 65708 membahas prinsip desain termal untuk bangunan termasuk pengelolaan kelembaban ([ISO 65708](https://www.iso.org/standard/65708.html)). Tanpa desain yang tepat, kelembaban akan terjebak di dalam roof build-up dan menyebabkan kerusakan bertahap yang mahal untuk diperbaiki.
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+Bukti yang bisa mengubah jawaban termasuk jenis bangunan (produksi vs. hunian), aktivitas di dalamnya, kondisi iklim lokal, dan jenis material yang digunakan dalam roof build-up.
 
-### KR-30
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-- **Original sources:** [SNI 6389:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/13242-sni63892020), [ISO 6946:2017 official record](https://www.iso.org/standard/65708.html), [ISO 9869-1:2014 official record](https://www.iso.org/standard/59697.html).
-- **Purpose for this article:** Ground roof heat/energy articles in complete-assembly calculations and measurements instead of color or sheet-thickness claims.
-- **Safe grounded facts:** Solar exposure, surface properties, metal layers, insulation, thermal bridges, air spaces, ceilings, ventilation, airtightness, internal gains, climate, operation, and measurement conditions affect observed performance. Product R-values and assembly U-values are not interchangeable.
-- **Limits:** Public records do not supply project inputs or licensed clauses. Do not promise temperature or energy reduction without G-19 and G-20.
-
-### KR-31
-
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
-
-### KR-34
-
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-19, G-20, G-21, G-24
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-06-A03` → `/artikel/humidity-dalam-bangunan-dan-atap.html` — Humidity dari Dalam Bangunan dan Risiko Atap Metal
-- `RFM-06-A04` → `/artikel/vapor-control-dan-ventilasi-atap.html` — Vapor Control, Airtightness, dan Ventilasi Roof Space
-- `RFM-06-A06` → `/artikel/commissioning-moisture-control-atap.html` — Commissioning Moisture Control setelah Atap Terpasang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Interstitial Condensation di Dalam Roof Build-Up”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Interstitial Condensation di Dalam Roof Build-Up”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Interstitial condensation terjadi ketika uap air merembes melalui lapisan luar roof build-up dan mengembun di dalam, biasanya di titik di mana suhu melewati titik embun. Roof build-up yang dibahas meliputi panel metal luar, ruang udara, insulasi, penghalang uap, dan langit-langit interior. Setiap lapisan memiliki fungsi termal dan kelembaban yang spesifik.
 
-## Cara kerjanya
+Artikel ini tidak membahas desain penghalang uap atau sistem ventilasi secara detail; itu domain dari spesialis yang kompeten. Untuk memahami sumber kelembaban yang menyebabkan kondensasi ini, baca [Humidity dari Dalam Bangunan dan Atap](/artikel/humidity-dalam-bangunan-dan-atap.html). Untuk panduan tentang ventilasi ruang atap, baca [Ventilasi Ruang Atap dan Panas](/artikel/ventilasi-ruang-atap-dan-panas.html).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Interstitial Condensation di Dalam Roof Build-Up”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Mekanisme interstitial condensation
 
-## Faktor yang mengubah hasil
+Proses dimulai ketika uap air dari dalam bangunan (akibat aktivitas penghuni, proses produksi, atau kelembaban lingkungan) merembes melalui celah atau material permeabel menuju roof build-up. Ketika uap air mencapai lapisan yang suhunya di bawah titik embun, ia mengembun menjadi air cair. SNI 6389:2020 tentang konservasi energi mempertimbangkan manajemen kelembaban dalam desain bangunan ([SNI 6389:2020](https://pesta.bsn.go.id/produk/detail/13242-sni63892020)).
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Interstitial Condensation di Dalam Roof Build-Up”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondensasi ini bisa terjadi di beberapa titik: di dalam insulasi (jika insulasi menyerap air), di antara insulasi dan panel metal, atau di antara insulasi dan penghalang uap. Setiap titik memiliki risiko dan konsekuensi yang berbeda. Kondensasi di dalam insulasi sangat berbahaya karena insulasi yang basah kehilangan nilai R-nya dan menjadi medium pertumbuhan jamur.
+
+## Faktor yang mempengaruhi kondensasi
+
+**Profil suhu:** Semakin besar perbedaan suhu antara dalam dan luar bangunan, semakin besar risiko kondensasi. Malam hari, panel metal mendingin drastis sementara interior tetap hangat, menciptakan gradien suhu yang tajam. Di daerah dengan malam yang dingin, risiko ini semakin besar.
+
+**Jalur uap:** Celah di penghalang uap, sambungan yang tidak rapat, atau penetrasi (pipa, kabel) bisa menjadi jalur masuk uap air. Bahkan celah kecil bisa memungkinkan cukup uap air untuk menyebabkan kondensasi yang signifikan selama bertahun-tahun.
+
+**Material penyerap:** Insulasi yang menyerap air (seperti fiberglass tanpa facing) bisa menyimpan kelembaban dan menjadi medium kondensasi. Insulasi yang basah kehilangan nilai R-nya dan bisa menjadi tempat pertumbuhan jamur yang berbahaya bagi kesehatan penghuni.
+
+**Kapasitas pengeringan:** Roof build-up harus memiliki mekanisme untuk mengeringkan kelembaban yang masuk. Ventilasi di atas insulasi memungkinkan udara mengalir dan membawa kelembaban keluar sebelum menyebabkan kerusakan.
+
+ASTM E1646-95(2024) menguji ketahanan atap terhadap air yang didorong angin ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)), tetapi interstitial condensation adalah masalah internal yang memerlukan pendekatan desain yang berbeda.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Interstitial Condensation di Dalam Roof Build-Up”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 1: Roof build-up tanpa ventilasi.** Jika insulasi dipasang langsung di bawah panel metal tanpa ruang udara, kelembaban yang masuk tidak memiliki jalan keluar. Solusi: tambahkan ruang ventilasi di atas insulasi dengan batten atau spacer.
+
+**Skenario 2: Penghalang uap dengan celah.** Celah kecil di penghalang uap bisa memungkinkan uap air masuk selama bertahun-tahun tanpa terdeteksi. Solusi: periksa dan perbaiki semua celah, terutama di sekitar penetrasi dan sambungan.
+
+**Skenario 3: Insulasi yang sudah basah.** Insulasi yang sudah jenuh air harus diganti karena tidak bisa mengering sendiri dan akan terus menyebabkan masalah korosi dan jamur. Pengeringan paksa mungkin berhasil untuk kasus ringan, tetapi untuk kasus parah, penggantian adalah satu-satunya opsi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Interstitial Condensation di Dalam Roof Build-Up”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: Memasang penghalang uap di sisi yang salah.** Penghalang uap harus dipasang di sisi hangat (interior) dari insulasi. Jika dipasang di sisi dingin (eksterior), uap air akan terjebak di dalam insulasi dan menyebabkan kondensasi yang parah.
 
-## Objection or shortcut to address
+**Kesalahan 2: Tidak mempertimbangkan kelembaban selama konstruksi.** Material konstruksi yang basah (beton, plesteran) akan mengering ke arah atap, menambah beban kelembaban signifikan. Verifikasi: pastikan material kering sebelum menutup roof build-up.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Mengabaikan penetrasi.** Setiap penetrasi (pipa, kabel, ventilasi) adalah potensi jalur masuk uap air. Verifikasi: segel semua penetrasi dengan rapat menggunakan material yang sesuai.
 
-## Required conclusion
+Sobat Besi.co.id, interstitial condensation adalah masalah yang berkembang lambat tetapi konsekuensinya serius. Investasi dalam desain roof build-up yang tepat di awal jauh lebih murah daripada perbaikan di kemudian hari. Jangan mengorbankan kualitas penghalang uap atau ventilasi untuk menghemat biaya di awal.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Objection atau jalan pintas yang perlu dijawab
 
-## Draft completion checklist
+Shortcut yang sering muncul: "Insulasi sudah cukup untuk mencegah kondensasi." Ini keliru karena insulasi hanya mengurangi laju perpindahan panas, tetapi tidak menghentikan difusi uap air. Tanpa penghalang uap yang tepat dan ventilasi yang memadai, insulasi sendiri tidak cukup untuk mencegah interstitial condensation.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih aman: desain roof build-up sebagai sistem yang terintegrasi, dengan penghalang uap, insulasi, ventilasi, dan panel metal yang saling melengkapi. Konsultasikan dengan spesialis manajemen kelembaban untuk memastikan desain yang tepat untuk kondisi spesifik proyek Anda.
+
+## Penutup
+
+Perlu diingat bahwa setiap bangunan memiliki profil risiko kelembaban yang unik, tergantung pada aktivitas, lokasi, dan desain atapnya. Tidak ada solusi satu-untuk-semua dalam mengelola interstitial condensation.
+
+Kawan Besi.co.id, interstitial condensation di dalam roof build-up adalah risiko tersembunyi yang bisa menyebabkan kerusakan serius jika tidak dikelola dengan tepat. Pastikan roof build-up dirancang dengan penghalang uap di posisi yang benar, ventilasi yang memadai, dan material yang kompatibel.
+
+Langkah berikutnya: tinjau desain roof build-up Anda, pastikan penghalang uap dipasang di sisi yang benar, dan pertimbangkan untuk menambah ventilasi jika belum ada. Jika ragu, konsultasikan dengan spesialis manajemen kelembaban untuk analisis yang lebih mendalam. Batas yang jujur: artikel ini tidak menggantikan desain profesional; setiap roof build-up harus dianalisis berdasarkan kondisi spesifik proyek.

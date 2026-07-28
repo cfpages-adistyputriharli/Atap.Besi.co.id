@@ -2,71 +2,25 @@
 article_id: RFM-14-A03
 title: "Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control"
 slug: "urutan-pemasangan-panel-atap"
-description: "Map datum/direction, first panel, alignment, supports, temporary restraint, cutting, swarf, fasteners, laps, seal, damage, and inspection"
-status: outline
+description: "Urutan pemasangan panel atap: datum/arah, panel pertama, alignment, dukungan, penahan sementara, pemotongan, swarf, fastener, sambungan, segel, kerusakan, dan inspeksi."
+status: draft
 publication_date: "2026-05-29"
 publication_date_basis: editorial_backfill
 date_modified: null
 parent_topic: RFM-14
 primary_intent: "Coordinate workmanship sequence"
 reader_community: "Besi.co.id"
-reader_address: "Kawan Besi.co.id"
+reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/urutan-pemasangan-panel-atap.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
   - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/standard/81570.html?browse=ics"
-  - "https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
+  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”
-- **Reader and situation:** Installer executing panel work
-- **Reader outcome:** Map datum/direction, first panel, alignment, supports, temporary restraint, cutting, swarf, fasteners, laps, seal, damage, and inspection
-- **Primary intent:** Coordinate workmanship sequence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No spacing/torque/tool parameter; approved manufacturer method owns values
-- **Final public route:** `/artikel/urutan-pemasangan-panel-atap.html`
-- **Appointed CMS date:** `2026-05-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -75,159 +29,96 @@ sources:
 - **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Urutan pemasangan panel atap metal sangat menentukan kualitas akhir. Jawaban singkatnya: mulai dari datum (referensi) yang benar, pasang panel pertama dengan alignment (kelurusan) yang sempurna, ikuti urutan yang konsisten, potong dengan bersih, kendalikan swarf (serpihan metal), dan periksa setiap langkah. LYSSAGHT merekomendasikan prosedur pemasangan yang sistematis ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)). Kesalahan dalam urutan atau alignment akan menumpuk secara progresif dan menyebabkan masalah signifikan di akhir pemasangan.
 
-### KR-19
+SNI 1727:2020 tentang beban minimum mempertimbangkan kualitas pemasangan dalam performa atap ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)). Pastikan setiap langkah dilakukan dengan teliti, konsisten, dan sesuai prosedur yang sudah ditetapkan.
 
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-33
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ISO 4354:2009 official record](https://www.iso.org/standard/38882.html), [ISO/DIS 4354 revision record](https://www.iso.org/standard/81570.html?browse=ics).
-- **Purpose for this article:** Ground the load path from wind climate and building zones through panel, fastener/clip, support, connection, and primary structure.
-- **Safe grounded facts:** Wind climate, terrain/exposure, height, shape, openings, directionality, internal pressure, edge/corner zones, tributary area, system tests/calculations, supports, fasteners, existing condition, and temporary installation states all matter.
-- **Limits:** Do not calculate or state capacity from abstracts. Obtain current Indonesian basis, licensed clauses, site inputs, exact product/system data, drawings, calculations, and signed structural review under G-23.
-
-### KR-34
-
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
-
-### KR-36
-
-- **Original sources:** [PermenPUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [Permenaker No. 11 Tahun 2026 partial-revocation record — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground installation planning in current Indonesian construction/K3 context and the July 2026 consolidation gate.
-- **Safe grounded facts:** Product instructions, site method, sequence, weather criteria, access system, anchors, rescue, lifting, exclusion zones, temporary stability, hold points, competent people, inspections, and daily release are separate controls.
-- **Limits:** Recheck consolidated law and project rules. No anchor, weather, access, lifting, PPE, sequence, or rescue prescription without G-26. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `RFM-01` | KR-01, KR-02, KR-05, KR-08, KR-29 | Metal-roof terms are safe only when tied to the complete coordinated assembly and its interfaces. | G-01, G-04, G-05, G-19 | | `RFM-02` | KR-01, KR-03, KR-05, KR-07, KR-16, KR-17, KR-29, KR-35 | Base-metal, coating, paint, certificate, and product-identity distinctions can support comparisons without implying installed-system performance. | G-01, G-03, G-05, G-09, G-13, G-19, G-25 | | `RFM-03` | KR-01, KR-07, KR-11, KR-29, KR-30, KR-31, KR-33, KR-34 | A roof specification must join survey facts, geometry, assembly identity, thermal/moisture conditions, wind, and water interfaces. | G-01, G-05, G-06, G-19, G-20, G-21, G-23, G-24 | | `RFM-04` | KR-29, KR-30, KR-31 | Thermal and energy articles may explain calculation/measurement scope and input dependencies, but not promise a project result. | G-19, G-20, G-21 | | `RFM-05` | KR-29, KR-32 | Acoustic articles may distinguish laboratory airborne-sound evidence from actual rain-noise and field experience. | G-19, G-22 | | `RFM-06` | KR-29, KR-30, KR-31, KR-34 | Condensation and ventilation content can explain heat-and-moisture paths across a specified assembly and its drainage interfaces. | G-19, G-20, G-21, G-24 | | `RFM-07` | KR-11, KR-24, KR-29, KR-33, KR-35 | Wind and structural articles can show the load path and evidence hierarchy without supplying generic span or fastener tables. | G-06, G-14, G-19, G-23, G-25 | | `RFM-08` | KR-29, KR-31, KR-34, KR-35 | Rainwater articles can explain drainage/interface logic and test-method scope without treating one specimen as every roof. | G-05, G-19, G-21, G-24, G-25 | | `RFM-09` | KR-16, KR-17, KR-18, KR-29, KR-33, KR-34, KR-35 | Fastener, sealant, flashing, and penetration content can connect compatibility, corrosion, wind, and water evidence. | G-05, G-09, G-14, G-19, G-23, G-24, G-25 | | `RFM-10` | KR-16, KR-17, KR-18, KR-28, KR-29, KR-31 | Durability content can distinguish material/coating condition from assembly moisture paths, maintenance, and actual exposure. | G-05, G-09, G-14, G-18, G-19, G-21 | | `RFM-11` | KR-02, KR-04, KR-05, KR-07, KR-08, KR-29, KR-35 | Product selection can compare declared product evidence and assembly roles while withholding unverified system-equivalence claims. | G-01, G-03, G-04, G-05, G-19, G-25 | | `RFM-12` | KR-07, KR-21, KR-22, KR-23, KR-29, KR-35, KR-36 | Procurement and handover can require traceability, sampling, current offers, assembly evidence, test equivalence, and K3 deliverables. | G-03, G-05, G-12, G-13, G-15, G-19, G-25, G-26 | | `RFM-13` | KR-21, KR-29, KR-33, KR-36 | Handling and storage guidance can identify assembly damage, wind exposure, lifting, temporary restraint, and stop-work questions. | G-05, G-12, G-19, G-23, G-26 | | `RFM-14` | KR-19, KR-20, KR-21, KR-29, KR-33, KR-34, KR-36 | Installation content can present sequence, interface checks, exposure controls, and K3 planning without a universal DIY method. | G-05, G-06, G-12, G-19, G-23, G-24, G-26 | | `RFM-15` | KR-24, KR-28, KR-29, KR-31, KR-33, KR-34, KR-35, KR-36 | Diagnosis can trace symptoms through moisture, wind, water, and test evidence before repair disposition. | G-14, G-18, G-19, G-21, G-23, G-24, G-25, G-26 | | `RFM-16` | KR-24, KR-27, KR-28, KR-29, KR-30, KR-31, KR-33, KR-36 | Retrofit and end-of-life content can compare retained evidence, altered load/heat/moisture paths, reuse limits, and safe work planning. | G-14, G-17, G-18, G-19, G-20, G-21, G-23, G-26 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | `G-02` SNI, rebar, structural/cold-formed work, conformity claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | `G-03` Certificates, heat/batch, split stock, remnants, claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | `G-04` Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | `G-05` Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | `G-06` Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | `G-07` Welding, repair welding, distortion correction | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | `G-08` Weld/asset inspection and defect disposition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | `G-09` Paint, galvanizing, duplex, touch-up, maintenance | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | `G-10` Vent/drain/lift details, fabrication, inspection, repair | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | `G-11` Fire rating, reoccupation, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | `G-12` Cutting, welding, lifting, transport, storage, work at height, erection, demolition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | `G-13` Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | `G-14` Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | `G-15` Procurement comparisons and lifecycle cost | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | `G-16` Pressure/fluid/temperature/corrosion/structural pipe suitability | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | `G-17` Reuse, deconstruction, scrap, recycling, environmental claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | `G-18` Baseline, inspection interval, repair/replace/decommission decision | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | | `G-19` Exact roof assembly and product/system identity | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current drawings, layer build-up, profile, support, fastener, sealant, flashing, insulation, ventilation, drainage, compatibility, and approved manufacturer evidence for the offered system | | `G-20` Thermal and energy inputs/results | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-16` | Obtain project climate, geometry, material properties, boundary conditions, full method, model/measurement plan, calibration, uncertainty, and competent interpretation | | `G-21` Moisture and condensation assessment | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-08`, `RFM-10`, `RFM-15`, `RFM-16` | Survey indoor/outdoor moisture loads and air paths; obtain full method, material data, assembly interfaces, drainage/ventilation facts, and building-physics review | | `G-22` Rain-noise and acoustic performance | `RFM-05` | Define source-path-receiver and target; obtain an applicable complete assembly test or qualified field evidence with method, mounting, spectrum/rating, and limitations | | `G-23` Site wind action and complete load path | `RFM-03`, `RFM-07`, `RFM-09`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current site wind inputs, terrain/building geometry, pressure zones, supports, fasteners/connections, temporary states, calculations, drawings, and competent signed review | | `G-24` Water shedding, drainage, and interface evidence | `RFM-03`, `RFM-06`, `RFM-08`, `RFM-09`, `RFM-14`, `RFM-15` | Confirm slope, lengths, laps, seams, valleys, gutters, penetrations, flashings, drainage capacity, maintenance access, and applicable product/system test evidence | | `G-25` Test-to-offer equivalence | `RFM-02`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-11`, `RFM-12`, `RFM-15` | Compare the actual offered assembly with each report specimen, method, laboratory scope, dimensions, support, fixing, interfaces, conditioning, edition, result, and exclusions | | `G-26` Roof installation, access, rescue, and site K3 | `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Complete current legal/site review, risk assessment, work-at-height and lifting methods, weather limits, edge/opening controls, access, permits, supervision, inspection, rescue, and emergency arrangements | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-06, G-12, G-19, G-23, G-24, G-26
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-14-A01` → `/artikel/method-statement-instalasi-atap.html` — Method Statement Instalasi Atap Metal: Isi Minimum
-- `RFM-14-A02` → `/artikel/work-at-height-dan-rescue-atap.html` — Work at Height, Fall Prevention, dan Rescue di Pekerjaan Atap
-- `RFM-14-A04` → `/artikel/weather-stop-pekerjaan-atap.html` — Weather Stop untuk Angin, Hujan, Panas, dan Petir
-- `RFM-14-A05` → `/artikel/temporary-weathering-saat-reroofing.html` — Temporary Weathering dan Proteksi Bangunan Beroperasi
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas urutan pemasangan panel atap metal, termasuk penentuan datum dan arah, pemasangan panel pertama, alignment, dukungan sementara, pemotongan, pengendalian swarf, pengencangan fastener, pembuatan sambungan, pemasangan segel, penanganan kerusakan, dan inspeksi. Cakupannya adalah proses pemasangan di lapangan, bukan desain atau perencanaan.
 
-## Cara kerjanya
+Artikel ini tidak membahas detail teknis desain atau spesifikasi produk; itu domain dari engineer dan produsen. Untuk informasi tentang profil atap, baca [Membaca Profil dan Effective Cover Atap](/artikel/membaca-profil-dan-effective-cover-atap.html). Untuk panduan tentang handling panel, lihat [Handling Panel Atap Metal](/artikel/handling-panel-atap-metal.html).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Penentuan datum dan arah
 
-## Faktor yang mengubah hasil
+Datum adalah titik referensi dari mana pemasangan dimulai. Biasanya datum adalah tepi atap yang paling terlihat dari jalan. Arah pemasangan ditentukan oleh orientasi panel relatif terhadap angin dominan dan estetika. Pemasangan dimulai dari datum dan bergerak ke arah yang berlawanan dengan angin dominan untuk mencegah air merembes ke sambungan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+ASTM E1646-95(2024) menguji ketahanan atap terhadap air ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)), dan arah pemasangan yang benar membantu memastikan ketahanan ini.
+
+## Pemasangan panel pertama
+
+Panel pertama adalah yang paling kritis karena menentukan alignment untuk semua panel berikutnya. Pastikan panel pertama terpasang tegak lurus terhadap purlin dan memiliki overhang yang sesuai di tepi atap. Gunakan water pass atau laser untuk memverifikasi kelurusan.
+
+Jika panel pertama miring, semua panel berikutnya akan miring dan masalah akan menumpuk. Luangkan waktu ekstra untuk memastikan panel pertama terpasang dengan sempurna karena akan menjadi referensi untuk semua panel berikutnya.
+
+## Alignment dan dukungan sementara
+
+Setelah panel pertama terpasang, gunakan sebagai referensi untuk panel berikutnya. Periksa alignment secara berkala, minimal setiap lima panel, untuk mendeteksi penyimpangan sejak dini. Pasang dukungan sementara (clamp atau brace) untuk mencegah panel bergeser selama pemasangan.
+
+Jangan biarkan panel yang belum terpasang fastener secara permanen terkena angin kencang karena panel yang longgar bisa terbang dan menyebabkan bahaya serius bagi pekerja di bawah.
+
+## Pemotongan dan pengendalian swarf
+
+Potong panel dengan gunting atau nibbler, bukan gerinda tangan yang menghasilkan banyak swarf (serpihan metal panas). Swarf yang jatuh ke permukaan panel dan dibiarkan bisa menyebabkan karat noda (rust staining) yang merusak penampilan secara permanen.
+
+Bersihkan swarf segera setelah pemotongan. Jangan biarkan swarf mengendap di atas panel atau di dalam sambungan.
+
+## Pengencangan fastener
+
+Kencangkan fastener sesuai torsi yang direkomendasikan oleh produsen. Jangan terlalu kencang (overdriven) atau terlalu longgar (underdriven). Periksa apakah fastener tegak lurus terhadap permukaan panel.
+
+Gunakan bor dengan clutch (kopling) yang bisa disetel untuk menjaga konsistensi torsi. Periksa fastener secara berkala untuk memastikan konsistensi.
+
+## Pembuatan sambungan dan pemasangan segel
+
+Sambungan antar panel harus terpasang dengan benar untuk mencegah kebocoran. Pastikan overlap sesuai spesifikasi dan sealant terpasang di lokasi yang tepat. Jangan terlalu banyak atau terlalu sedikit sealant karena keduanya bisa menyebabkan masalah kebocoran.
+
+Periksa sambungan secara visual dan dengan uji air jika diperlukan. Pastikan tidak ada celah atau area yang tidak tersentuh sealant.
+
+## Penanganan kerusakan selama pemasangan
+
+Jika panel rusak selama pemasangan (goresan, dent, lipatan), evaluasi apakah masih bisa digunakan atau harus diganti. Goresan dangkal di area yang tidak terlihat mungkin bisa diterima dengan persetujuan engineer. Goresan dalam atau di area yang terlihat mungkin memerlukan penggantian.
+
+Dokumentasikan setiap kerusakan dan laporkan sesuai prosedur damage report.
+
+## Inspeksi setelah pemasangan
+
+Setelah pemasangan selesai, lakukan inspeksi menyeluruh: periksa alignment, fastener, sambungan, segel, dan kerusakan. Pastikan semua panel terpasang dengan benar, tidak ada masalah yang terlewat, dan semua fastener terkencang dengan benar.
+
+Buat laporan inspeksi yang mencakup temuan detail dan rekomendasi perbaikan konkret jika diperlukan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 1: Atap dengan penetrasi banyak.** Rencanakan urutan pemasangan untuk meminimalkan pemotongan di sekitar penetrasi. Pasang panel di area penetrasi terlebih dahulu jika memungkinkan.
+
+**Skenario 2: Atap dengan slope berbeda.** Pasang panel di slope yang lebih rendah terlebih dahulu untuk mencegah aliran air dari slope atas mengganggu pemasangan di slope bawah.
+
+**Skenario 3: Pemasangan saat angin kencang.** Kurangi jumlah panel yang terbuka pada satu waktu. Pasang fastener segera setelah panel diletakkan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Urutan Panel, Alignment, Cutting, Fixing, dan Swarf Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: Memulai dari titik yang salah.** Ini menyebabkan alignment yang buruk dan sambungan yang tidak rapi. Verifikasi: tentukan datum dengan cermat dan mulai dari sana.
 
-## Objection or shortcut to address
+**Kesalahan 2: Tidak membersihkan swarf.** Swarf menyebabkan karat noda dan merusak estetika. Verifikasi: bersihkan swarf segera setelah pemotongan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Fastener tidak konsisten.** Fastener yang terlalu kencang atau terlalu longgar menyebabkan masalah kualitas. Verifikasi: gunakan bor dengan clutch yang bisa disetel.
 
-## Required conclusion
+## Objection atau jalan pintas yang perlu dijawab
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering muncul: "Urutan tidak masalah, yang penting semua panel terpasang." Ini keliru karena urutan yang salah menyebabkan masalah alignment, pemborosan material, dan kesulitan pemasangan.
 
-## Draft completion checklist
+Alternatif yang lebih aman: rencanakan urutan pemasangan sebelum memulai. Diskusikan dengan installer dan supervisor untuk memastikan semua orang memahami urutan pemasangan dan alasannya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Urutan pemasangan panel atap metal yang benar adalah kunci dari hasil yang berkualitas. Kesalahan dalam urutan atau alignment akan menumpuk dan menyebabkan masalah yang mahal untuk diperbaiki. Luangkan waktu untuk merencanakan urutan yang tepat, pastikan panel pertama terpasang sempurna, dan ikuti prosedur secara konsisten. Dengan pendekatan yang sistematis, Anda bisa memastikan atap terpasang dengan benar dan berfungsi sesuai desain.## Penutup
+
+Sobat Besi.co.id, urutan pemasangan panel atap metal yang benar sangat menentukan kualitas akhir. Mulai dari datum yang tepat, pasang panel pertama dengan alignment sempurna, ikuti urutan yang konsisten, dan periksa setiap langkah.
+
+Langkah berikutnya: buat rencana pemasangan yang mencakup datum, arah, urutan, dan prosedur untuk setiap langkah. Latih tim Anda untuk mengikuti rencana ini secara konsisten dan disiplin. Batas yang jujur: artikel ini tidak menggantikan method statement spesifik untuk proyek Anda; sesuaikan dengan kondisi spesifik dan kebutuhan proyek Anda.

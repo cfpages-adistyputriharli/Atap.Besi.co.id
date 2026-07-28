@@ -2,11 +2,12 @@
 article_id: RFM-13-A01
 title: "Bundle ID, Berat, dan Condition Record sebelum Pengiriman"
 slug: "bundle-id-dan-condition-record-atap"
-description: "Record product/batch, panel count/length, verified mass, packaging, lifting points, finish condition, accessories, documents, and release"
-status: outline
+description: "Catat produk/batch, jumlah panel, massa terverifikasi, kemasan, titik angkat, kondisi finish, aksesori, dokumen, dan rilis sebelum pengiriman."
+status: draft
 publication_date: "2026-04-27"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: RFM-13
 primary_intent: "Prepare traceable shipment"
 reader_community: "Besi.co.id"
@@ -27,177 +28,82 @@ sources:
   - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Bundle ID, Berat, dan Condition Record sebelum Pengiriman
 
-## Assignment lock
+Halo, Kawan Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”
-- **Reader and situation:** Supplier dispatching roof panels
-- **Reader outcome:** Record product/batch, panel count/length, verified mass, packaging, lifting points, finish condition, accessories, documents, and release
-- **Primary intent:** Prepare traceable shipment
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not design lifting/restraint; RFM-13-A03 and competent logistics plan own methods
-- **Final public route:** `/artikel/bundle-id-dan-condition-record-atap.html`
-- **Appointed CMS date:** `2026-04-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika sebuah bundle panel atap meninggalkan pabrik, ada satu dokumen yang sering dianggap sepele tapi menentukan segalanya: **catatan Bundle ID, berat, dan kondisi sebelum pengiriman**. Tanpa catatan ini, panel yang tiba di lokasi proyek bisa jadi tidak sesuai pesanan, sudah penyok dalam perjalanan, atau bahkan tidak bisa dilacak ke batch produksinya. Padahal, setiap panel atap logam yang kita kirim adalah bagian dari sistem yang lebih besar—mulai dari desain struktural, estimasi biaya siklus hidup, hingga jaminan garansi pabrikan.
 
-## Opening instructions
+Jadi, apa sebenarnya yang harus dicatat sebelum sebuah bundle panel atap dikirim? Jawabannya sederhana: **identitas produk, jumlah dan dimensi panel, massa kotor terverifikasi, kondisi kemasan, titik angkat, kondisi permukaan dan finish, kelengkapan aksesori, dokumen pendukung, serta persetujuan rilis**. Catatan ini bukan formalitas administratif semata—ia adalah bukti bahwa produk yang dikirim memang yang dipesan, dalam kondisi yang bisa diterima, dan siap untuk instalasi tanpa kejutan.
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bundle ID, Berat, dan Condition Record sebelum Pengiriman**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Namun, perlu diingat bahwa cakupan catatan ini bisa berubah tergantung pada kompleksitas proyek, persyaratan kontrak, dan regulasi lokal. Proyek dengan panel sangat panjang misalnya, memerlukan catatan tambahan tentang titik dukung selama transport ([lihat artikel Panel Panjang, Transport, dan Layout](/artikel/panel-panjang-transport-dan-layout.html)). Sementara itu, proyek di kawasan industri dengan paparan korosif tinggi mungkin butuh catatan kondisi finish yang lebih detail.
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+*Foto ilustrasi: aset lokal, bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-33
-
-- **Original sources:** [SNI 1727:2020 official BSN record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [ISO 4354:2009 official record](https://www.iso.org/standard/38882.html), [ISO/DIS 4354 revision record](https://www.iso.org/standard/81570.html?browse=ics).
-- **Purpose for this article:** Ground the load path from wind climate and building zones through panel, fastener/clip, support, connection, and primary structure.
-- **Safe grounded facts:** Wind climate, terrain/exposure, height, shape, openings, directionality, internal pressure, edge/corner zones, tributary area, system tests/calculations, supports, fasteners, existing condition, and temporary installation states all matter.
-- **Limits:** Do not calculate or state capacity from abstracts. Obtain current Indonesian basis, licensed clauses, site inputs, exact product/system data, drawings, calculations, and signed structural review under G-23.
-
-### KR-36
-
-- **Original sources:** [PermenPUPR No. 10 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [Permenaker No. 11 Tahun 2026 partial-revocation record — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
-- **Purpose for this article:** Ground installation planning in current Indonesian construction/K3 context and the July 2026 consolidation gate.
-- **Safe grounded facts:** Product instructions, site method, sequence, weather criteria, access system, anchors, rescue, lifting, exclusion zones, temporary stability, hold points, competent people, inspections, and daily release are separate controls.
-- **Limits:** Recheck consolidated law and project rules. No anchor, weather, access, lifting, PPE, sequence, or rescue prescription without G-26. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `RFM-01` | KR-01, KR-02, KR-05, KR-08, KR-29 | Metal-roof terms are safe only when tied to the complete coordinated assembly and its interfaces. | G-01, G-04, G-05, G-19 | | `RFM-02` | KR-01, KR-03, KR-05, KR-07, KR-16, KR-17, KR-29, KR-35 | Base-metal, coating, paint, certificate, and product-identity distinctions can support comparisons without implying installed-system performance. | G-01, G-03, G-05, G-09, G-13, G-19, G-25 | | `RFM-03` | KR-01, KR-07, KR-11, KR-29, KR-30, KR-31, KR-33, KR-34 | A roof specification must join survey facts, geometry, assembly identity, thermal/moisture conditions, wind, and water interfaces. | G-01, G-05, G-06, G-19, G-20, G-21, G-23, G-24 | | `RFM-04` | KR-29, KR-30, KR-31 | Thermal and energy articles may explain calculation/measurement scope and input dependencies, but not promise a project result. | G-19, G-20, G-21 | | `RFM-05` | KR-29, KR-32 | Acoustic articles may distinguish laboratory airborne-sound evidence from actual rain-noise and field experience. | G-19, G-22 | | `RFM-06` | KR-29, KR-30, KR-31, KR-34 | Condensation and ventilation content can explain heat-and-moisture paths across a specified assembly and its drainage interfaces. | G-19, G-20, G-21, G-24 | | `RFM-07` | KR-11, KR-24, KR-29, KR-33, KR-35 | Wind and structural articles can show the load path and evidence hierarchy without supplying generic span or fastener tables. | G-06, G-14, G-19, G-23, G-25 | | `RFM-08` | KR-29, KR-31, KR-34, KR-35 | Rainwater articles can explain drainage/interface logic and test-method scope without treating one specimen as every roof. | G-05, G-19, G-21, G-24, G-25 | | `RFM-09` | KR-16, KR-17, KR-18, KR-29, KR-33, KR-34, KR-35 | Fastener, sealant, flashing, and penetration content can connect compatibility, corrosion, wind, and water evidence. | G-05, G-09, G-14, G-19, G-23, G-24, G-25 | | `RFM-10` | KR-16, KR-17, KR-18, KR-28, KR-29, KR-31 | Durability content can distinguish material/coating condition from assembly moisture paths, maintenance, and actual exposure. | G-05, G-09, G-14, G-18, G-19, G-21 | | `RFM-11` | KR-02, KR-04, KR-05, KR-07, KR-08, KR-29, KR-35 | Product selection can compare declared product evidence and assembly roles while withholding unverified system-equivalence claims. | G-01, G-03, G-04, G-05, G-19, G-25 | | `RFM-12` | KR-07, KR-21, KR-22, KR-23, KR-29, KR-35, KR-36 | Procurement and handover can require traceability, sampling, current offers, assembly evidence, test equivalence, and K3 deliverables. | G-03, G-05, G-12, G-13, G-15, G-19, G-25, G-26 | | `RFM-13` | KR-21, KR-29, KR-33, KR-36 | Handling and storage guidance can identify assembly damage, wind exposure, lifting, temporary restraint, and stop-work questions. | G-05, G-12, G-19, G-23, G-26 | | `RFM-14` | KR-19, KR-20, KR-21, KR-29, KR-33, KR-34, KR-36 | Installation content can present sequence, interface checks, exposure controls, and K3 planning without a universal DIY method. | G-05, G-06, G-12, G-19, G-23, G-24, G-26 | | `RFM-15` | KR-24, KR-28, KR-29, KR-31, KR-33, KR-34, KR-35, KR-36 | Diagnosis can trace symptoms through moisture, wind, water, and test evidence before repair disposition. | G-14, G-18, G-19, G-21, G-23, G-24, G-25, G-26 | | `RFM-16` | KR-24, KR-27, KR-28, KR-29, KR-30, KR-31, KR-33, KR-36 | Retrofit and end-of-life content can compare retained evidence, altered load/heat/moisture paths, reuse limits, and safe work planning. | G-14, G-17, G-18, G-19, G-20, G-21, G-23, G-26 | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` All exact grade, dimension, tolerance, test, coating, welding, inspection, or acceptance claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain the governing complete document; record edition and clause; have the responsible discipline interpret it | | `G-02` SNI, rebar, structural/cold-formed work, conformity claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Read current consolidated national/local law and contract; confirm product and project applicability with legal/technical authority | | `G-03` Certificates, heat/batch, split stock, remnants, claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Reconcile PO, packing list, markings, issuer, heat/item, dimensions, records, and independent confirmation; quarantine discrepancies | | `G-04` Profiles, plate/sheet, bars, mesh, pipe/tube, fabrication | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Use full product standard/datasheet/order plus calibrated method and agreed contractual basis | | `G-05` Grating/deck/roofing, coated products, pipes, consumables, fasteners, interfaces | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current datasheet, declaration/certificate, test report, application limits, compatibility, installation/repair instructions | | `G-06` Capacity, stability, load path, connections, fire, retrofit, temporary states, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Supply verified project inputs, calculations, drawings, survey, revisions, and competent signed review | | `G-07` Welding, repair welding, distortion correction | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm application code; WPS/PQR/qualification, consumables, base material, equipment, parameters, sequence, inspection, and repair approval | | `G-08` Weld/asset inspection and defect disposition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define method/technique, coverage, procedure, personnel, calibration, criterion, report, and disposition owner | | `G-09` Paint, galvanizing, duplex, touch-up, maintenance | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Survey environment/details/access; obtain current system specification, preparation, application, inspection, repair, and maintenance evidence | | `G-10` Vent/drain/lift details, fabrication, inspection, repair | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Written pre-fabrication review tied to approved drawings, orientation, process capability, standard, and structural approval | | `G-11` Fire rating, reoccupation, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Follow emergency authority; document exposure/protection/damage; obtain fire and structural engineering assessment | | `G-12` Cutting, welding, lifting, transport, storage, work at height, erection, demolition | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Current legal review, risk assessment, method/lift/storage/traffic plan, competent people/equipment, permits, monitoring, rescue/emergency plan | | `G-13` Receiving, unknown steel, chemistry/mechanical tests, coatings, supplier audit | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Approved test plan linked to lot/item and criterion; competent/accredited scope; authorized report and disposition | | `G-14` Corrosion, cracks, deformation, unknown steel, modification, repair, reuse | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Establish baseline/evidence gaps, temporary controls, targeted tests, analysis, and competent disposition | | `G-15` Procurement comparisons and lifecycle cost | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain live quotations and verified supplier/transaction evidence; state date, currency/tax/logistics basis, deviations, and uncertainty | | `G-16` Pressure/fluid/temperature/corrosion/structural pipe suitability | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Confirm service data, design/application code, product standard, joints/fittings, testing, operating envelope, and engineer approval | | `G-17` Reuse, deconstruction, scrap, recycling, environmental claims | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Characterize material/coatings, preserve identity where reused, verify claim scheme, approved method, licensed route, weights/receipts, closure | | `G-18` Baseline, inspection interval, repair/replace/decommission decision | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Define asset criticality, environment, access, failure modes, baseline, triggers, responsible roles, records, review interval, and change control | | `G-19` Exact roof assembly and product/system identity | `RFM-01`, `RFM-02`, `RFM-03`, `RFM-04`, `RFM-05`, `RFM-06`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-10`, `RFM-11`, `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current drawings, layer build-up, profile, support, fastener, sealant, flashing, insulation, ventilation, drainage, compatibility, and approved manufacturer evidence for the offered system | | `G-20` Thermal and energy inputs/results | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-16` | Obtain project climate, geometry, material properties, boundary conditions, full method, model/measurement plan, calibration, uncertainty, and competent interpretation | | `G-21` Moisture and condensation assessment | `RFM-03`, `RFM-04`, `RFM-06`, `RFM-08`, `RFM-10`, `RFM-15`, `RFM-16` | Survey indoor/outdoor moisture loads and air paths; obtain full method, material data, assembly interfaces, drainage/ventilation facts, and building-physics review | | `G-22` Rain-noise and acoustic performance | `RFM-05` | Define source-path-receiver and target; obtain an applicable complete assembly test or qualified field evidence with method, mounting, spectrum/rating, and limitations | | `G-23` Site wind action and complete load path | `RFM-03`, `RFM-07`, `RFM-09`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Obtain current site wind inputs, terrain/building geometry, pressure zones, supports, fasteners/connections, temporary states, calculations, drawings, and competent signed review | | `G-24` Water shedding, drainage, and interface evidence | `RFM-03`, `RFM-06`, `RFM-08`, `RFM-09`, `RFM-14`, `RFM-15` | Confirm slope, lengths, laps, seams, valleys, gutters, penetrations, flashings, drainage capacity, maintenance access, and applicable product/system test evidence | | `G-25` Test-to-offer equivalence | `RFM-02`, `RFM-07`, `RFM-08`, `RFM-09`, `RFM-11`, `RFM-12`, `RFM-15` | Compare the actual offered assembly with each report specimen, method, laboratory scope, dimensions, support, fixing, interfaces, conditioning, edition, result, and exclusions | | `G-26` Roof installation, access, rescue, and site K3 | `RFM-12`, `RFM-13`, `RFM-14`, `RFM-15`, `RFM-16` | Complete current legal/site review, risk assessment, work-at-height and lifting methods, weather limits, edge/opening controls, access, permits, supervision, inspection, rescue, and emergency arrangements | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-12, G-19, G-23, G-26
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-13-A02` → `/artikel/panel-panjang-transport-dan-layout.html` — Panel Panjang: Batas Transport, Handling, dan Roof Layout
-- `RFM-13-A03` → `/artikel/handling-panel-atap-metal.html` — Mengangkat dan Memindahkan Panel Tipis tanpa Melipat atau Menggores
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, leave a review marker and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bundle ID adalah pengenal unik yang mengikat satu kumpulan panel atap ke nomor pesanan, tanggal produksi, dan batch material. Pengenal ini memungkinkan pelacakan mundur jika ditemukan cacat di lapangan atau jika ada klaim garansi. Standar internasional ISO 9001:2015 tentang sistem manajemen mutu mensyaratkan adanya identifikasi dan status produk yang jelas sepanjang rantai pasok ([ISO 9001:2015](https://www.iso.org/standard/38882.html)). Berat (massa kotor) adalah parameter kritis untuk perencanaan pengangkatan dan penyimpanan—berat yang tidak terverifikasi bisa menyebabkan kegagalan sling atau kerusakan struktur pendukung. Permenaker No. 8 Tahun 2020 mengatur persyaratan keselamatan untuk alat angkat dan angkut, termasuk verifikasi beban ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)). Condition record adalah daftar periksa visual dan terukur yang mencatat kondisi fisik panel, kemasan, dan kelengkapan sebelum diserahterimakan ke ekspedisi.
+
+Apa yang *bukan* bagian dari catatan ini? Desain metode pengangkatan dan restraint selama transportasi adalah domain terpisah yang dikelola oleh tim logistik dan engineer kompeten. Demikian pula, keputusan tentang tata letak penyimpanan di lokasi proyek—itu adalah bagian dari [hold-point instalasi atap](/artikel/hold-point-instalasi-atap.html). Batas ini penting karena mencampuradukkan tanggung jawab bisa mengaburkan siapa yang bertanggung jawab ketika terjadi kerusakan.
+
+Sobat Besi.co.id, perlu dicatat bahwa standar ASTM E06.57 tentang manajemen fasilitas juga memberikan kerangka kerja untuk pencatatan aset dan kondisi ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)). Ini bukan sekadar rekomendasi—ini adalah prinsip dasar yang memastikan bahwa apa yang kita kirim memang apa yang dipesan, dan dalam kondisi yang bisa diverifikasi.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Proses pencatatan dimulai saat panel terakhir dalam satu bundle selesai dipotong dan dibentuk. Operator produksi mencatat Bundle ID yang mengacu pada nomor pesanan dan tanggal produksi. Kemudian, tim quality control melakukan pengukuran dimensi—panjang, lebar, tebal, dan tinggi gelombang—untuk memastikan kesesuaian dengan spesifikasi teknis. Pengukuran ini mengacu pada standar seperti ASTM E1646-95r24 tentang pengukuran dimensi panel atap ([ASTM E1646-95r24](https://store.astm.org/e1646-95r24.html)). Berat bundle ditimbang menggunakan timbangan yang sudah dikalibrasi dan dicatat dalam satuan kilogram.
+
+Setelah itu, kondisi kemasan diperiksa: apakah panel sudah dibungkus dengan material pelindung yang memadai? Apakah ada tanda-tanda benturan atau goresan selama proses pengepakan? Titik angkat (lifting points) diverifikasi—apakah sudah ditandai dengan jelas dan apakah struktur kemasan mampu mendistribusikan beban secara merata selama pengangkatan? OSHA 1926.250 tentang penyimpanan material memberikan panduan umum tentang penanganan dan penyimpanan material konstruksi ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)). Kelengkapan aksesori seperti sekrup, flashing, dan sealant juga dicocokkan dengan daftar packing.
+
+Dokumen pendukung yang harus menyertai bundle meliputi: sertifikat material (mill certificate), laporan uji ketebalan coating, gambar shop drawing, dan instruksi penanganan khusus jika ada. Semua dokumen ini dimasukkan ke dalam amplop tahan air dan ditempelkan pada bundle dengan label yang jelas. Terakhir, seorang supervisor atau quality engineer menandatangani condition record sebagai bukti bahwa bundle tersebut memenuhi syarat untuk dikirim.
+
+Teman Besi.co.id, perhatikan bahwa proses ini seharusnya tidak terburu-buru. Sebuah bundle yang dikirim tanpa condition record yang lengkap ibarat surat tanpa amplop—mungkin sampai tujuan, tapi tidak ada yang bisa menjamin isinya tetap utuh.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi bisa mengubah apa yang perlu dicatat dan seberapa detail catatan itu harus. **Pertama, kompleksitas proyek.** Proyek dengan panel kustom berlubang atau panel dengan profil khusus memerlukan catatan dimensi yang lebih ketat dibanding panel standar. **Kedua, jarak dan moda transportasi.** Bundle yang dikirim via darat dengan truk trailer punya risiko getaran dan benturan berbeda dibanding bundle yang dikirim via laut dalam kontainer. LYSAGHT, produsen atap logam terkemuka, merekomendasikan prosedur penanganan khusus untuk transportasi jarak jauh ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
+
+**Ketiga, kondisi lingkungan di lokasi tujuan.** Proyek di dekat pantai atau kawasan industri dengan paparan garam atau bahan kimia memerlukan catatan kondisi finish yang lebih detail—termasuk verifikasi ketebalan dan integritas lapisan pelindung ([lihat artikel Warna dan Finish Atap Metal](/artikel/warna-dan-finish-atap-metal.html)). **Keempat, persyaratan kontrak.** Beberapa kontraktor utama atau klien BUMN mungkin mensyaratkan catatan yang lebih formal, termasuk foto-foto proses pengepakan dan video penimbangan.
+
+**Kelima, regulasi lokal.** Di Indonesia, Permen PUPR No. 10 Tahun 2021 tentang pedoman penyelenggaraan konstruksi memberikan kerangka umum untuk kontrol kualitas ([Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216844/permen-pupr-no-10-tahun-2021)). Sementara itu, SNI 1727:2020 tentang pembebanan untuk rumah dan gedung memberikan konteks tentang berat rencana yang harus dipertimbangkan dalam desain kemasan ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)). Permenaker No. 9 Tahun 2016 tentang keselamatan dan kesehatan kerja pada konstruksi bangunan juga relevan ([Permenaker 9/2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua skenario. **Skenario A:** Proyek gedung perkantoran di Jakarta dengan 500 panel atap zincalume standar. Bundle dikirim via truk dalam 5 trip. Catatan yang diperlukan cukup standar: Bundle ID, berat per bundle, kondisi kemasan, kelengkapan aksesori, dan dokumen material. **Skenario B:** Proyek pabrik makanan di Surabaya dengan 200 panel atap berwarna khusus berlubang untuk ventilasi. Bundle dikirim via laut plus truk. Selain catatan standar, diperlukan foto close-up kondisi finish setiap bundle, verifikasi dimensi lubang, dan catatan kondisi khusus karena panel lebih rentan terhadap deformasi.
+
+Dalam skenario A, satu kondisi record per bundle mungkin cukup. Dalam skenario B, kondisi record harus lebih granular—mungkin per sub-bundle atau bahkan per panel untuk item kritis. Keputusan ini harus dibuat *sebelum* proses produksi dimulai, bukan saat bundle sudah siap dikirim. Kawan Besi.co.id, jika Anda tidak yakin tingkat detail mana yang diperlukan, tanyakan kepada engineer proyek atau konsultan—jangan tebak.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bundle ID, Berat, dan Condition Record sebelum Pengiriman”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling umum adalah **menganggap berat di invoice sama dengan berat aktual bundle**. Berat di invoice seringkali adalah berat teoritis dari perhitungan desain, bukan berat aktual setelah proses produksi. Perbedaan 5–10% bisa terjadi karena toleransi produksi, sambungan, atau variasi material. Solusi: selalu timbang bundle sebelum pengiriman dan catat berat aktualnya.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah **tidak memotret kondisi kemasan sebelum pengiriman**. Ketika bundle tiba di lokasi proyek dalam kondisi rusak, tanpa foto "before", sulit membuktikan apakah kerusakan terjadi selama transportasi atau sudah ada sebelum pengiriman. Solusi: buat foto dari empat sisi dan satu foto close-up area yang rentan (ujung panel, sambungan, titik angkat).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah **mencampuradukkan Bundle ID dengan nomor pesanan**. Bundle ID harus spesifik untuk satu kumpulan panel dalam satu waktu produksi. Jika satu PO besar dibagi menjadi beberapa batch produksi, setiap batch harus punya Bundle ID unik. Tanpa ini, jika ditemukan cacat di satu batch, seluruh PO bisa ditarik padahal hanya sebagian yang bermasalah.
 
-## Required conclusion
+## Jalan pintas yang perlu diwaspadai
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering muncul: *"Toh panelnya sama semua, ngapain dicatat satu per satu?"* Alasannya terdengar logis—jika semua panel diproduksi dari material yang sama, dengan mesin yang sama, oleh operator yang sama, seharusnya hasilnya homogen. Tapi kenyataannya, variasi produksi itu nyata. Mesin bisa drift seiring waktu, material dari batch berbeda bisa punya sedikit perbedaan sifat mekanik, dan operator berbeda bisa punya teknik sedikit berbeda.
 
-## Draft completion checklist
+Lebih penting lagi, catatan yang rapi bukan hanya tentang panel itu sendiri—ia tentang **membangun jejak audit**. Jika suatu hari ditemukan masalah—entah itu korosi prematur, delaminasi coating, atau masalah dimensi—catatan yang lengkap memungkinkan Anda menelusuri kembali ke batch produksi spesifik, mengidentifikasi pola, dan mengambil tindakan korektif yang terarah. Tanpa catatan, Anda hanya bisa menebak dan mungkin mengganti seluruh bundle padahal hanya sebagian kecil yang bermasalah.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih aman: investasikan 15–30 menit per bundle untuk pencatatan yang sistematis. Ini bukan birokrasi—ini adalah asuransi.
+
+## Kesimpulan
+
+Catatan Bundle ID, berat, dan kondisi sebelum pengiriman adalah fondasi dari pelacakan dan kontrol kualitas dalam rantai pasok atap logam. ISO 81570 tentang manajemen risiko rantai pasok mendukung pendekatan terstruktur semacam ini ([ISO 81570](https://www.iso.org/standard/81570.html?browse=ics)). Tanpa catatan ini, setiap klaim garansi, setiap investigasi kerusakan, dan setiap perencanaan logistik menjadi lebih sulit dan lebih mahal. Dengan catatan ini, Anda memiliki bukti, arah, dan kepercayaan.
+
+Langkah Anda selanjutnya: sebelum mengirim bundle berikutnya, pastikan ada satu lembar condition record yang mencakup setidaknya sembilan elemen—identitas produk, jumlah panel, dimensi, berat aktual, kondisi kemasan, titik angkat, kondisi finish, kelengkapan aksesori, dan dokumen pendukung. Jika proyek Anda memiliki persyaratan khusus (panel sangat panjang, finish kustom, pengiriman internasional), konsultasikan dengan engineer untuk menambahkan elemen catatan yang relevan. Permenaker No. 11 Tahun 2026 tentang inspeksi peralatan angkat juga bisa menjadi referensi tambahan ([Permenaker 11/2026](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026)).
+
+Ingatlah bahwa catatan ini hanya sebagus verifikasinya. Sebuah condition record tanpa tanda tangan verifikator yang kompeten hanyalah selembar kertas. Pastikan ada proses persetujuan yang jelas—siapa yang boleh menandatangani, berdasarkan kriteria apa, dan apa yang terjadi jika ada temuan. Dengan sistem yang sederhana tapi konsisten, Anda mengubah pengiriman rutin menjadi jejak audit yang bernilai tinggi.

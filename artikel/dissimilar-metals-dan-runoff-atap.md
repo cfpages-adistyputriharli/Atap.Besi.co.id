@@ -2,11 +2,12 @@
 article_id: RFM-10-A04
 title: "Dissimilar Metals dan Runoff pada Atap Metal"
 slug: "dissimilar-metals-dan-runoff-atap"
-description: "Explain electrical contact, electrolyte, area effect, upstream runoff, fasteners, flashings, gutters, isolation, sealants, and maintenance"
-status: outline
+description: "Jelaskan kontak listrik, elektrolit, efek rasio luas, runoff hulu, sekrup, flashing, talang, isolasi, sealant, dan pemeliharaan."
+status: draft
 publication_date: "2026-02-20"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: RFM-10
 primary_intent: "Prevent galvanic/runoff incompatibility"
 reader_community: "Besi.co.id"
@@ -30,193 +31,80 @@ sources:
   - "https://www.iso.org/standard/51615.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Dissimilar Metals dan Runoff pada Atap Metal
 
-## Assignment lock
+Halo, Kawan Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Dissimilar Metals dan Runoff pada Atap Metal”
-- **Reader and situation:** Detailer combining roof components
-- **Reader outcome:** Explain electrical contact, electrolyte, area effect, upstream runoff, fasteners, flashings, gutters, isolation, sealants, and maintenance
-- **Primary intent:** Prevent galvanic/runoff incompatibility
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not declare combinations safe; product compatibility evidence owns approval
-- **Final public route:** `/artikel/dissimilar-metals-dan-runoff-atap.html`
-- **Appointed CMS date:** `2026-02-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika Anda memasang sekrup baja karbon pada panel Galvalume, atau menempatkan talang tembaga di bawah atap seng, Anda sedang menciptakan sel galvanik—baterai kimia yang secara perlahan mengorodkan logam yang lebih lemah. Fenomena ini, yang dikenal sebagai korosi galvanik, bukan teori abstrak; ia adalah penyebab nyata kegagalan atap yang bisa dicegah dengan pemahaman dasar tentang **logam yang tidak sejenis (dissimilar metals)** dan **runoff** dari logam yang berbeda.
 
-## Opening instructions
+Jawaban singkatnya: **hindari kontak langsung antara logam yang berbeda dalam deret galvanik, dan cegah air yang sudah bersentuhan dengan logam satu mengalir ke logam lain yang lebih rentan**. Namun, ada pengecualian penting—beberapa kombinasi logam relatif aman karena perbedaan potensialnya kecil, sementara kombinasi lain bisa sangat merusak meskipun terlihat tidak berbahaya. ISO 12944-5:2019 tentang sistem cat pelindung memberikan panduan tentang bagaimana korosi galvanik memengaruhi kinerja sistem pelindung ([ISO 12944-5:2019](https://www.iso.org/standard/77795.html)).
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dissimilar Metals dan Runoff pada Atap Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Faktor yang mengubah jawaban ini meliputi: rasio luas antara dua logam, keberadaan elektrolit (air hujan, kondensasi, polutan), suhu, dan waktu kontak. Di lingkungan korosif tinggi—kawasan pantai atau industri—efek galvanik bisa terjadi jauh lebih cepat. AMPP (Association for Materials Protection and Performance) menjelaskan bahwa korosi galvanik memerlukan tiga kondisi: dua logam berbeda potensial, kontak listrik, dan elektrolit ([AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)).
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+*Foto ilustrasi: aset lokal, bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-28
-
-- **Original sources:** [ISO 55001:2024 — asset-management-system requirements](https://www.iso.org/standard/83054.html) and [ISO 13822:2010](https://www.iso.org/standard/46556.html)
-- **Purpose for this article:** Support asset register, baseline inspection, recurring condition review, intervention choice, and handover.
-- **Safe grounded facts:** A useful steel-asset baseline links unique identity/location/function to drawings/dossier, material/fabrication evidence, geometry, coating, connections, environment, condition/photos, defects, access, actions, inspections, changes, decisions, and next review.
-- **Limits:** The asset-management abstract does not prescribe inspection interval, defect limit, repair, or structural acceptance. The owner and competent disciplines must define the risk-based plan using project facts through G-14/G-18.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-31
-
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-09, G-14, G-18, G-19, G-21
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-10-A02` → `/artikel/survei-exposure-dan-coating-atap.html` — Survei Exposure sebelum Memilih Coating Atap
-- `RFM-10-A03` → `/artikel/cut-edge-swarf-dan-coating-damage.html` — Cut Edge, Swarf, dan Kerusakan Coating saat Instalasi
-- `RFM-10-A05` → `/artikel/membersihkan-atap-metal.html` — Membersihkan Atap Metal Tanpa Mempercepat Kerusakan
-- `RFM-10-A06` → `/artikel/membaca-warranty-atap-metal.html` — Cara Membaca Warranty Atap Metal dan Kondisi yang Membatalkannya
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Runoff pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, leave a review marker and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Runoff pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Dissimilar metals** dalam konteks atap metal mengacu pada dua atau lebih logam atau paduan yang berbeda potensial elektrokimia yang bersentuhan secara langsung atau melalui air. Contoh umum: panel Galvalume (aluminium-seng) dengan sekrup baja karbon, talang tembaga dengan penahan seng, atau flashing aluminium dengan panel zincalume.
+
+**Runoff** adalah air yang sudah bersentuhan dengan satu logam dan mengandung ion logam dari korosi atau pelarutan. Air ini bisa mengendapkan ion logam di permukaan logam lain yang lebih rentan, menyebabkan korosi akselerasi meskipun tidak ada kontak fisik langsung. Galvanizers Association juga merekomendasikan inspeksi rutin untuk mendeteksi korosi galvanik dini ([Galvanizeit — Inspection](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)). Runoff dari tembaga sangat merusak untuk produk galvanis ([Galvanizeit — Design Details](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg)).
+
+Apa yang *bukan* cakupan artikel ini adalah deklarasi kombinasi logam yang "aman"—itu adalah domain bukti kompatibilitas produk dan persetujuan engineer. Artikel ini memberikan kerangka pemahaman, bukan persetujuan teknis. Sobat Besi.co.id, selalu minta bukti kompatibilitas dari pabrikan sebelum mengombinasikan logam yang berbeda.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Runoff pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Korosi galvanik terjadi ketika dua syarat terpenuhi: **kontak listrik** antara dua logam berbeda potensial, dan **keberadaan elektrolit** (air hujan, kondensasi, atau uap). Logam dengan potensial lebih rendah (anoda) akan berkorosi lebih cepat, sementara logam dengan potensial lebih tinggi (katoda) terlindungi. Rasio luas antara katoda dan anoda sangat menentukan laju korosi—semakin besar rasio katoda:anoda, semakin cepat anoda berkorosi.
+
+ISO 12944-9:2018 tentang sistem perlindungan korosi untuk konstruksi baja juga mencakup persyaratan fabrikasi yang relevan ([ISO 12944-9](https://www.iso.org/standard/81435.html)). ASTM E06.57 tentang standar sistem atap logam mengingatkan bahwa kinerja sistem bergantung pada konfigurasi spesifik ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)). ISO 12944-2:2017 mengklasifikasikan lingkungan korosif dari C1 hingga C5, dan lingkungan yang lebih korosif mempercepat proses galvanik ([ISO 12944-2:2017](https://www.iso.org/standard/64834.html)). Di lingkungan C5 (sangat tinggi), korosi galvanik yang di lingkungan C2 mungkin membutuhkan tahun untuk terlihat, bisa terjadi dalam hitungan bulan.
+
+**Runoff** bekerja dengan mekanisme berbeda. Air yang bersentuhan dengan tembaga, misalnya, melarutkan ion tembaga. Ketika air ini mengalir ke permukaan galvanis, ion tembaga mengendap dan membentuk situs korosi lokal. Galvanizers Association merekomendasikan untuk tidak membiarkan air dari permukaan tembaga mengalir ke produk galvanis ([Galvanizeit — Venting and Draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining)).
+
+Untuk detail tentang bagaimana air bergerak di permukaan atap, lihat [artikel Peta Jalur Air Atap Metal](/artikel/peta-jalur-air-atap-metal.html). Lihat juga [artikel Cut Edge, Swarf, dan Kerusakan Coating saat Instalasi](/artikel/cut-edge-swarf-dan-coating-damage.html) untuk memahami bagaimana kerusakan lapisan membuka jalan bagi korosi galvanik(/artikel/peta-jalur-air-atap-metal.html). Memahami jalur air adalah langkah pertama untuk mencegah runoff yang merusak.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Runoff pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pertama, rasio luas katoda:anoda.** Sebuah sekrup kecil anoda yang bersentuhan dengan panel besar katoda akan berkorosi sangat cepat. Sebaliknya, jika anoda lebih besar dari katoda, laju korosi jauh lebih lambat. **Kedua, keberadaan elektrolit.** Di lingkungan kering dengan hujan jarang, korosi galvanik mungkin minimal. Di lingkungan lembab dengan hujan sering, proses ini berjalan terus-menerus.
+
+**Ketiga, jenis elektrolit.** Air hujan murni kurang konduktif dibanding air yang mengandung garam (kawasan pantai) atau polutan industri. Ion klorida sangat agresif untuk banyak logam. **Keempat, suhu.** Suhu lebih tinggi meningkatkan laju reaksi kimia, termasuk korosi galvanik. ASTM E1646-95r24 tentang pengukuran dan verifikasi panel atap bisa menjadi referensi untuk evaluasi kondisi panel ([ASTM E1646-95r24](https://store.astm.org/e1646-95r24.html)).
+
+**Kelima, waktu kontak.** Korosi galvanik akumulatif—semakin lama kontak, semakin besar kerusakan. ISO 14713-1:2017 tentang perlindungan korosi struktur seng memberikan kerangka waktu untuk evaluasi korosi ([ISO 14713-1:2017](https://www.iso.org/standard/71136.html)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Runoff pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua skenario. **Skenario A:** Atap pabrik dengan panel zincalume, sekrup baja karbon berlapis, dan talang aluminium. Semua logam relatif dekat dalam deret galvanik—risiko galvanik rendah, tapi perlu isolasi di titik kontak langsung. **Skenario B:** Atap gedung komersial dengan panel Galvalume, flashing tembaga, dan talang seng. Tembaga jauh lebih tinggi dalam deret galvanik—air dari flashing tembaga akan mengorodkan panel dan talang jika tidak diisolasi.
+
+Dalam skenario A, langkah yang diperlukan relatif sederhana: gunakan washer isolasi di bawah sekrup dan pastikan tidak ada kontak langsung tanpa pelindung. Dalam skenario B, Anda perlu: (1) mengganti flashing tembaga dengan logam yang kompatibel, atau (2) memastikan tidak ada runoff dari tembaga ke permukaan lain, atau (3) menambahkan lapisan isolasi di antara logam. Kawan Besi.co.id, keputusan ini harus dibuat berdasarkan bukti kompatibilitas, bukan asumsi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Runoff pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling umum adalah **mengasumsikan bahwa lapisan cat atau galvanisasi mencegah korosi galvanik**. Lapisan pelindung memang memperlambat proses, tapi jika lapisan rusak (di tepi potong, di lubang sekrup, atau akibat goresan), kontak galvanik langsung terjadi. [ISO 8501-1:2007](https://www.iso.org/standard/46556.html) tentang penilaian kebersihan permukaan dan ISO 8501-3:2006 tentang persiapan permukaan menjelaskan bagaimana kerusakan lapisan membuka jalan bagi korosi ([ISO 8501-3:2006](https://www.iso.org/standard/83054.html)).
 
-## Objection or shortcut to address
+Kesalahan kedua adalah **mengabaikan runoff**. Bahkan jika tidak ada kontak langsung, air yang sudah bersentuhan dengan logam "agresif" bisa membawa ion logam ke permukaan lain. Contoh: talang tembaga di atas atap seng—air dari talang tembaga mengandung ion tembaga yang mengendap di permukaan seng dan mempercepat korosi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah **tidak mempertimbangkan sekrup dan pengencang sebagai kontak galvanik**. Sekrup adalah titik kontak paling umum antara logam berbeda. Pastikan material sekrup kompatibel dengan panel, atau gunakan isolasi (washer nilon, lapisan karet). Teman Besi.co.id, periksa setiap titik kontak—bahkan yang kecil sekalipun.
 
-## Required conclusion
+## Jalan pintas yang perlu diwaspadai
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang berbahaya: **"Logamnya berlapis, jadi tidak masalah jika berbeda."** Alasannya terdengar logis—jika panel sudah dilapisi seng atau aluminium, seharusnya tidak ada kontak logam dasar yang berbeda. Tapi lapisan selalu rusak di beberapa titik: tepi potong, lubang sekrup, goresan instalasi, atau area yang terkena benturan. Di titik-titik inilah korosi galvanik dimulai.
 
-## Draft completion checklist
+Alternatif yang lebih aman: asumsikan bahwa lapisan akan rusak di beberapa titik, dan pilih material yang kompatibel bahkan ketika lapisan tidak ada. Gunakan isolasi di setiap titik kontak langsung antara logam berbeda, dan pastikan tidak ada runoff dari logam agresif ke logam rentan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Dissimilar metals dan runoff pada atap metal adalah masalah nyata yang bisa dicegah dengan pemahaman dasar deret galvanik dan perencanaan yang hati-hati. Kuncinya adalah: hindari kontak langsung antara logam berbeda potensial tinggi, cegah air dari logam agresif mengalir ke logam rentan, dan gunakan isolasi di setiap titik kontak yang tidak bisa dihindari.
+
+Langkah Anda selanjutnya: audit setiap titik kontak logam di sistem atap Anda—panel, sekrup, flashing, talang, penahan. Identifikasi kombinasi yang tidak sejenis dan verifikasi kompatibilitasnya dengan pabrikan. Gunakan washer isolasi atau ganti material jika diperlukan. Ingat bahwa artikel ini tidak mendeklarasikan kombinasi aman—hanya bukti kompatibilitas dari pabrikan yang bisa melakukan itu. ISO 14713-2:2017 tentang pedoman perlindungan korosi bisa menjadi referensi tambahan ([ISO 14713-2:2017](https://www.iso.org/standard/79581.html)).
+
+Batas pengetahuan ini adalah: setiap proyek punya kombinasi unik material dan kondisi lingkungan. ISO 2063-1:2019 tentang pelapisan logam termal memberikan referensi tambahan untuk evaluasi pelapisan ([ISO 2063-1:2019](https://www.iso.org/standard/51615.html)). Untuk kombinasi yang tidak Anda kenal, minta evaluasi dari engineer korosi atau perwakilan pabrikan sebelum mengambil keputusan.

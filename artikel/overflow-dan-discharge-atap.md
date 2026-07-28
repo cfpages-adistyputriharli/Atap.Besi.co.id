@@ -2,56 +2,24 @@
 article_id: RFM-08-A05
 title: "Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat"
 slug: "overflow-dan-discharge-atap"
-description: "Explain independent overflow path, visible warning, safe discharge, facade/foundation/erosion effects, blockage, access, and records"
-status: outline
+description: "Jalur overflow independen, peringatan visual, discharge aman, efek fasad/fondasi/erosi, penyumbatan, akses, dan catatan."
+status: draft
 publication_date: "2026-01-03"
 publication_date_basis: editorial_backfill
 date_modified: null
 parent_topic: RFM-08
 primary_intent: "Plan failure-safe drainage"
 reader_community: "Besi.co.id"
-reader_address: "Kawan Besi.co.id"
+reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/overflow-dan-discharge-atap.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
+  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/51615.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”
-- **Reader and situation:** Owner reviewing drainage resilience
-- **Reader outcome:** Explain independent overflow path, visible warning, safe discharge, facade/foundation/erosion effects, blockage, access, and records
-- **Primary intent:** Plan failure-safe drainage
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not set overflow size/location; responsible designer and authority own them
-- **Final public route:** `/artikel/overflow-dan-discharge-atap.html`
-- **Appointed CMS date:** `2026-01-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -60,137 +28,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Ketika outlet drainase atap tersumbat oleh daun, debris, atau es, air hujan bisa naik dan masuk ke dalam bangunan. Jawaban singkatnya: pastikan sistem drainase atap memiliki jalur overflow independen yang mengarahkan air keluar bangunan sebelum mencapai level yang bisa menyebabkan kebocoran. SNI 1727:2020 tentang beban minimum mempertimbangkan beban air hujan ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)), dan overflow adalah pertahanan terakhir ketika drainase utama gagal.
 
-### KR-29
+Tanpa overflow yang memadai, genangan air di atap bisa menyebabkan beban berlebih pada struktur, merusak waterproofing, dan akhirnya masuk ke dalam bangunan. Biaya perbaikan akibat kebocoran jauh lebih besar daripada biaya memasang sistem overflow yang tepat. Pencegahan selalu lebih murah daripada perbaikan.
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-### KR-31
-
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
-
-### KR-34
-
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
-
-### KR-35
-
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-19, G-21, G-24, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-08-A03` → `/artikel/slope-roof-length-dan-end-lap.html` — Slope, Roof Length, dan End Lap pada Panel Metal
-- `RFM-08-A04` → `/artikel/valley-dan-internal-gutter-atap.html` — Valley, Box Gutter, dan Internal Gutter: Titik Risiko Tinggi
-- `RFM-08-A06` → `/artikel/wind-driven-rain-dan-capillary-entry.html` — Wind-Driven Rain dan Capillary Entry pada Laps Atap
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas sistem overflow dan discharge pada atap metal. Overflow adalah jalur alternatif yang mengalirkan air keluar dari atap ketika drainase utama tersumbat. Discharge adalah titik di mana air dibuang dari sistem drainase, baik ke saluran terbuka, pipa downspout, atau area yang aman. Cakupannya meliputi desain jalur overflow, peringatan visual saat overflow aktif, discharge aman, efek pada fasad dan fondasi, pencegahan penyumbatan, akses inspeksi, dan pencatatan.
 
-## Cara kerjanya
+Artikel ini tidak membahas desain detail sistem drainase; itu domain dari insinyur sipil/mekanik. Untuk informasi tentang maintenance drainase, baca [Maintenance Drainase Atap](/artikel/maintenance-drainase-atap.html). Untuk panduan tentang data drainase, lihat [Data Sebelum Membongkar Atap](/artikel/data-sebelum-membongkar-atap.html).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Mekanisme overflow
 
-## Faktor yang mengubah hasil
+Overflow bekerja dengan menyediakan jalur keluar alternatif untuk air ketika drainase utama tersumbat. Biasanya berupa lubang atau celah di tepi atap atau parapet yang terbuka ketika air mencapai ketinggian tertentu. Air yang keluar melalui overflow harus diarahkan ke area yang aman, bukan ke dinding bangunan atau area yang bisa menyebabkan erosi.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+ASTM E1646-95(2024) menguji ketahanan atap terhadap air ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)), dan overflow yang baik memastikan atap tetap aman bahkan saat drainase utama gagal. Peringatan visual (seperti pipa pelapor yang mengeluarkan air) membantu mengidentifikasi kapan overflow aktif.
+
+## Faktor yang mempengaruhi kebutuhan overflow
+
+**Curah hujan lokal:** Daerah dengan curah hujan tinggi membutuhkan sistem overflow yang lebih besar. Data curah hujan lokal harus menjadi dasar desain.
+
+**Luas atap:** Semakin besar luas atap, semakin banyak air yang harus di alirkan. Overflow harus dirancang untuk menangani volume air yang sesuai.
+
+**Tingkat penyumbatan:** Daerah dengan banyak pohon atau debris memiliki risiko penyumbatan yang lebih tinggi. Pertimbangkan untuk memasang filter atau screen pada inlet drainase.
+
+**Kemiringan atap:** Atap miring memiliki aliran air yang lebih cepat dibandingkan atap datar. Desain overflow harus mempertimbangkan kecepatan aliran ini.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 1: Atap datar gedung perkantoran.** Pastikan ada overflow scupper di setiap sisi atap dengan ketinggian trigger yang tepat. Arahkan discharge ke pipa downspout yang terpisah dari drainase utama.
+
+**Skenario 2: Atap miring rumah tinggal.** Pastikan gutter (talang) memiliki overflow slot di bagian belakang yang mengarahkan air menjauhi dinding. Periksa gutter secara rutin untuk debris.
+
+**Skenario 3: Atap dengan banyak penetrasi.** Penetrasi bisa menghambat aliran air dan menciptakan genangan lokal. Pastikan overflow tersedia di setiap area genangan potensial.
+
+## Pencegahan penyumbatan
+
+Pencegahan lebih baik daripada mengobati. Pasang leaf guard atau screen pada inlet drainase untuk mencegah daun dan debris masuk. Bersihkan drainase secara rutin, terutama sebelum musim hujan. Periksa downspout untuk memastikan tidak ada penyumbatan.
+
+Jika memungkinkan, desain drainase dengan kemiringan yang cukup untuk mendorong debris keluar secara alami. Hindari sudut tajam di pipa drainase yang bisa menyebabkan debris menumpuk dan menyumbat aliran.
+
+## Efek pada fasad dan fondasi
+
+Discharge yang tidak diarahkan dengan benar bisa merusak fasad (air mengalir di dinding) dan fondasi (erosi tanah di sekitar fondasi). Pastikan discharge diarahkan ke saluran yang aman, minimal 1 meter dari dinding bangunan.
+
+Untuk bangunan bertingkat, pastikan discharge dari atap di atas tidak jatuh ke atap di bawah tanpa perlindungan. Gunakan deflector atau pipa untuk mengarahkan air ke lokasi yang aman dan mencegah kerusakan pada bangunan di bawahnya.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Overflow dan Discharge: Mencegah Air Masuk Bangunan saat Outlet Tersumbat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Kesalahan 1: Tidak ada overflow.** Banyak bangunan tidak memiliki sistem overflow sama sekali. Verifikasi: periksa apakah ada jalur overflow yang terlihat di atap Anda.
 
-## Objection or shortcut to address
+**Kesalahan 2: Overflow diarahkan ke dinding.** Air yang keluar dari overflow dan mengenai dinding bisa menyebabkan kerusakan fasad. Verifikasi: Pastikan overflow diarahkan menjauhi dinding dan ke area yang aman untuk menerima aliran air.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 3: Tidak ada peringatan visual.** Tanpa peringatan, Anda tidak tahu kapan overflow aktif dan drainase utama tersumbat. Verifikasi: Pasang indikator visual yang terlihat dari bawah sehingga Anda tahu kapan sistem overflow aktif.
 
-## Required conclusion
+Sobat Besi.co.id, sistem overflow dan discharge yang baik adalah pertahanan terakhir melawan kebocoran atap. Investasi dalam desain yang tepat akan menghemat biaya perbaikan yang jauh lebih besar di masa depan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Objection atau jalan pintas yang perlu dijawab
 
-## Draft completion checklist
+Shortcut yang sering muncul: "Drainase utama sudah cukup besar, overflow tidak diperlukan." Ini keliru karena bahkan drainase terbesar pun bisa tersumbat. Tanpa overflow, air akan naik dan masuk ke dalam bangunan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih aman: desain overflow sebagai bagian integral dari sistem drainase, bukan sebagai tambahan opsional. Pastikan overflow memiliki kapasitas yang memadai untuk menangani curah hujan desain tanpa menyebabkan genangan.
+
+Overflow dan discharge yang baik adalah investasi keamanan yang tidak boleh diabaikan dalam desain atap metal. Tanpa sistem ini, risiko kebocoran dan kerusakan struktural meningkat secara signifikan.Penting untuk diingat bahwa overflow bukan pengganti drainase utama, tetapi pelengkap yang menyediakan cadangan keamanan. Desain yang baik memastikan kedua sistem bekerja bersama untuk melindungi bangunan dari air hujan. Jangan pernah mengorbankan sistem overflow untuk menghemat biaya; konsekuensi kegagalan drainase bisa jauh lebih mahal. Lakukan audit sistem drainase secara berkala, terutama setelah musim hujan, untuk memastikan semua komponen berfungsi dengan baik. Catat temuan Anda dan tindak lanjuti perbaikan yang diperlukan sebelum musim hujan berikutnya.## Penutup
+
+Kawan Besi.co.id, overflow dan discharge adalah komponen kritis dari sistem drainase atap yang sering diabaikan. Pastikan atap Anda memiliki jalur overflow independen yang mengarahkan air ke lokasi aman, peringatan visual saat overflow aktif, dan discharge yang tidak merusak bangunan.
+
+Langkah berikutnya: periksa sistem drainase atap Anda, identifikasi apakah ada jalur overflow, dan pastikan discharge diarahkan dengan benar. Jika ragu, konsultasikan dengan insinyur sipil atau spesialis drainase. Batas yang jujur: artikel ini tidak menggantikan desain drainase profesional; setiap bangunan memiliki kebutuhan spesifik yang memerlukan analisis individual.

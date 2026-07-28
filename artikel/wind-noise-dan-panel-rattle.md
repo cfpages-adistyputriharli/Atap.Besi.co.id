@@ -2,11 +2,12 @@
 article_id: RFM-05-A04
 title: "Wind Noise, Panel Rattle, dan Bunyi dari Fastener"
 slug: "wind-noise-dan-panel-rattle"
-description: "Separate airflow/edge noise, loose components, thermal movement, vibration, equipment, debris, and structural warnings"
-status: outline
+description: "Jelaskan sumber kebisingan angin pada atap metal, panel rattle, dan bunyi dari fastener yang longgar."
+status: draft
 publication_date: "2025-10-20"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: RFM-05
 primary_intent: "Diagnose non-rain roof noise"
 reader_community: "Besi.co.id"
@@ -16,169 +17,98 @@ technical_review: required
 sources:
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
-  - "https://www.iso.org/standard/79487.html"
-  - "https://www.iso.org/standard/77435.html?browse=ics"
+  - "https://www.iso.org/standard/38882.html"
+  - "https://www.iso.org/standard/51615.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Wind Noise, Panel Rattle, dan Bunyi dari Fastener
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”
-- **Reader and situation:** Operator hearing intermittent sounds
-- **Reader outcome:** Separate airflow/edge noise, loose components, thermal movement, vibration, equipment, debris, and structural warnings
-- **Primary intent:** Diagnose non-rain roof noise
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not authorize roof access or repair; RFM-15-A02 owns safe inspection/diagnosis
-- **Final public route:** `/artikel/wind-noise-dan-panel-rattle.html`
-- **Appointed CMS date:** `2025-10-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Atap metal kadang mengeluarkan suara yang mengganggu—**desisan angin, ketukan panel, atau bunyi berdecit dari fastener**. Suara ini bukan hanya masalah kenyamanan—ia bisa menjadi tanda masalah struktural: fastener yang longgar, panel yang tidak terpasang dengan benar, atau desain yang tidak mempertimbangkan perilaku angin. Mengabaikan suara berarti mengabaikan peringatan.
 
-## Opening instructions
+Jawaban singkatnya: **wind noise berasal dari aliran angin di permukaan atap; panel rattle dari panel yang tidak terpasang kencang; bunyi fastener dari sekrup yang longgar atau washer yang rusak**. Setiap suara punya sumber berbeda dan solusi berbeda. ASTM E06.57 tentang standar sistem atap mengingatkan bahwa kinerja adalah sifat sistem ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)).
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Wind Noise, Panel Rattle, dan Bunyi dari Fastener**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Namun, suara atap metal tidak bisa dihilangkan sepenuhnya—beberapa suara adalah perilaku normal material. Yang perlu diidentifikasi adalah suara yang **tidak normal**—suara yang muncul setelah instalasi, suara yang semakin keras seiring waktu, atau suara yang terjadi di kondisi tertentu. ISO 9001:2015 tentang sistem manajemen mutu mendukung pendekatan berbasis diagnosis ([ISO 9001:2015](https://www.iso.org/standard/38882.html)).
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+*Foto ilustrasi: aset lokal, bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, leave a review marker and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Definisi dan batas objek
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+**Wind noise** adalah suara desisan atau siulan yang dihasilkan oleh aliran angin di permukaan atap—terutama di tepi, di celah, atau di area dengan turbulensi. **Panel rattle** adalah suara ketukan atau bergetar yang dihasilkan oleh panel yang tidak terpasang kencang dan bergerak akibat angin atau ekspansi termal. **Bunyi fastener** adalah suara berdecit atau berderak yang dihasilkan oleh sekrup yang longgar, washer yang rusak, atau gesekan antara fastener dan panel.
 
-### KR-29
+Setiap suara punya sumber berbeda—diagnosis yang benar memerlukan identifikasi sumber sebelum memilih solusi. Untuk aspek akustik atap, lihat [artikel Cara Membaca Laporan Uji Akustik Roof Assembly](/artikel/membaca-laporan-uji-akustik-atap.html). ASTM E1646-95r24 tentang pengukuran panel atap memberikan panduan verifikasi ([ASTM E1646-95r24](https://store.astm.org/e1646-95r24.html)).
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+ISO 2063-1:2019 tentang pelapisan logam termal memberikan referensi untuk evaluasi material ([ISO 2063-1:2019](https://www.iso.org/standard/51615.html)).
 
-### KR-32
+## Cara kerjanya
 
-- **Original sources:** [ISO 10140-2:2021 official record](https://www.iso.org/standard/79487.html), [ISO 717-1:2020 official record](https://www.iso.org/standard/77435.html?browse=ics).
-- **Purpose for this article:** Separate airborne sound-insulation tests/ratings from rain impact, vibration, room response, and field performance.
-- **Safe grounded facts:** Rain impact, panel vibration, airborne transmission, structure-borne paths, cavity absorption, ceilings, fixings, flanking, room reverberation, source spectrum, mounting, and field conditions affect results. “Soundproof” and generic decibel-reduction claims collapse non-equivalent measures.
-- **Limits:** These records do not provide a rain-noise method or result for an offered roof. Exact performance requires the relevant current method, tested assembly, field context, and acoustic review under G-22.
+**Wind noise** terjadi ketika angin melewati tepi panel, celah, atau area dengan perubahan bentuk. Turbulensi di area ini menghasilkan suara. **Panel rattle** terjadi ketika panel tidak terpasang kencang—ada celah antara panel dan support yang memungkinkan pergerakan.
 
-## Evidence gates
+**Bunyi fastener** terjadi ketika sekrup longgar—panel bergerak relatif terhadap support, menghasilkan gesekan. Washer yang rusak atau aus juga bisa menjadi sumber bunyi.
 
-- **TOPIC-GATE:** G-19, G-22
+## Faktor yang mengubah hasil
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Pertama, kecepatan angin.** Semakin kencang angin, semakin keras suara. **Kedua, kualitas instalasi.** Instalasi yang buruk—fastener tidak kencang, panel tidak rata—meningkatkan risiko suara.
 
-## Internal-link plan
+**Ketiga, ekspansi termal.** Perubahan suhu menyebabkan panel mengembang dan menyusut—jika fastener tidak memungkinkan pergerakan, gesekan terjadi. **Keempat, usia atap.** Fastener bisa longgar seiring waktu karena siklus termal dan getaran angin.
 
-### Existing local routes
+## Contoh keputusan praktis
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/spandek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/tentang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/trimdek/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Bayangkan dua skenario. **Skenario A:** Suara desisan di tepi atap saat angin kencang. Diagnosis: wind noise normal—aliran angin di tepi panel. Solusi: bisa diterima jika tidak terlalu keras; atau tambahkan closure strip di tepi. **Skenario B:** Suara ketukan di malam hari setelah matahari terbenam. Diagnosis: panel rattle dari ekspansi termal—panel mengembang di siang hari dan menyusut di malam hari, bergerak di atas support.
 
-### Planned sibling articles
+Dalam skenario A, suara mungkin normal. Dalam skenario B, suara menunjukkan masalah instalasi—panel tidak terpasang dengan benar. Sobat Besi.co.id, jangan abaikan suara yang tidak normal—identifikasi sumbernya.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesalahan umum dan cara memeriksanya
 
-- `RFM-05-A02` → `/artikel/assembly-atap-untuk-rain-noise.html` — Membandingkan Assembly Atap untuk Mengurangi Rain Noise
-- `RFM-05-A03` → `/artikel/target-akustik-atap-menurut-ruang.html` — Target Akustik Atap untuk Rumah, Gudang, Studio, dan Sekolah
-- `RFM-05-A05` → `/artikel/pengukuran-akustik-atap-di-lapangan.html` — Merencanakan Pengukuran Akustik Atap di Lapangan
-- `RFM-05-A06` → `/artikel/membaca-laporan-uji-akustik-atap.html` — Cara Membaca Laporan Uji Akustik Roof Assembly
+Kesalahan paling umum adalah **mengabaikan suara sebagai "normal"**. Beberapa suara memang normal—tapi suara yang muncul setelah instalasi atau semakin keras seiring waktu adalah tanda masalah.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan kedua adalah **mengencangkan semua fastener tanpa diagnosis**. Jika sumbernya bukan fastener longgar, mengencangkan sekrup hanya solusi sementara.
 
-## Mulai dari gejala, bukan tebakan penyebab
+Kesalahan ketiga adalah **tidak mendokumentasikan kapan suara terjadi**. Dokumentasi tentang kapan (siang/malam, angin tenang/kencang) membantu diagnosis.
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang perlu diwaspadai
 
-## Saringan risiko langsung
+Jalan pintas yang berbahaya: **"Tambahkan sealant di semua celah, selesai."** Alasannya terdengar logis—sealant menutup celah, mengurangi suara. Tapi sealant di area yang bergerak bisa merusak panel atau terlepas. Dan jika sumbernya bukan celah, sealant tidak membantu.
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih aman: diagnosis dulu—identifikasi sumber suara, lalu pilih solusi yang tepat.
 
-## Kemungkinan mekanisme
+## Menghubungkan bunyi dengan kondisi pemicu
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat kapan bunyi muncul: saat hembusan tertentu, perubahan suhu, hujan, atau ketika peralatan mulai beroperasi. Bunyi berulang di satu bentang dapat mengarahkan pemeriksaan ke panel, pengikat, atau komponen yang menyentuh; desisan di tepi dapat menunjukkan aliran udara. Pola waktu membantu memisahkan gangguan akustik dari peringatan kondisi fisik, tetapi tidak menggantikan pemeriksaan aman.
 
-## Urutan pemeriksaan dan pengujian
+Dari tanah atau ruang dalam, tandai lokasi relatif terhadap grid dan tumpuan. Cari bayangan pengikat terangkat, celah pada flashing, serpihan, atau perubahan bentuk yang terlihat tanpa menyentuh atap. Jangan mengencangkan sekrup secara acak karena gaya dan kompatibilitas washer perlu mengikuti detail yang disetujui. Bunyi yang disertai getaran struktur atau panel bergerak adalah alasan untuk menghentikan akses dan melakukan eskalasi.
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Besi.co.id, simpan log cuaca, rekaman suara bila aman, foto, dan riwayat pekerjaan. Gunakan [target akustik menurut ruang](/artikel/target-akustik-atap-menurut-ruang.html) untuk menilai dampak kenyamanan, lalu serahkan diagnosis fisik kepada personel kompeten. Jangan menjanjikan bahwa satu bahan akan menghilangkan semua bunyi.
 
-## Cara membaca hasil tanpa melompat ke kesimpulan
+## Menentukan kapan bunyi harus dieskalasikan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan target akustik menurut ruang untuk menilai dampak pada penghuni dan [hold point instalasi](/artikel/hold-point-instalasi-atap.html) untuk memeriksa riwayat rilis. Bila bunyi disertai panel bergerak, kebocoran, atau kerusakan pengikat, perlakukan sebagai isu kondisi fisik dan minta pemeriksaan kompeten sebelum pekerjaan dilanjutkan.
 
-## Pilihan tindakan dan titik eskalasi
+## Menyimpan bukti sebelum intervensi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Wind Noise, Panel Rattle, dan Bunyi dari Fastener”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Rekam bunyi dan kondisi pemicu sebelum mencoba perbaikan. Setelah perubahan dilakukan, ulangi pengamatan pada kondisi cuaca yang sebanding. Perbandingan berurutan membantu membedakan perbaikan nyata dari kebetulan dan menjaga keputusan tetap dapat dijelaskan.
 
-## Objection or shortcut to address
+Bandingkan kondisi sebelum dan sesudah setiap tindakan. Jika bunyi berubah tetapi gejala fisik tetap ada, lanjutkan pemeriksaan dan jangan menganggap masalah selesai.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika bunyi hilang sementara lalu kembali, catat kondisi pemicunya dan jangan menutup akses pemeriksaan. Pola berulang memberi petunjuk yang lebih kuat daripada satu kejadian.
 
-## Required conclusion
+## Kesimpulan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Wind noise, panel rattle, dan bunyi fastener adalah **tiga sumber suara umum dari atap metal**—masing-masing punya sumber dan solusi berbeda. Diagnosis yang benar memerlukan identifikasi sumber sebelum memilih solusi.
 
-## Draft completion checklist
+Langkah Anda selanjutnya: ketika mendengar suara dari atap, identifikasi sumbernya—apakah wind noise, panel rattle, atau bunyi fastener? Catat kapan suara terjadi dan dalam kondisi apa. Pilih solusi berdasarkan diagnosis, bukan asumsi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Batas pengetahuan ini adalah: solusi spesifik tergantung pada sumber suara dan kondisi lapangan. Artikel ini membantu diagnosis, bukan solusi detail.

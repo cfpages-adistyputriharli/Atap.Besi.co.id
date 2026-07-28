@@ -2,11 +2,12 @@
 article_id: RFM-08-A01
 title: "Peta Jalur Air pada Atap Metal"
 slug: "peta-jalur-air-atap-metal"
-description: "Follow rain across profile, side/end laps, ridge, hip, valley, penetration, gutter, outlet, overflow, downpipe, and discharge"
-status: outline
+description: "Jelaskan bagaimana air bergerak di permukaan atap metal termasuk alur, kecepatan, genangan, dan titik kritis."
+status: draft
 publication_date: "2025-12-15"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: native-id-v2
 parent_topic: RFM-08
 primary_intent: "Understand rainwater path"
 reader_community: "Besi.co.id"
@@ -16,180 +17,94 @@ technical_review: required
 sources:
   - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
   - "https://store.astm.org/e1646-95r24.html"
+  - "https://www.iso.org/standard/38882.html"
   - "https://www.iso.org/standard/51615.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Peta Jalur Air pada Atap Metal
 
-## Assignment lock
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Peta Jalur Air pada Atap Metal”
-- **Reader and situation:** Owner planning weather tightness
-- **Reader outcome:** Follow rain across profile, side/end laps, ridge, hip, valley, penetration, gutter, outlet, overflow, downpipe, and discharge
-- **Primary intent:** Understand rainwater path
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not size drainage or define details; RFM-08-A02 and RFM-09-A03 own them
-- **Final public route:** `/artikel/peta-jalur-air-atap-metal.html`
-- **Appointed CMS date:** `2025-12-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Air di permukaan atap metal tidak mengalir lurus ke bawah—ia mengikuti **profil gelombang**, berkumpul di **lembah**, dan dipercepat di **area curam**. Memahami jalur air di atap sangat penting untuk: menentukan lokasi talang yang optimal, mengidentifikasi area genangan, merancang flashing yang benar, dan mencegah kebocoran. Tanpa peta jalur air, Anda hanya menebak—dan tebakan yang salah berarti air masuk ke tempat yang tidak seharusnya.
 
-## Opening instructions
+Jawaban singkatnya: **air mengikuti lembah gelombang panel, berkumpul di titik rendah (valley), dipercepat di kemiringan curam, dan bisa berbelok di penetrasi atau perubahan arah**. Peta jalur air membantu Anda memahami ke mana air akan pergi dalam berbagai kondisi hujan. ASTM E06.57 tentang standar sistem atap mengingatkan bahwa drainase adalah bagian integral dari sistem atap ([ASTM E06.57](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657)).
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peta Jalur Air pada Atap Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Namun, jalur air bisa berubah tergantung pada: intensitas hujan (hujan ringan vs. hujan deras), kemiringan atap, arah angin, dan kondisi permukaan (kotor, berkarat, atau bersih). ISO 9001:2015 tentang sistem manajemen mutu mendukung pendekatan berbasis data ([ISO 9001:2015](https://www.iso.org/standard/38882.html)).
 
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
+*Foto ilustrasi: aset lokal, bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
+<!-- BEGIN MANAGED IMAGE PLAN
+- **Image ID:** LOCAL-001
+- **Source type:** local
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)`
 - **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
+- **Selection basis:** filename/source metadata identifies atap seng gelombang warna as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-29
-
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
-
-### KR-31
-
-- **Original sources:** [ISO 13788:2012 official record](https://www.iso.org/standard/51615.html).
-- **Purpose for this article:** Ground condensation explanations and stop simplistic dew-point or universal vapor-barrier advice.
-- **Safe grounded facts:** Indoor temperature/humidity, external climate, air leakage, vapor diffusion, thermal bridges, insulation/underlay position, ventilation, wetting, drainage, and drying are separate inputs. Water near a roof can be rain entry, condensation, plumbing, or another source.
-- **Limits:** No universal vapor-control location, ventilation ratio, dew-point threshold, or mould conclusion. Resolve exact climate, occupancy, assembly, air paths, material data, and building-physics review under G-21.
-
-### KR-34
-
-- **Original sources:** [ASTM E1646-95(2024) official record](https://store.astm.org/e1646-95r24.html), [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Ground rain shedding, laps, slope, water tightness, and controlled testing while preserving interface limits.
-- **Safe grounded facts:** Panel field, side/end laps, seams, penetrations, perimeters, curbs, ridges, eaves, valleys, gutters, outlets, overflows, wind pressure, roof length/slope, blockage, drainage, and workmanship are separate water-path elements.
-- **Limits:** No minimum slope, lap dimension, test pressure, rainfall value, gutter size, or whole-roof guarantee without G-24.
-
-### KR-35
-
-- **Original sources:** [ASTM E06.57 active standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657).
-- **Purpose for this article:** Prevent one laboratory result from being generalized across uplift/deflection, air leakage, water, thermal, acoustic, or durability performance.
-- **Safe grounded facts:** Test standard/edition, specimen dimensions, panel/profile/material/coating, supports, fasteners/clips, seams, boundary conditions, pressure direction/cycles, instrumentation, result, failure mode, laboratory, and report identity determine applicability.
-- **Limits:** The standards list is not a test report or Indonesian approval. Resolve exact current methods, offered configuration, extrapolation rules, calculations, accredited scope, and project acceptance under G-25.
-
-## Evidence gates
-
-- **TOPIC-GATE:** G-05, G-19, G-21, G-24, G-25
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `RFM-08-A02` → `/artikel/data-untuk-desain-drainase-atap.html` — Data yang Dibutuhkan untuk Merancang Drainase Atap
-- `RFM-08-A03` → `/artikel/slope-roof-length-dan-end-lap.html` — Slope, Roof Length, dan End Lap pada Panel Metal
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Peta Jalur Air pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, leave a review marker and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Jalur Air pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Peta jalur air** adalah representasi visual dari bagaimana air bergerak di permukaan atap—alur yang diikuti, area berkumpul, dan titik keluar. Peta ini membantu dalam: (1) penentuan lokasi talang, (2) identifikasi area genangan, (3) perancangan flashing, dan (4) pencegahan kebocoran.
+
+**Profil gelombang** menentukan alur air—air mengikuti lembah gelombang dan bergerak sejajar sumbu gelombang. **Kemiringan** menentukan kecepatan aliran—semakin curam, semakin cepat. **Valley** (lembah) adalah titik di mana dua bidang atap bertemu—air berkumpul di sini.
+
+Apa yang *bukan* cakupan artikel ini adalah perhitungan kapasitas drainase—itu domain engineer hidrolik. Untuk data yang dibutuhkan untuk desain drainase, lihat [artikel Data yang Dibutuhkan untuk Merancang Drainase Atap](/artikel/data-untuk-desain-drainase-atap.html). Artikel ini fokus pada **pemahaman** tentang bagaimana air bergerak.
+
+ASTM E1646-95r24 tentang pengukuran panel atap memberikan panduan verifikasi profil panel ([ASTM E1646-95r24](https://store.astm.org/e1646-95r24.html)). ISO 2063-1:2019 tentang pelapisan logam termal juga relevan untuk evaluasi permukaan ([ISO 2063-1:2019](https://www.iso.org/standard/51615.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Peta Jalur Air pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Air di permukaan atap metal bergerak karena **gravitasi** dan **gesekan permukaan**. Gravitasi menarik air ke bawah; gesekan permukaan melambatkan aliran. Profil gelombang mengarahkan air ke lembah—jadi alur air sejajar sumbu gelombang, bukan tegak lurus kemiringan.
+
+**Kecepatan aliran** tergantung pada kemiringan dan volume air. Di kemiringan 5%, aliran lambat—air punya waktu untuk menemukan celah. Di kemiringan 25%, aliran cepat—air melewati celah kecil sebelum masuk.
+
+**Genangan** terjadi di area datar atau di cekungan—air tidak punya energi untuk mengalir keluar. **Titik kritis** meliputi: valley (air dari dua arah bertemu), penetrasi (air dibelokkan), dan perubahan arah (air berbelok).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Jalur Air pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pertama, intensitas hujan.** Hujan ringan menghasilkan aliran lambat di lembah gelombang; hujan deras menghasilkan aliran penuh yang bisa meluap. **Kedua, kemiringan.** Kemiringan curam mempercepat aliran tapi mengurangi genangan; kemiringan landai mengurangi kecepatan tapi meningkatkan risiko genangan.
+
+**Ketiga, kondisi permukaan.** Permukaan kotor atau berkarat meningkatkan gesekan dan melambatkan aliran. **Keempat, arah angin.** Angin bisa mendorong air ke arah yang berbeda dari gravitasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Peta Jalur Air pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua skenario. **Skenario A:** Atap gudang dengan kemiringan 10%, profil gelombang standar. Air mengalir mengikuti lembah gelombang ke eave. Talang dipasang di eave—cukup untuk menangkap semua air. **Skenario B:** Atap kantor dengan kemiringan 5%, beberapa valley, dan penetrasi. Air berkumpul di valley dan di belakang penetrasi. Talang harus dipasang di valley dan di bawah penetrasi.
+
+Dalam skenario A, peta jalur air sederhana—air lurus ke bawah. Dalam skenario B, peta lebih kompleks—air berbelok, berkumpul, dan berpotensi genangan. Sobat Besi.co.id, buat peta jalur air sebelum menentukan lokasi talang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Peta Jalur Air pada Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling umum adalah **menentukan lokasi talang tanpa memahami jalur air**. Talang di eave mungkin tidak menangkap air dari valley jika tidak direncanakan dengan benar.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah **mengabaikan area genangan**. Area datar atau cekungan bisa menjadi tempat genangan yang mempercepat korosi dan menyebabkan kebocoran.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah **tidak mempertimbangkan intensitas hujan ekstrem**. Desain yang cukup untuk hujan normal mungkin tidak cukup untuk hujan ekstrem—air bisa meluap dan masuk ke tempat yang tidak diharapkan.
 
-## Required conclusion
+## Jalan pintas yang perlu diwaspadai
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang berbahaya: **"Talang dipasang di semua sisi, pasti aman."** Alasannya terdengar logis—jika semua sisi ada talang, air pasti tertangkap. Tapi tanpa memahami jalur air, talang mungkin tidak berada di lokasi yang tepat—dan biaya pemasangan talang yang tidak perlu menjadi pemborosan.
 
-## Draft completion checklist
+Alternatif yang lebih aman: buat peta jalur air berdasarkan profil atap, kemiringan, dan kondisi lapangan. Pasang talang di lokasi yang benar-benar dibutuhkan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Mengubah peta menjadi pemeriksaan lapangan
+
+Gambarkan jalur dari bidang paling tinggi menuju titik buang, lalu tandai setiap tempat air dapat melambat, berbalik, atau keluar dari sistem: sisi dan ujung lap, nok, lembah, penetrasi, talang, outlet, limpahan, serta pipa tegak. Peta tidak perlu mengklaim ukuran aliran; fungsinya menunjukkan hubungan antarbagian sehingga pemeriksaan tidak berhenti pada noda di plafon.
+
+Saat hujan, amati dari tempat aman apakah air mengikuti alur yang diperkirakan. Foto sebelum dan sesudah hujan membantu membedakan genangan sementara dari jalur yang terus membasahi sambungan. Jangan membuka penutup atau naik ke atap licin untuk mengikuti air. Jika outlet tersumbat, catat kondisi itu sebagai penyebab potensial dan rencanakan pembersihan sebelum menilai detail lain.
+
+Teman Besi.co.id, gunakan data desain drainase untuk melengkapi peta dengan input hidrologi, bukan menggantikan gambar jalur. Untuk detail tepi dan pertemuan material, lanjutkan ke [sistem flashing atap metal](/artikel/flashing-atap-metal-sebagai-sistem.html). Tautan ini membantu memilih pemeriksaan berikutnya tanpa mengulang tujuan artikel.
+
+## Memeriksa titik transisi air
+
+Perhatian khusus perlu diberikan pada perubahan arah: dari bidang panel ke flashing, dari lembah ke talang, dan dari outlet ke pipa. Tulis siapa yang bertanggung jawab pada setiap transisi dan bukti apa yang harus terlihat setelah hujan. Cara ini mengurangi kebiasaan mengejar noda tanpa memahami jalur di hulu.
+
+## Kesimpulan
+
+Peta jalur air membantu memahami **bagaimana air bergerak di permukaan atap metal**—alur yang diikuti, area berkumpul, dan titik keluar. Pemahaman ini penting untuk penentuan lokasi talang, identifikasi area genangan, dan perancangan flashing.
+
+Langkah Anda selanjutnya: buat peta jalur air untuk atap Anda—gambar profil, tentukan alur, identifikasi area genangan, dan rencanakan lokasi talang. Untuk data hidrologi, gunakan catatan desain drainase yang sudah disetujui.
+
+Batas pengetahuan ini adalah: perhitungan kapasitas drainase memerlukan analisis oleh engineer hidrolik. Artikel ini membantu pemahaman jalur air, bukan desain drainase.

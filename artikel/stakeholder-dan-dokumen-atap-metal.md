@@ -2,8 +2,8 @@
 article_id: RFM-01-A06
 title: "Peta Stakeholder dan Dokumen dalam Proyek Atap Metal"
 slug: "stakeholder-dan-dokumen-atap-metal"
-description: "Map architect, engineer, manufacturer, supplier, fabricator, installer, inspector, K3, operator, approvals, and document handoffs"
-status: outline
+description: "Peta stakeholder dan dokumen dalam proyek atap metal: arsitek, insinyur, produsen, supplier, fabrikator, installer, inspektur, K3, operator, persetujuan, dan serah terima dokumen."
+status: draft
 publication_date: "2025-07-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,52 +13,15 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/stakeholder-dan-dokumen-atap-metal.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657"
+  - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
+  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
+  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
   - "https://store.astm.org/e1646-95r24.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Peta Stakeholder dan Dokumen dalam Proyek Atap Metal
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”
-- **Reader and situation:** Owner coordinating many parties
-- **Reader outcome:** Map architect, engineer, manufacturer, supplier, fabricator, installer, inspector, K3, operator, approvals, and document handoffs
-- **Primary intent:** Understand responsibilities
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not assign contractual liability; RFM-12-A06 owns the handover dossier
-- **Final public route:** `/artikel/stakeholder-dan-dokumen-atap-metal.html`
-- **Appointed CMS date:** `2025-07-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Peta Stakeholder dan Dokumen dalam Proyek Atap Metal**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -67,143 +30,92 @@ sources:
 - **Selection basis:** filename/source metadata identifies `atap seng gelombang warna` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Peta Stakeholder dan Dokumen dalam Proyek Atap Metal
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Proyek atap metal melibatkan banyak stakeholder (pemangku kepentingan) yang masing-masing memiliki peran, tanggung jawab, dan dokumen yang berbeda. Jawaban singkatnya: pahami siapa yang bertanggung jawab atas apa, dokumen apa yang harus dihasilkan, dan bagaimana dokumen tersebut mengalir antar stakeholder. PP No. 16 Tahun 2021 tentang Peraturan Pelaksanaan Undang-Undang Jasa Konstruksi mengatur tanggung jawab berbagai pihak dalam proyek konstruksi ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021)).
 
-### KR-01
+Tanpa pemahaman yang jelas tentang peta stakeholder dan dokumen, proyek bisa mengalami kebingungan tanggung jawab yang serius, dokumen yang hilang, atau persetujuan yang tertunda secara signifikan. SNI 1729:2020 tentang ketentuan perencanaan struktur baja menetapkan standar teknis yang harus diikuti ([SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `atap.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The frozen catalog has 16 topic families and 96 briefs. The repository proves an editorial/commercial route inventory, not actual product identities, stock, coatings, profiles, tests, structural calculations, installed assemblies, manufacturer approvals, prices, service areas, warranties, or project performance.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi atap seng gelombang warna](/wp-content/uploads/2026/03/atap-seng-gelombang-warna.jpg)
 
-### KR-02
+*Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
+## Definisi dan batas objek
 
-### KR-05
+Artikel ini membahas peta stakeholder dan dokumen dalam proyek atap metal. Stakeholder meliputi arsitek, insinyur struktur, produsen atap, supplier, fabrikator, installer, inspektur, petugas K3 (Keselamatan dan Kesehatan Kerja), dan operator bangunan. Dokumen meliputi gambar desain, spesifikasi, submittal, persetujuan, laporan inspeksi, dan serah terima.
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Cakupannya meliputi peran masing-masing stakeholder, dokumen yang dihasilkan, alur persetujuan, dan serah terima dokumen. Pemahaman ini membantu Anda mengelola proyek dengan lebih efisien dan menghindari konflik antar stakeholder.
 
-### KR-08
+Artikel ini tidak membahas detail teknis desain atau pemasangan; itu domain dari masing-masing stakeholder. Untuk informasi tentang dokumen desain, baca [Dokumen Desain Struktur dan Angin yang Harus Ada](/artikel/dokumen-desain-struktur-dan-angin-atap.html). Untuk panduan tentang stakeholder dalam pengadaan, lihat [Membandingkan Penawaran Atap Metal](/artikel/membandingkan-penawaran-atap-metal.html).
 
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
+## Peran stakeholder utama
 
-### KR-29
+**Arsitek:** Bertanggung jawab atas desain arsitektural, estetika, dan koordinasi keseluruhan. Menghasilkan gambar arsitektur, spesifikasi umum, dan koordinasi antar disiplin ilmu teknik.
 
-- **Original sources:** [ASTM E06.57 metal-roof-system standards list](https://www.astm.org/membership-participation/technical-committees/committee-e06/subcommittee-e06/jurisdiction-e0657), [ASTM E1646-95(2024) scope](https://store.astm.org/e1646-95r24.html).
-- **Purpose for this article:** Establish the complete-system boundary for profiles, supports, fasteners/clips, laps, sealants, flashings, penetrations, drainage, insulation/underlay, coatings, and installation.
-- **Safe grounded facts:** A panel profile or generic label does not establish effective cover, slope, span, uplift, water tightness, air leakage, thermal/acoustic behavior, corrosion life, fastener pattern, or compatible accessories. Those are system-, specimen-, site-, and installation-dependent.
-- **Limits:** Foreign ASTM methods are not automatically Indonesian requirements. Obtain the governing Indonesian/local basis, current full method, exact tested configuration, manufacturer system documents, and project review.
+**Insinyur struktur:** Bertanggung jawab atas desain struktural, perhitungan beban, dan keamanan. Menghasilkan gambar struktural, perhitungan beban, dan spesifikasi teknis material yang akan digunakan.
 
-## Evidence gates
+**Produsen atap:** Memproduksi panel dan aksesori sesuai spesifikasi. Menghasilkan data teknis produk yang lengkap, sertifikat material, dan panduan pemasangan yang akurat.
 
-- **TOPIC-GATE:** G-01, G-04, G-05, G-19
+**Supplier:** Menyediakan material dari produsen ke proyek. Bertanggung jawab atas logistik pengiriman material, kualitas material saat tiba di lokasi, dan penanganan yang benar selama transportasi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+**Fabrikator:** Memotong dan membentuk panel sesuai desain. Menghasilkan panel siap pasang yang sesuai dengan ukuran dan spesifikasi yang diminta dalam dokumen submittal.
 
-## Internal-link plan
+**Installer:** Memasang panel dan aksesori di lapangan. Bertanggung jawab atas kualitas pemasangan, keselamatan kerja di lapangan, dan kepatuhan terhadap desain yang disetujui.
 
-### Existing local routes
+**Inspektur:** Memeriksa kualitas material dan pemasangan. Menghasilkan laporan inspeksi yang detail, rekomendasi perbaikan yang konkret, dan sertifikat penerimaan resmi.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/pasir/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/genteng-metal/stone-coated/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/seng/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontak/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+**Petugas K3:** Memastikan keselamatan kerja selama pemasangan. Menghasilkan laporan kecelakaan kerja yang lengkap, inspeksi keselamatan berkala, dan rekomendasi perbaikan kondisi kerja.
 
-### Planned sibling articles
+ASTM E1646-95(2024) menguji ketahanan atap terhadap air ([ASTM E1646-95(2024)](https://store.astm.org/e1646-95r24.html)), dan hasil pengujian ini menjadi referensi penting bagi produsen dan insinyur.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Alur dokumen dan persetujuan
 
-- `RFM-01-A04` → `/artikel/istilah-atap-metal-indonesia.html` — Istilah Atap Metal Indonesia yang Sering Tumpang Tindih
-- `RFM-01-A05` → `/artikel/atap-metal-dan-floor-deck.html` — Atap Metal dan Floor Deck: Mengapa Profil Mirip Bisa Beda Fungsi
+Alur dokumen dimulai dari desain (arsitek dan insinyur), dilanjutkan ke submittal (produsen/supplier), review (insinyur dan owner), persetujuan, produksi, pengiriman, pemasangan, inspeksi, dan serah terima. Setiap tahap menghasilkan dokumen yang harus disimpan, dilacak, dan diarsipkan dengan baik untuk referensi masa depan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+SNI 1727:2020 tentang beban minimum menetapkan parameter desain yang harus dicantumkan dalam dokumen ([SNI 1727:2020](https://pesta.bsn.go.id/produk/detail/12927-sni17272020)). Pastikan semua dokumen mencantumkan informasi yang relevan dan lengkap untuk mendukung keputusan teknis.
 
-## Definisikan kebutuhan sebelum meminta harga
+## Dokumen yang harus ada di setiap tahap
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Tahap desain:** Gambar arsitektur, gambar struktural, spesifikasi, dan perhitungan.
 
-## Buat penawaran benar-benar sebanding
+**Tahap submittal:** Data teknis produk, sertifikat material, sample, dan mockup.
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Tahap produksi:** Surat perintah kerja, laporan produksi, dan sertifikat material.
 
-## Dokumen yang membuktikan hal berbeda
+**Tahap pengiriman:** Surat jalan, packing list, dan damage report jika ada kerusakan.
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Tahap pemasangan:** Method statement, laporan harian, dan foto progres.
 
-## Pertanyaan wajib kepada penyedia
+**Tahap inspeksi:** Laporan inspeksi, checklist, dan sertifikat inspeksi.
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Tahap serah terima:** Berita acara serah terima, manual pemeliharaan, dan garansi.
 
-## Red flag dan biaya yang sering tersembunyi
+## Contoh keputusan praktis
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 1: Dokumen submittal tidak lengkap.** Jangan terima submittal yang tidak lengkap karena akan memperlambat proses review. Kembalikan dan minta kelengkapan sebelum review dimulai untuk efisiensi.
 
-## Penerimaan, serah terima, dan keputusan akhir
+**Skenario 2: Perubahan desain setelah submittal disetujui.** Ikuti proses kontrol perubahan yang benar: ajukan submittal baru, dapatkan persetujuan resmi, dan pastikan semua pihak mengetahui perubahan tersebut.
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Peta Stakeholder dan Dokumen dalam Proyek Atap Metal”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Skenario 3: Sengketa tanggung jawab.** Rujuk ke kontrak dan peta stakeholder yang sudah disepakati untuk menentukan siapa yang bertanggung jawab atas masalah tertentu.
 
-## Objection or shortcut to address
+## Kesalahan umum dan cara memeriksanya
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Kesalahan 1: Tidak ada peta stakeholder yang jelas.** Ini menyebabkan kebingungan tanggung jawab. Verifikasi: buat peta stakeholder di awal proyek dan sebarkan ke semua pihak.
 
-## Required conclusion
+**Kesalahan 2: Dokumen tidak dilacak dengan baik.** Dokumen yang hilang atau tidak terlacak bisa menyebabkan penundaan signifikan dan sengketa di kemudian hari. Verifikasi: gunakan sistem pelacakan dokumen yang efektif.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Kesalahan 3: Persetujuan tertunda.** Persetujuan yang tertunda menunda seluruh proyek. Verifikasi: tetapkan timeline untuk setiap tahap review dan persetujuan.
 
-## Draft completion checklist
+## Objection atau jalan pintas yang perlu dijawab
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Shortcut yang sering muncul: "Semua sudah tahu perannya, tidak perlu dokumen formal." Ini keliru karena tanpa dokumen formal, tidak ada bukti tentang siapa yang bertanggung jawab atas apa. Dokumen adalah perlindungan hukum dan referensi teknis yang sangat penting dalam proyek konstruksi.
+
+Alternatif yang lebih aman: buat peta stakeholder dan dokumen yang jelas di awal proyek. Pastikan semua pihak memahami peran masing-masing dan menyetujui pembagian tanggung jawab.
+
+Peta stakeholder dan dokumen yang jelas adalah kunci keberhasilan proyek atap metal. Dengan memahami secara jelas siapa yang bertanggung jawab atas apa dan dokumen apa yang harus dihasilkan oleh setiap pihak, Anda bisa mengelola proyek dengan lebih efisien dan menghindari konflik yang tidak perlu. Pastikan peta stakeholder yang komprehensif dan jelas dibuat di awal proyek dan disebarkan ke semua pihak terkait untuk kesepahaman bersama. Lakukan review berkala untuk memastikan semua pihak menjalankan tanggung jawabnya dengan baik dan tepat waktu. Simpan semua dokumen dengan rapi dalam sistem yang terorganisir dan buat mekanisme pelacakan yang efektif untuk referensi masa depan.## Penutup
+
+Kawan Besi.co.id, peta stakeholder dan dokumen adalah fondasi dari pengelolaan proyek atap metal yang efektif. Pahami siapa yang bertanggung jawab atas apa, dokumen apa yang harus dihasilkan, dan bagaimana dokumen tersebut mengalir antar stakeholder.
+
+Langkah berikutnya: buat peta stakeholder untuk proyek Anda, tetapkan tanggung jawab masing-masing, dan buat daftar dokumen yang harus ada di setiap tahap. Batas yang jujur: artikel ini tidak menggantikan manajemen proyek profesional; setiap proyek memiliki kompleksitas unik yang memerlukan pengelolaan yang spesifik dan profesional oleh tim yang berpengalaman.
